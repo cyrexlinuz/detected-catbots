@@ -1,5 +1,5 @@
 # If they have rage lists, we have bots.txt ~ Cyrexlinuz
-# These lists will be updated every 24 hours with new detections.
+# These lists will be updated every 5 minutes with new detections.
 
 [U:1:1175532573] - Waffe‏n-SS
 [U:1:1175625304] - Waff‏en-SS
