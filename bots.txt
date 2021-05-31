@@ -110,7 +110,6 @@
 [U:1:1190429648] - (1)Skunkler
 [U:1:1163306286] - Skunkler
 [U:1:1190197353] - (2)Skunkler
-[U:1:0] - WingsOfGhostsSon
 [U:1:1190309395] - WingsOfGhostsSon
 [U:1:1184486334] - OM์EGATRONIC
 [U:1:1175866128] - Waffe‏n-SS
