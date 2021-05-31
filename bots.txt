@@ -1,5 +1,5 @@
 # If they have rage lists, we have bots.txt ~ Cyrexlinuz
-# These lists will be updated every 5 minutes with new detections.
+# These lists will be updated every day with new detections.
 
 [U:1:1175532573] - Waffe‏n-SS
 [U:1:1175625304] - Waff‏en-SS
@@ -580,3 +580,27 @@
 [U:1:1178798457] - youtu.be/sw9Si9JRsFg
 [U:1:1200652827] - asdfgh
 [U:1:1189066430] - (1)youtu.be/sw9Si9JRsFg
+[U:1:1186792867] - DoesHotter
+[U:1:1163241370] - Miss Maxine
+[U:1:1186261000] - Asriel
+[U:1:1180952774] - (1)DoesHotter
+[U:1:1178509934] - (2)youtu.be/sw9Si9JRsFg
+[U:1:1202064983] - claris
+[U:1:1190679518] - Chicago Cowboy
+[U:1:1183225005] - (1)youtu.be/sw9Si9JRsFg
+[U:1:1168958958] - Zyozz
+[U:1:312316467] - Solly
+[U:1:1190777885] - DadPilled
+[U:1:1190689109] - Hitch Trailblazer
+[U:1:1180952774] - (2)DoesHotter
+[U:1:1180952774] - (2)DoesHotter
+[U:1:1181409968] - DoesHotter
+[U:1:1180952774] - (5)DoesHotter
+[U:1:1190776638] - Asriel
+[U:1:1190679518] - Skunkler
+[U:1:1192415044] - (1)Chicago Cowboy
+[U:1:1180952774] - (1)DoesHotter
+[U:1:1186792867] - DoesHotter
+[U:1:1178509934] - (2)youtu.be/sw9Si9JRsFg
+[U:1:1186792867] - DoesHotter
+[U:1:1180952774] - (1)DoesHotter
