@@ -1,3 +1,5 @@
+# bots.txt - A list of detected cheaters/bots from the casual servers of the game Team Fortress 2
+# Telegram: @cyrexlinuz
 # If they have rage lists, we have bots.txt ~ Cyrexlinuz
 # These lists will be updated every day with new detections.
 
@@ -604,3 +606,15 @@
 [U:1:1178509934] - (2)youtu.be/sw9Si9JRsFg
 [U:1:1186792867] - DoesHotter
 [U:1:1180952774] - (1)DoesHotter
+[U:1:1215275142] - Boo :3
+[U:1:1131414867] - (1)DadPilled
+[U:1:1215338340] - Cr@zy Frog!
+[U:1:1215137278] - OneTrick
+[U:1:1214676937] - OneTrick
+[U:1:1186114062] - WingsOfGhostsSon
+[U:1:1131951259] - Skunkler
+[U:1:1175702581] - W‏‏‏a‏‏‏ffen-SS
+[U:1:1215391063] - (1)DoesHotter
+[U:1:1214367103] - Sympathy for the Devil
+[U:1:192988971] - paska1
+[U:1:1205396836] - Stryker
