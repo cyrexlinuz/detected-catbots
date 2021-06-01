@@ -3,8 +3,8 @@
 # If they have rage lists, we have bots.txt ~ Cyrexlinuz
 # These lists will be updated every day with new detections.
 
-[U:1:1175532573] - Waffe‏n-SS
-[U:1:1175625304] - Waff‏en-SS
+[U:1:1175532573] - Waffen-SS
+[U:1:1175625304] - Waffen-SS
 [U:1:1190383933] - Peppermint Swirl
 [U:1:1186273890] - MAGA Brony
 [U:1:1177278809] - Chicago Cowboy
@@ -22,35 +22,35 @@
 [U:1:1163015957] - Miss Maxine
 [U:1:1190255349] - Hitch Trailblazer
 [U:1:1190589460] - Skunkler
-[U:1:1175866128] - Waffe‏n-SS
-[U:1:1188956534] - OMืEGATRONIC
-[U:1:1204774996] - OMEGATR๎ONIC
+[U:1:1175866128] - Waffen-SS
+[U:1:1188956534] - OMEGATRONIC
+[U:1:1204774996] - OMEGATRONIC
 [U:1:1111508181] - [VALVE]Nigerkiller
 [U:1:1179610566] - Peppermint Swirl
 [U:1:1215145434] - crzy frog
-[U:1:1184562789] - OMEGATRุONIC
-[U:1:1184546002] - OMEGATRON่IC
+[U:1:1184562789] - OMEGATRONIC
+[U:1:1184546002] - OMEGATRONIC
 [U:1:846439685] - GOFUND.ME/15b3a067
-[U:1:1188797888] - OMEGATRONI็C
+[U:1:1188797888] - OMEGATRONIC
 [U:1:1181118459] - DoesHotter
-[U:1:1175866128] - Waffe‏n-SS
+[U:1:1175866128] - Waffen-SS
 [U:1:1181043450] - (1)DoesHotter
 [U:1:891664587] - DoesHotter
 [U:1:1183245905] - youtu.be/sw9Si9JRsFg
 [U:1:1215548379] - crazyfrog
-[U:1:1184777618] - O๋MEGATRONIC
-[U:1:1188015629] - OMEGATR์ONIC
-[U:1:1188968541] - OMุEGATRONIC
-[U:1:1187897930] - OMEGATRONICึ
-[U:1:1184562789] - OMEGATROืNIC
+[U:1:1184777618] - OMEGATRONIC
+[U:1:1188015629] - OMEGATRONIC
+[U:1:1188968541] - OMEGATRONIC
+[U:1:1187897930] - OMEGATRONIC
+[U:1:1184562789] - OMEGATRONIC
 [U:1:1192551629] - youtu.be/sw9Si9JRsFg
 [U:1:1148452267] - [VALVE]Nigerkiller
-[U:1:1184265137] - OMEGATRONIC๎
-[U:1:1204636437] - OMEํGATRONIC
-[U:1:1204765414] - OME๋GATRONIC
-[U:1:1185728881] - OMEGATRONI๋C
+[U:1:1184265137] - OMEGATRONIC
+[U:1:1204636437] - OMEGATRONIC
+[U:1:1204765414] - OMEGATRONIC
+[U:1:1185728881] - OMEGATRONIC
 [U:1:1215302001] - [VALVE] Crazy Gape Newell
-[U:1:1187897930] - OMEGAฺTRONIC
+[U:1:1187897930] - OMEGATRONIC
 [U:1:1179754117] - Peppermint Swirl
 [U:1:1133395216] - (1)Chicago Cowboy
 [U:1:1130618838] - Asriel
@@ -64,13 +64,13 @@
 [U:1:1192551629] - (3)youtu.be/sw9Si9JRsFg
 [U:1:1181622461] - (2)youtu.be/sw9Si9JRsFg
 [U:1:1146285081] - [VALVE]Nigerkiller
-[U:1:1204774996] - OMEG๋ATRONIC
-[U:1:1204507448] - OMEGATRONICี
-[U:1:1204774996] - OMEG๋ATRONIC
-[U:1:1188956534] - OMEGAํTRONIC
-[U:1:1188015629] - OMEGAT้RONIC
-[U:1:1204912480] - OMืEGATRONIC
-[U:1:1204507448] - OMEGATRONICี
+[U:1:1204774996] - OMEGATRONIC
+[U:1:1204507448] - OMEGATRONIC
+[U:1:1204774996] - OMEGATRONIC
+[U:1:1188956534] - OMEGATRONIC
+[U:1:1188015629] - OMEGATRONIC
+[U:1:1204912480] - OMEGATRONIC
+[U:1:1204507448] - OMEGATRONIC
 [U:1:1181622461] - (9)youtu.be/sw9Si9JRsFg
 [U:1:1178095655] - (2)youtu.be/sw9Si9JRsFg
 [U:1:1181630412] - (8)youtu.be/sw9Si9JRsFg
@@ -98,28 +98,28 @@
 [U:1:1185985205] - Asriel
 [U:1:1131124396] - Skunkler
 [U:1:1093654566] - GOFUND.ME/15b3a067
-[U:1:1187638538] - OMEิGATRONIC
+[U:1:1187638538] - OMEGATRONIC
 [U:1:1140188230] - (1)[VALVE]Nigerkiller
 [U:1:1199140175] - [VALVE]Nigerkiller
 [U:1:1148632109] - [VALVE]Nigerkiller
 [U:1:1202156252] - claris
 [U:1:1155478934] - Stryker
-[U:1:1184265137] - OMEGA์TRONIC
+[U:1:1184265137] - OMEGATRONIC
 [U:1:1214785430] - Stryker
 [U:1:1155528312] - (1)Stryker
-[U:1:1188015629] - OMEG๊ATRONIC
+[U:1:1188015629] - OMEGATRONIC
 [U:1:1192413799] - (1)MAGA Brony
 [U:1:1190429648] - (1)Skunkler
 [U:1:1163306286] - Skunkler
 [U:1:1190197353] - (2)Skunkler
 [U:1:1190309395] - WingsOfGhostsSon
-[U:1:1184486334] - OM์EGATRONIC
-[U:1:1175866128] - Waffe‏n-SS
+[U:1:1184486334] - OMEGATRONIC
+[U:1:1175866128] - Waffen-SS
 [U:1:1192608628] - youtu.be/sw9Si9JRsFg
 [U:1:1183364688] - youtu.be/sw9Si9JRsFg
 [U:1:1181639347] - (1)youtu.be/sw9Si9JRsFg
-[U:1:1175527318] - W‏affen-SS
-[U:1:1184777618] - O๋MEGATRONIC
+[U:1:1175527318] - Waffen-SS
+[U:1:1184777618] - OMEGATRONIC
 [U:1:1179347786] - Miss Maxine
 [U:1:1179675038] - (1)Peppermint Swirl
 [U:1:1190657302] - Hitch Trailblazer
@@ -128,7 +128,7 @@
 [U:1:1192413799] - DadPilled
 [U:1:1130921580] - (1)Miss Maxine
 [U:1:1190529226] - Chicago Cowboy
-[U:1:1185728881] - OMEGATRONIฺC
+[U:1:1185728881] - OMEGATRONIC
 [U:1:1181065911] - DoesHotter
 [U:1:1181222831] - (2)DoesHotter
 [U:1:891664587] - (3)DoesHotter
@@ -170,11 +170,11 @@
 [U:1:1183816849] - (1)DoesHotter
 [U:1:1183523785] - (2)DoesHotter
 [U:1:1181381745] - (1)DoesHotter
-[U:1:1204774996] - OMEGATRONICู
+[U:1:1204774996] - OMEGATRONIC
 [U:1:1176179845] - (3)DoesHotter
 [U:1:1215663494] - Annoying Frog
 [U:1:891664587] - (4)DoesHotter
-[U:1:1185728881] - OMEฺGATRONIC
+[U:1:1185728881] - OMEGATRONIC
 [U:1:1176118489] - DoesHotter
 [U:1:1181381745] - DoesHotter
 [U:1:1180890751] - (1)DoesHotter
@@ -183,10 +183,10 @@
 [U:1:1186273890] - WingsOfGhostsSon
 [U:1:1190452877] - (1)WingsOfGhostsSon
 [U:1:1190794180] - Skunkler
-[U:1:1204912480] - OMืEGATRONIC
-[U:1:1188015629] - OMEGAT้RONIC
-[U:1:1204774996] - OMEG๋ATRONIC
-[U:1:1188956534] - OMEGAํTRONIC
+[U:1:1204912480] - OMEGATRONIC
+[U:1:1188015629] - OMEGATRONIC
+[U:1:1204774996] - OMEGATRONIC
+[U:1:1188956534] - OMEGATRONIC
 [U:1:1180890751] - DoesHotter
 [U:1:1192251500] - youtu.be/sw9Si9JRsFg
 [U:1:1215476748] - Scout is CRAZY FROG
@@ -200,9 +200,9 @@
 [U:1:1188746413] - (3)youtu.be/sw9Si9JRsFg
 [U:1:1183380907] - (4)youtu.be/sw9Si9JRsFg
 [U:1:103694693] - CRAZY FROG
-[U:1:116453236] - CRAZY FROG‏
-[U:1:113829888] - CRAZY ‏FROG
-[U:1:157010330] - CRAZY‏ FROG
+[U:1:116453236] - CRAZY FROG
+[U:1:113829888] - CRAZY FROG
+[U:1:157010330] - CRAZY FROG
 [U:1:1189264453] - youtu.be/sw9Si9JRsFg
 [U:1:1181065911] - DoesHotter
 [U:1:1181222831] - (2)DoesHotter
@@ -214,7 +214,7 @@
 [U:1:1183816849] - (2)DoesHotter
 [U:1:1181172014] - (3)DoesHotter
 [U:1:1215926707] - Bot Extermination Services
-[U:1:1188015629] - O์MEGATRONIC
+[U:1:1188015629] - OMEGATRONIC
 [U:1:1215545491] - Crazy Frogg
 [U:1:1190744477] - (1)WingsOfGhostsSon
 [U:1:1190307591] - WingsOfGhostsSon
@@ -223,26 +223,26 @@
 [U:1:1215462604] - Tiny Frog Crazy
 [U:1:1215750929] - crzyFrg
 [U:1:1108958395] - (1)[VALVE]Nigerkiller
-[U:1:1187638538] - OMEGีATRONIC
-[U:1:1188797888] - OMืEGATRONIC
-[U:1:1204912480] - O์MEGATRONIC
+[U:1:1187638538] - OMEGATRONIC
+[U:1:1188797888] - OMEGATRONIC
+[U:1:1204912480] - OMEGATRONIC
 [U:1:846439685] - GOFUND.ME/15b3a067
-[U:1:1175532573] - Wa‏ffen-SS
-[U:1:1175866128] - Waffe‏n-SS
-[U:1:1185728881] - OMEGATRONI๋C
-[U:1:1184265137] - OMEGATRONIC๎
-[U:1:1204636437] - OMEํGATRONIC
-[U:1:1187897930] - OMEGAฺTRONIC
-[U:1:1204774996] - OMEGAึTRONIC
-[U:1:1188956534] - OMEGATRONICุ
+[U:1:1175532573] - Waffen-SS
+[U:1:1175866128] - Waffen-SS
+[U:1:1185728881] - OMEGATRONIC
+[U:1:1184265137] - OMEGATRONIC
+[U:1:1204636437] - OMEGATRONIC
+[U:1:1187897930] - OMEGATRONIC
+[U:1:1204774996] - OMEGATRONIC
+[U:1:1188956534] - OMEGATRONIC
 [U:1:1182908424] - youtu.be/sw9Si9JRsFg
 [U:1:1181630412] - (1)youtu.be/sw9Si9JRsFg
-[U:1:113829888] - CRAZY ‏FROG
+[U:1:113829888] - CRAZY FROG
 [U:1:103694693] - CRAZY FROG
-[U:1:1184431862] - OMEGํATRONIC
-[U:1:116453236] - CRAZY FROG‏
-[U:1:157010330] - CRAZY‏ FROG
-[U:1:1184546002] - OMEGAT๋RONIC
+[U:1:1184431862] - OMEGATRONIC
+[U:1:116453236] - CRAZY FROG
+[U:1:157010330] - CRAZY FROG
+[U:1:1184546002] - OMEGATRONIC
 [U:1:1183523785] - DoesHotter
 [U:1:1176521107] - (2)DoesHotter
 [U:1:1181043450] - (1)DoesHotter
@@ -260,38 +260,38 @@
 [U:1:1176118489] - (1)DoesHotter
 [U:1:891821688] - DoesHotter
 [U:1:1190406198] - Chicago Cowboy
-[U:1:1188956534] - OMEGATํRONIC
+[U:1:1188956534] - OMEGATRONIC
 [U:1:1133279239] - Miss Maxine
 [U:1:1192551629] - youtu.be/sw9Si9JRsFg
-[U:1:1204636437] - OM๊EGATRONIC
-[U:1:1175527318] - W‏affen-SS
-[U:1:116453236] - CRAZY FROG‏
-[U:1:113829888] - CRAZY ‏FROG
+[U:1:1204636437] - OMEGATRONIC
+[U:1:1175527318] - Waffen-SS
+[U:1:116453236] - CRAZY FROG
+[U:1:113829888] - CRAZY FROG
 [U:1:103694693] - CRAZY FROG
-[U:1:1184431862] - OMEGํATRONIC
-[U:1:1184546002] - OMEGAT๋RONIC
-[U:1:157010330] - CRAZY‏ FROG
+[U:1:1184431862] - OMEGATRONIC
+[U:1:1184546002] - OMEGATRONIC
+[U:1:157010330] - CRAZY FROG
 [U:1:1215726420] - RACIST CRAZY FROG
 [U:1:891664587] - DoesHotter
-[U:1:1188968541] - OMุEGATRONIC
-[U:1:1188015629] - OMEGATR์ONIC
-[U:1:1184777618] - O๋MEGATRONIC
-[U:1:1187897930] - OMEGATRONICึ
+[U:1:1188968541] - OMEGATRONIC
+[U:1:1188015629] - OMEGATRONIC
+[U:1:1184777618] - OMEGATRONIC
+[U:1:1187897930] - OMEGATRONIC
 [U:1:1215548379] - crazyfrog
 [U:1:1215145434] - crzy frog
 [U:1:1181222831] - (2)DoesHotter
 [U:1:1181065911] - DoesHotter
 [U:1:1175840355] - (1)DoesHotter
-[U:1:1204636437] - OME๎GATRONIC
+[U:1:1204636437] - OMEGATRONIC
 [U:1:1216036637] - Bot Extermination Services
 [U:1:1215145434] - crzy frog
-[U:1:1184562789] - OMEGATRุONIC
-[U:1:1184546002] - OMEGATRON่IC
+[U:1:1184562789] - OMEGATRONIC
+[U:1:1184546002] - OMEGATRONIC
 [U:1:846439685] - GOFUND.ME/15b3a067
-[U:1:1204774996] - OMEGATRON็IC
+[U:1:1204774996] - OMEGATRONIC
 [U:1:1111508181] - [VALVE]Nigerkiller
-[U:1:1188956534] - OMืEGATRONIC
-[U:1:1175532573] - Wa‏ffen-SS
+[U:1:1188956534] - OMEGATRONIC
+[U:1:1175532573] - Waffen-SS
 [U:1:1190461238] - (1)Peppermint Swirl
 [U:1:1143964618] - Peppermint Swirl
 [U:1:1190516375] - Miss Maxine
@@ -305,14 +305,14 @@
 [U:1:1215750929] - crzyFrg
 [U:1:1148632109] - [VALVE]Nigerkiller
 [U:1:1108958395] - (1)[VALVE]Nigerkiller
-[U:1:1187638538] - OMEGีATRONIC
+[U:1:1187638538] - OMEGATRONIC
 [U:1:1180890751] - DoesHotter
 [U:1:1215548379] - crazyfrog
 [U:1:1197479215] - [VALVE]Nigerkiller
-[U:1:1204774996] - OMEGATRONํIC
+[U:1:1204774996] - OMEGATRONIC
 [U:1:1192551629] - youtu.be/sw9Si9JRsFg
-[U:1:1204636437] - OูMEGATRONIC
-[U:1:1204912480] - OM๊EGATRONIC
+[U:1:1204636437] - OMEGATRONIC
+[U:1:1204912480] - OMEGATRONIC
 [U:1:1181065911] - DoesHotter
 [U:1:1181222831] - (2)DoesHotter
 [U:1:1175840355] - (1)DoesHotter
@@ -328,16 +328,16 @@
 [U:1:1181735183] - youtu.be/sw9Si9JRsFg
 [U:1:1192551629] - youtu.be/sw9Si9JRsFg
 [U:1:1183245905] - youtu.be/sw9Si9JRsFg
-[U:1:1175532573] - Wa‏ffen-SS
+[U:1:1175532573] - Waffen-SS
 [U:1:1149170317] - (1)Stryker
 [U:1:1183816849] - (1)DoesHotter
 [U:1:1180942694] - (3)DoesHotter
 [U:1:1180865434] - DoesHotter
 [U:1:1183523785] - (2)DoesHotter
 [U:1:1190479760] - Peppermint Swirl
-[U:1:1175534732] - Waffen‏-SS
-[U:1:1176147070] - Waffe‏n-SS
-[U:1:1184324172] - OิMEGATRONIC
+[U:1:1175534732] - Waffen-SS
+[U:1:1176147070] - Waffen-SS
+[U:1:1184324172] - OMEGATRONIC
 [U:1:1189330986] - youtu.be/sw9Si9JRsFg
 [U:1:1190417160] - MAGA Brony
 [U:1:1178236240] - youtu.be/sw9Si9JRsFg
@@ -351,23 +351,23 @@
 [U:1:1163130522] - (1)DadPilled
 [U:1:1178409894] - youtu.be/sw9Si9JRsFg
 [U:1:1178063348] - (1)youtu.be/sw9Si9JRsFg
-[U:1:1175637865] - Waffen-‏SS
+[U:1:1175637865] - Waffen-SS
 [U:1:1190970614] - MAGA Brony
 [U:1:1185628796] - Miss Maxine
 [U:1:1200652827] - asdfgh
 [U:1:1175947311] - DoesHotter
 [U:1:1175954150] - (2)DoesHotter
-[U:1:1175674957] - W‏‏‏af‏‏‏fen-SS
-[U:1:1187928676] - OMEGA๎TRONIC
+[U:1:1175674957] - Waffen-SS
+[U:1:1187928676] - OMEGATRONIC
 [U:1:1163285396] - Asriel
 [U:1:1179811500] - (2)Asriel
 [U:1:1190683800] - Hitch Trailblazer
 [U:1:1192155494] - (1)Asriel
 [U:1:1131321871] - (1)Peppermint Swirl
 [U:1:1185720988] - (1)Miss Maxine
-[U:1:1184324172] - OิMEGATRONIC
+[U:1:1184324172] - OMEGATRONIC
 [U:1:1215574566] - Welcome to Crazy Fortress 2!
-[U:1:1175637865] - Waffen-‏SS
+[U:1:1175637865] - Waffen-SS
 [U:1:1205069383] - Stryker
 [U:1:1205162367] - Stryker
 [U:1:1155534073] - (1)Stryker
@@ -412,12 +412,12 @@
 [U:1:1178063348] - youtu.be/sw9Si9JRsFg
 [U:1:1181423655] - (2)youtu.be/sw9Si9JRsFg
 [U:1:1178759384] - youtu.be/sw9Si9JRsFg
-[U:1:1184383131] - OMEGAT้RONIC
+[U:1:1184383131] - OMEGATRONIC
 [U:1:1201939498] - claris
-[U:1:1199988673] - TheRandomPlayer๋
-[U:1:1199960069] - sulibence2010๋
-[U:1:1199849845] - main3๋
-[U:1:1199758244] - Charon๋
+[U:1:1199988673] - TheRandomPlayer
+[U:1:1199960069] - sulibence2010
+[U:1:1199849845] - main3
+[U:1:1199758244] - Charon
 [U:1:1215581815] - CRAZY FROG IN DA HOUSE
 [U:1:1215432842] - CRAZE FROG
 [U:1:1190417160] - (1)DadPilled
@@ -436,7 +436,7 @@
 [U:1:1178833819] - youtu.be/sw9Si9JRsFg
 [U:1:1178542469] - (1)youtu.be/sw9Si9JRsFg
 [U:1:1178409894] - youtu.be/sw9Si9JRsFg
-[U:1:1184383131] - OMEGATR๎ONIC
+[U:1:1184383131] - OMEGATRONIC
 [U:1:1178409533] - (3)youtu.be/sw9Si9JRsFg
 [U:1:1178537771] - (2)youtu.be/sw9Si9JRsFg
 [U:1:1178363323] - (4)youtu.be/sw9Si9JRsFg
@@ -496,12 +496,12 @@
 [U:1:104168603] - xbox
 [U:1:1183044165] - (2)youtu.be/sw9Si9JRsFg
 [U:1:1215577534] - Crazy Frog
-[U:1:1173533387] - Not_A_Fragile_Princess๋
-[U:1:1173454612] - Friendly Medical Services๋
+[U:1:1173533387] - Not_A_Fragile_Princess
+[U:1:1173454612] - Friendly Medical Services
 [U:1:1215554494] - Frog Is Crazy
 [U:1:1178573066] - (2)youtu.be/sw9Si9JRsFg
-[U:1:1184324172] - OMEีGATRONIC
-[U:1:1187928676] - OMEGATROุNIC
+[U:1:1184324172] - OMEGATRONIC
+[U:1:1187928676] - OMEGATRONIC
 [U:1:1215345414] - French Crazy Frog
 [U:1:1191258696] - DadPilled
 [U:1:1177389820] - Peppermint Swirl
@@ -520,21 +520,21 @@
 [U:1:1177389820] - WingsOfGhostsSon
 [U:1:1132146215] - Chicago Cowboy
 [U:1:1192347508] - youtu.be/sw9Si9JRsFg
-[U:1:1175472143] - W‏‏‏aff‏‏‏en-SS
-[U:1:1184324172] - OMEิGATRONIC
+[U:1:1175472143] - Waffen-SS
+[U:1:1184324172] - OMEGATRONIC
 [U:1:1148360995] - [VALVE]Nigerkiller
-[U:1:1187928676] - OMEGATROูNIC
+[U:1:1187928676] - OMEGATRONIC
 [U:1:1131593290] - Hitch Trailblazer
 [U:1:1178759384] - (2)youtu.be/sw9Si9JRsFg
 [U:1:1188781019] - (2)youtu.be/sw9Si9JRsFg
 [U:1:1215314851] - CrazyFrog
 [U:1:1148728135] - (1)[VALVE]Nigerkiller
-[U:1:1184383131] - OM์EGATRONIC
+[U:1:1184383131] - OMEGATRONIC
 [U:1:1215345414] - French Crazy Frog
-[U:1:1199849845] - Spy Among Us๋
-[U:1:1199960069] - doggy๋
-[U:1:1199758244] - Andtherow๋
-[U:1:1199988673] - ShinMadd๋
+[U:1:1199849845] - Spy Among Us
+[U:1:1199960069] - doggy
+[U:1:1199758244] - Andtherow
+[U:1:1199988673] - ShinMadd
 [U:1:1189066430] - youtu.be/sw9Si9JRsFg
 [U:1:1133401475] - Skunkler
 [U:1:1215125204] - A Blast From The Past
@@ -544,10 +544,10 @@
 [U:1:1201939498] - eardeddragonw0.hart
 [U:1:1176091602] - DoesHotter
 [U:1:1215314851] - CrazyFrog
-[U:1:1184383131] - OMEGATRONIC้
+[U:1:1184383131] - OMEGATRONIC
 [U:1:1205069383] - Stryker
-[U:1:1187928676] - OMEGATROุNIC
-[U:1:1188578487] - OMEGูATRONIC
+[U:1:1187928676] - OMEGATRONIC
+[U:1:1188578487] - OMEGATRONIC
 [U:1:1189066430] - youtu.be/sw9Si9JRsFg
 [U:1:1189066430] - youtu.be/sw9Si9JRsFg
 [U:1:1182906055] - youtu.be/sw9Si9JRsFg
@@ -557,8 +557,8 @@
 [U:1:1181423655] - (4)youtu.be/sw9Si9JRsFg
 [U:1:1192347508] - (5)youtu.be/sw9Si9JRsFg
 [U:1:1189066430] - youtu.be/sw9Si9JRsFg
-[U:1:1187928676] - OM็EGATRONIC
-[U:1:1175472143] - W‏‏‏aff‏‏‏en-SS
+[U:1:1187928676] - OMEGATRONIC
+[U:1:1175472143] - Waffen-SS
 [U:1:1188814819] - youtu.be/sw9Si9JRsFg
 [U:1:1133367883] - (1)Asriel
 [U:1:1176476067] - Asriel
@@ -613,63 +613,63 @@
 [U:1:1214676937] - OneTrick
 [U:1:1186114062] - WingsOfGhostsSon
 [U:1:1131951259] - Skunkler
-[U:1:1175702581] - W‏‏‏a‏‏‏ffen-SS
+[U:1:1175702581] - Waffen-SS
 [U:1:1215391063] - (1)DoesHotter
 [U:1:1214367103] - Sympathy for the Devil
 [U:1:192988971] - paska1
 [U:1:1205396836] - Stryker
-[U:1:1202175149] - Vinegar_Drinkerั
-[U:1:1202214830] - tslayer057ั
-[U:1:1199926366] - [RaveN]๋
+[U:1:1202175149] - Vinegar_Drinker
+[U:1:1202214830] - tslayer057
+[U:1:1199926366] - [RaveN]
 [U:1:1213353107] - OneTrick
-[U:1:1184166482] - OMEGึATRONIC
-[U:1:1199926366] - Cloakmasterx๋
-[U:1:1200045556] - (1)Friendly Medical Services๋
+[U:1:1184166482] - OMEGATRONIC
+[U:1:1199926366] - Cloakmasterx
+[U:1:1200045556] - (1)Friendly Medical Services
 [U:1:1214690268] - OneTrick
-[U:1:1200045556] - Marcus Junius Brutus๋
-[U:1:1199926366] - GGahi๋
-[U:1:1184166482] - OMEGAึTRONIC
+[U:1:1200045556] - Marcus Junius Brutus
+[U:1:1199926366] - GGahi
+[U:1:1184166482] - OMEGATRONIC
 [U:1:465135494] - Lana
-[U:1:1184693017] - OMEGATRONICิ
-[U:1:1200045556] - Black_ValkyriaX๋
-[U:1:1199926366] - PedroBros๋
+[U:1:1184693017] - OMEGATRONIC
+[U:1:1200045556] - Black_ValkyriaX
+[U:1:1199926366] - PedroBros
 [U:1:1214032428] - (1)OneTrick
 [U:1:1215175853] - OneTrick
 [U:1:1192486585] - (1)Miss Maxine
-[U:1:1184693017] - OMEGATROูNIC
+[U:1:1184693017] - OMEGATRONIC
 [U:1:1186119271] - (1)DoesHotter
 [U:1:1186143140] - DoesHotter
 [U:1:1183669054] - (2)DoesHotter
 [U:1:1214054489] - OneTrick
 [U:1:1213838322] - (1)OneTrick
-[U:1:1202249223] - JymyDanั
+[U:1:1202249223] - JymyDan
 [U:1:991059995] - belle
-[U:1:1199926366] - [RaveN]๋
-[U:1:1184166482] - OMูEGATRONIC
-[U:1:1202205081] - Xsarewั
-[U:1:1184693017] - OMEึGATRONIC
-[U:1:1202430888] - Rafcio™ั
-[U:1:1202210149] - (1)DOGEั
-[U:1:1214460280] - >prope11er<ั
+[U:1:1199926366] - [RaveN]
+[U:1:1184166482] - OMEGATRONIC
+[U:1:1202205081] - Xsarew
+[U:1:1184693017] - OMEGATRONIC
+[U:1:1202430888] - Rafcio
+[U:1:1202210149] - (1)DOGE
+[U:1:1214460280] - >prope11er<
 [U:1:1213943056] - OneTrick
 [U:1:1213943056] - OneTrick
-[U:1:1199926366] - fanatik1905๋
+[U:1:1199926366] - fanatik1905
 [U:1:1214676621] - OneTrick
 [U:1:1192294578] - Hitch Trailblazer
 [U:1:1176809570] - MAGA Brony
 [U:1:1144084723] - Hitch Trailblazer
-[U:1:1213967889] - FishManั
-[U:1:1184166482] - OMูEGATRONIC
+[U:1:1213967889] - FishMan
+[U:1:1184166482] - OMEGATRONIC
 [U:1:1185779946] - DadPilled
-[U:1:1200045556] - Granmo๋
-[U:1:1199926366] - ForeverAlex๋
+[U:1:1200045556] - Granmo
+[U:1:1199926366] - ForeverAlex
 [U:1:1145967060] - (2)[VALVE]Nigerkiller
 [U:1:1213838322] - OneTrick
-[U:1:1199926366] - SupremeX๋
-[U:1:1200045556] - summistt๋
+[U:1:1199926366] - SupremeX
+[U:1:1200045556] - summistt
 [U:1:991059995] - belle
 [U:1:1213838322] - OneTrick
-[U:1:1184693017] - OMEGATRONICู
+[U:1:1184693017] - OMEGATRONIC
 [U:1:1213943056] - OneTrick
 [U:1:1214943390] - OneTrick
 [U:1:1214844059] - [ VACation ] Rainbow Dash
@@ -679,61 +679,61 @@
 [U:1:1163227971] - Peppermint Swirl
 [U:1:1214943390] - OneTrick
 [U:1:1213791972] - (1)OneTrick
-[U:1:1199926366] - Obama Prism๋
-[U:1:1200045556] - Bob the Asian Wizard๋
+[U:1:1199926366] - Obama Prism
+[U:1:1200045556] - Bob the Asian Wizard
 [U:1:1133313250] - Chicago Cowboy
 [U:1:1163254959] - WingsOfGhostsSon
 [U:1:1214904297] - OneTrick
-[U:1:1184166482] - OMEูGATRONIC
+[U:1:1184166482] - OMEGATRONIC
 [U:1:1215417249] - Cazy Forg
 [U:1:1132111647] - Sakuya Izayoi
 [U:1:1132340429] - Patchouli Knowledge
 [U:1:1135841047] - Reimu Hakurei
 [U:1:1214943390] - OneTrick
-[U:1:1184166482] - OึMEGATRONIC
+[U:1:1184166482] - OMEGATRONIC
 [U:1:1185779946] - Peppermint Swirl
 [U:1:1185998101] - (1)Hitch Trailblazer
-[U:1:1184166482] - OMEGAึTRONIC
-[U:1:1184693017] - OMEGATRONICู
+[U:1:1184166482] - OMEGATRONIC
+[U:1:1184693017] - OMEGATRONIC
 [U:1:1192294578] - Skunkler
 [U:1:1185998101] - Chicago Cowboy
 [U:1:1163254959] - Peppermint Swirl
-[U:1:1184166482] - OMEGATRONIิC
+[U:1:1184166482] - OMEGATRONIC
 [U:1:1214943390] - OneTrick
 [U:1:1214369464] - OneTrick
-[U:1:1184693017] - OMีEGATRONIC
+[U:1:1184693017] - OMEGATRONIC
 [U:1:1190546315] - Chicago Cowboy
-[U:1:1199926366] - (1)Friendly Medical Services๋
-[U:1:1200045556] - Friendly Medical Services๋
-[U:1:1199926366] - hat๋
-[U:1:1200045556] - CharlacPlaza๋
+[U:1:1199926366] - (1)Friendly Medical Services
+[U:1:1200045556] - Friendly Medical Services
+[U:1:1199926366] - hat
+[U:1:1200045556] - CharlacPlaza
 [U:1:1213943056] - OneTrick
 [U:1:1162958147] - WingsOfGhostsSon
-[U:1:1199926366] - (1)Friendly Medical Services๋
-[U:1:1200045556] - Friendly Medical Services๋
+[U:1:1199926366] - (1)Friendly Medical Services
+[U:1:1200045556] - Friendly Medical Services
 [U:1:1214943390] - OneTrick
 [U:1:1132111647] - Sakuya Izayoi
-[U:1:1131633551] - ♥SMU CatBoy♥
+[U:1:1131633551] - SMU CatBoy
 [U:1:1132340429] - Patchouli Knowledge
 [U:1:1135841047] - Reimu Hakurei
-[U:1:1184166482] - OMิEGATRONIC
+[U:1:1184166482] - OMEGATRONIC
 [U:1:1190575890] - Miss Maxine
 [U:1:1162958147] - Hitch Trailblazer
 [U:1:1190430333] - Asriel
 [U:1:1215166707] - OneTrick
 [U:1:1162958147] - Chicago Cowboy
-[U:1:1200045556] - I shower with the lights off๋
-[U:1:1199926366] - bitchboy๋
+[U:1:1200045556] - I shower with the lights off
+[U:1:1199926366] - bitchboy
 [U:1:1163227971] - Peppermint Swirl
-[U:1:1200045556] - Gimbalushers๋
-[U:1:1199926366] - Right-sider๋
+[U:1:1200045556] - Gimbalushers
+[U:1:1199926366] - Right-sider
 [U:1:1162958147] - (1)Asriel
 [U:1:1213847653] - OneTrick
-[U:1:1184693017] - OMEGAูTRONIC
+[U:1:1184693017] - OMEGATRONIC
 [U:1:1215166707] - (1)OneTrick
 [U:1:1176809570] - Chicago Cowboy
-[U:1:1199926366] - (3)Friendly Medical Services๋
-[U:1:1200045556] - ĆOPOⰛⰑⰒⰑ๋
+[U:1:1199926366] - (3)Friendly Medical Services
+[U:1:1200045556] - OPO
 [U:1:1213838322] - OneTrick
 [U:1:1190546315] - (1)WingsOfGhostsSon
 [U:1:1186143140] - (3)DoesHotter
@@ -742,12 +742,12 @@
 [U:1:1183669054] - DoesHotter
 [U:1:1215294352] - OneTrick
 [U:1:1163227971] - (1)Miss Maxine
-[U:1:1184166482] - OMูEGATRONIC
-[U:1:1199926366] - Friendly Medical Services๋
+[U:1:1184166482] - OMEGATRONIC
+[U:1:1199926366] - Friendly Medical Services
 [U:1:1144084723] - Peppermint Swirl
 [U:1:1214369464] - (1)OneTrick
 [U:1:1213791972] - OneTrick
-[U:1:366175960] - Утка
+[U:1:366175960] - 
 [U:1:1186143140] - DoesHotter
 [U:1:1186425760] - (4)DoesHotter
 [U:1:1186119271] - (2)DoesHotter
@@ -757,131 +757,131 @@
 [U:1:1183669054] - (2)DoesHotter
 [U:1:1186143140] - DoesHotter
 [U:1:1163254959] - Miss Maxine
-[U:1:1199926366] - SupremeX๋
-[U:1:1200045556] - summistt๋
+[U:1:1199926366] - SupremeX
+[U:1:1200045556] - summistt
 [U:1:1192089931] - WingsOfGhostsSon
-[U:1:1184693017] - OMEGATROูNIC
+[U:1:1184693017] - OMEGATRONIC
 [U:1:1185779946] - Asriel
 [U:1:1185779946] - MAGA Brony
-[U:1:1199926366] - (1)Friendly Medical Services๋
-[U:1:1200045556] - Friendly Medical Services๋
+[U:1:1199926366] - (1)Friendly Medical Services
+[U:1:1200045556] - Friendly Medical Services
 [U:1:1214032428] - OneTrick
 [U:1:1186119271] - (1)DoesHotter
 [U:1:1186143140] - DoesHotter
 [U:1:1183669054] - (2)DoesHotter
-[U:1:1213852981] - h4phaistosั
-[U:1:1199926366] - [RaveN]๋
+[U:1:1213852981] - h4phaistos
+[U:1:1199926366] - [RaveN]
 [U:1:1215294352] - OneTrick
 [U:1:1185998101] - Chicago Cowboy
 [U:1:1192294578] - Skunkler
 [U:1:1213353107] - OneTrick
-[U:1:1199926366] - Happy๋
-[U:1:1200045556] - grape.๋
+[U:1:1199926366] - Happy
+[U:1:1200045556] - grape.
 [U:1:1213943056] - OneTrick
 [U:1:1192089931] - (1)MAGA Brony
-[U:1:1199926366] - Obama Prism๋
-[U:1:1200045556] - Bob the Asian Wizard๋
+[U:1:1199926366] - Obama Prism
+[U:1:1200045556] - Bob the Asian Wizard
 [U:1:1215294352] - OneTrick
-[U:1:1200045556] - Black_ValkyriaX๋
-[U:1:1199926366] - PedroBros๋
-[U:1:1184693017] - OMEGATRONICิ
-[U:1:1184693017] - OMEGATิRONIC
-[U:1:1184166482] - OีMEGATRONIC
-[U:1:1200045556] - Jolecii๋
-[U:1:1199926366] - crazester899๋
+[U:1:1200045556] - Black_ValkyriaX
+[U:1:1199926366] - PedroBros
+[U:1:1184693017] - OMEGATRONIC
+[U:1:1184693017] - OMEGATRONIC
+[U:1:1184166482] - OMEGATRONIC
+[U:1:1200045556] - Jolecii
+[U:1:1199926366] - crazester899
 [U:1:1214904297] - OneTrick
 [U:1:1133313250] - Chicago Cowboy
 [U:1:1163254959] - WingsOfGhostsSon
-[U:1:1184496341] - OMEGATRONIุC
-[U:1:1184166482] - OMEGATRONICู
-[U:1:1200045556] - Black_ValkyriaX๋
-[U:1:1184693017] - OMEGATRONICิ
-[U:1:1199926366] - PedroBros๋
+[U:1:1184496341] - OMEGATRONIC
+[U:1:1184166482] - OMEGATRONIC
+[U:1:1200045556] - Black_ValkyriaX
+[U:1:1184693017] - OMEGATRONIC
+[U:1:1199926366] - PedroBros
 [U:1:1163227971] - (1)Chicago Cowboy
 [U:1:1163254959] - Peppermint Swirl
-[U:1:1184693017] - OMEGATROูNIC
+[U:1:1184693017] - OMEGATRONIC
 [U:1:1176809570] - MAGA Brony
-[U:1:1202430888] - Rafcio™ั
-[U:1:1202210149] - (1)DOGEั
-[U:1:1214460280] - >prope11er<ั
+[U:1:1202430888] - Rafcio
+[U:1:1202210149] - (1)DOGE
+[U:1:1214460280] - >prope11er<
 [U:1:1215166707] - OneTrick
 [U:1:1214904297] - (1)OneTrick
 [U:1:1213353107] - OneTrick
 [U:1:1133313250] - Skunkler
 [U:1:1213791972] - OneTrick
 [U:1:1214943390] - OneTrick
-[U:1:1199926366] - Friendly Medical Services๋
-[U:1:1200045556] - SomethingDeveloper๋
+[U:1:1199926366] - Friendly Medical Services
+[U:1:1200045556] - SomethingDeveloper
 [U:1:1007637270] - RACIST COP
 [U:1:1145967060] - (1)[VALVE]Nigerkiller
-[U:1:1199926366] - Friendly Medical Services๋
-[U:1:1184166482] - OMูEGATRONIC
+[U:1:1199926366] - Friendly Medical Services
+[U:1:1184166482] - OMEGATRONIC
 [U:1:1183669054] - (3)DoesHotter
 [U:1:1186119271] - (2)DoesHotter
 [U:1:1186425760] - (4)DoesHotter
 [U:1:1186143140] - DoesHotter
 [U:1:1185998101] - DadPilled
 [U:1:1214032428] - OneTrick
-[U:1:1199926366] - i wanna suck you off๋
-[U:1:1200045556] - Friendly Medical Services๋
-[U:1:1213852981] - h4phaistosั
+[U:1:1199926366] - i wanna suck you off
+[U:1:1200045556] - Friendly Medical Services
+[U:1:1213852981] - h4phaistos
 [U:1:1133313250] - (1)Miss Maxine
 [U:1:1190546315] - Chicago Cowboy
-[U:1:1202214830] - tslayer057ั
-[U:1:1199926366] - Cheedar๋
-[U:1:1200045556] - b o w๋
+[U:1:1202214830] - tslayer057
+[U:1:1199926366] - Cheedar
+[U:1:1200045556] - b o w
 [U:1:1215540007] - bit.ly/botpolice
 [U:1:1215953474] - (1)bit.ly/botpolice
 [U:1:1163227971] - Peppermint Swirl
 [U:1:1214032428] - OneTrick
 [U:1:1192486585] - (1)Chicago Cowboy
-[U:1:1199926366] - Friendly Medical Services๋
-[U:1:1200045556] - SomethingDeveloper๋
+[U:1:1199926366] - Friendly Medical Services
+[U:1:1200045556] - SomethingDeveloper
 [U:1:1214164389] - OneTrick
 [U:1:1192486585] - (1)Chicago Cowboy
 [U:1:1192294578] - Asriel
 [U:1:1145967060] - (1)[VALVE]Nigerkiller
 [U:1:1215166707] - (1)OneTrick
-[U:1:1184693017] - OMEGAูTRONIC
+[U:1:1184693017] - OMEGATRONIC
 [U:1:1214943390] - OneTrick
 [U:1:1213791972] - (1)OneTrick
-[U:1:1184166482] - OMEGATRONICิ
+[U:1:1184166482] - OMEGATRONIC
 [U:1:1192294578] - Miss Maxine
 [U:1:1213838322] - OneTrick
 [U:1:1215175853] - (1)OneTrick
 [U:1:1192089931] - Chicago Cowboy
-[U:1:1184693017] - OMEGATิRONIC
+[U:1:1184693017] - OMEGATRONIC
 [U:1:1214617453] - crossdresser
-[U:1:1902700] - ✯csxGod
+[U:1:1902700] - csxGod
 [U:1:1213353107] - (1)OneTrick
 [U:1:1214077064] - OneTrick
 [U:1:1214943390] - (2)OneTrick
 [U:1:1162958147] - DadPilled
 [U:1:1213791972] - OneTrick
 [U:1:1135841047] - Reimu Hakurei
-[U:1:1131633551] - ♥SMU CatBoy♥
+[U:1:1131633551] - SMU CatBoy
 [U:1:1132111647] - Sakuya Izayoi
 [U:1:1132340429] - Patchouli Knowledge
-[U:1:1200045556] - Gimbalushers๋
+[U:1:1200045556] - Gimbalushers
 [U:1:1214943390] - OneTrick
 [U:1:1214369464] - OneTrick
 [U:1:1185779946] - Peppermint Swirl
 [U:1:1215864361] - OneTrick
-[U:1:1184166482] - OMEGAึTRONIC
-[U:1:1184693017] - OMEGATีRONIC
-[U:1:1200045556] - (1)Friendly Medical Services๋
-[U:1:1199926366] - Quack!/Ham-Mafia/๋
+[U:1:1184166482] - OMEGATRONIC
+[U:1:1184693017] - OMEGATRONIC
+[U:1:1200045556] - (1)Friendly Medical Services
+[U:1:1199926366] - Quack!/Ham-Mafia/
 [U:1:1214690268] - OneTrick
 [U:1:1174853127] - ditch
 [U:1:182023177] - irma mais velha safada
 [U:1:1214369464] - OneTrick
-[U:1:1184166482] - OMEGATRONIิC
-[U:1:1139213115] - ุ ุ ุ
+[U:1:1184166482] - OMEGATRONIC
+[U:1:1139213115] -   
 [U:1:1215149041] - OneTrick
-[U:1:1202511739] - Naughtius Maximusั
+[U:1:1202511739] - Naughtius Maximus
 [U:1:1215666804] - AxelF
 [U:1:1215666804] - AxelF
-[U:1:1139213115] - ุ ุ ุ
+[U:1:1139213115] -   
 [U:1:362269472] - rolo
 [U:1:1140339334] - Verify me www.botpolice.eu
 [U:1:1215666804] - AxelF
@@ -889,36 +889,3203 @@
 [U:1:200603695] - Chetto
 [U:1:1215149041] - OneTrick
 [U:1:1214396734] - OneTrick
-[U:1:1213751093] - nuke player B)ั
+[U:1:1213751093] - nuke player B)
 [U:1:362269472] - rolo
-[U:1:1202183647] - main3ั
+[U:1:1202183647] - main3
 [U:1:1215199978] - [ VACation ] Apple Jack
 [U:1:1215149041] - OneTrick
 [U:1:1180940414] - DoesHotter
-[U:1:1139165494] - ุ ุ ุ ุ
-[U:1:1138936184] - ุ ุ
+[U:1:1139165494] -    
+[U:1:1138936184] -  
 [U:1:1214531126] - OneTrick
 [U:1:1114564446] - lock
 [U:1:1114601955] - DANGER
 [U:1:1114269482] - Kawaii
 [U:1:1180940414] - DoesHotter
-[U:1:1202055159] - KlaiDerั
+[U:1:1202055159] - KlaiDer
 [U:1:1215321800] - [ VACation ] Pinkie Pie
 [U:1:1214717838] - [ VACation ] Fluttershy
 [U:1:1214765872] - [ VACation ] Twilight Sparkle
 [U:1:252359824] - Rex Acad
 [U:1:1180940414] - DoesHotter
-[U:1:1213936532] - wermั
-[U:1:1202241801] - Hannes!ั
-[U:1:1202172049] - Jetlir ФыФั
+[U:1:1213936532] - werm
+[U:1:1202241801] - Hannes!
+[U:1:1202172049] - Jetlir 
 [U:1:1180940414] - DoesHotter
-[U:1:1139165494] - ุ ุ ุ ุ
-[U:1:1138936184] - ุ ุ
+[U:1:1139165494] -    
+[U:1:1138936184] -  
 [U:1:252359824] - Rex Acad
-[U:1:1139165494] - ุ ุ ุ ุ
-[U:1:1138936184] - ุ ุ
+[U:1:1139165494] -    
+[U:1:1138936184] -  
 [U:1:1090804679] - Sentry Gun (Skoal Peach)
-[U:1:1139165494] - ุ ุ ุ ุ
-[U:1:1138936184] - ุ ุ
+[U:1:1139165494] -    
+[U:1:1138936184] -  
 [U:1:1052502187] - way to go slugger!
 [U:1:1140920874] - Verify me www.botpolice.eu
+[U:1:1216069048] - Mikasa kills Eren AOT S4 Part 2
+[U:1:1094463398] - callie
+[U:1:157388780] - Womble
+[U:1:1107566530] - Skye! | fart.tf
+[U:1:1163340629] - (1)Skunkler
+[U:1:1190626434] - DadPilled
+[U:1:1107889136] - bat 0
+[U:1:1204776217] - Stryker
+[U:1:1214828116] - BOTKILLER
+[U:1:1205045593] - (1)Stryker
+[U:1:1130823001] - (1)WingsOfGhostsSon
+[U:1:1190626434] - WingsOfGhostsSon
+[U:1:1192120625] - Miss Maxine
+[U:1:1190387801] - (2)WingsOfGhostsSon
+[U:1:1208076100] - FUCK TRANS RIGHTS
+[U:1:1190488625] - WingsOfGhostsSon
+[U:1:1208568510] - Enigmballz
+[U:1:1208363482] - wally bot 7
+[U:1:1190418234] - FAGGOT KILLER
+[U:1:1207916172] - (1)ANTI FAGGOT BOT
+[U:1:1208147391] - Eigmabllz
+[U:1:1208545842] - Eigmallz
+[U:1:1133282614] - Chicago Cowboy
+[U:1:1131373529] - (1)Chicago Cowboy
+[U:1:1190606002] - WingsOfGhostsSon
+[U:1:1107784951] - bat 26
+[U:1:1190450459] - Chicago Cowboy
+[U:1:1190590122] - MAGA Brony
+[U:1:1107520075] - bat 25
+[U:1:1192120625] - WingsOfGhostsSon
+[U:1:1190387801] - (1)MAGA Brony
+[U:1:1190450459] - Miss Maxine
+[U:1:1177271705] - (1)WingsOfGhostsSon
+[U:1:1133282614] - Chicago Cowboy
+[U:1:1107526033] - bat 14
+[U:1:1107485850] - bat 12
+[U:1:1107784951] - bat 26
+[U:1:1107413641] - bat 13
+[U:1:1107653258] - bat 9
+[U:1:1214828116] - I forgot to edit names.txt
+[U:1:1190590122] - (2)Chicago Cowboy
+[U:1:1107874818] - bat 8
+[U:1:1145456170] - wikipedia
+[U:1:1107566530] - bat 28
+[U:1:1107407584] - bat 4
+[U:1:1107485850] - bat 12
+[U:1:1107553312] - bat 16
+[U:1:1107784951] - bat 26
+[U:1:1107413641] - bat 28
+[U:1:1107622630] - bat 11
+[U:1:1192026384] - WingsOfGhostsSon
+[U:1:1144141085] - DadPilled
+[U:1:1205045593] - (2)Stryker
+[U:1:1204776217] - (3)Stryker
+[U:1:1190477560] - WingsOfGhostsSon
+[U:1:1163377410] - Peppermint Swirl
+[U:1:1192120625] - Chicago Cowboy
+[U:1:1190520900] - Miss Maxine
+[U:1:1190626434] - MAGA Brony
+[U:1:1192422480] - Peppermint Swirl
+[U:1:1208433766] - vk.com/thenosok
+[U:1:1209398181] - vk.com/thenosok
+[U:1:1208710188] - vk.com/thenosok
+[U:1:1209134893] - vk.com/thenosok
+[U:1:1208943195] - (1)vk.com/thenosok
+[U:1:1107622630] - Pulverizer
+[U:1:1107555706] - Nikolaire
+[U:1:1107513286] - Pembroke
+[U:1:1107557995] - Mike Oxlong 357
+[U:1:1107784951] - Sea raider
+[U:1:1107557995] - Sink
+[U:1:1107622630] - Zombi
+[U:1:1107407584] - Cocaine powder
+[U:1:1190558084] - MAGA Brony
+[U:1:1215047090] - Trash-bot
+[U:1:1190381151] - Asriel
+[U:1:1126798326] - Thaaking2k
+[U:1:1107962978] - bat 1
+[U:1:1207927425] - FUCK PRIDE MONTH
+[U:1:1177271705] - WingsOfGhostsSon
+[U:1:1163377410] - DadPilled
+[U:1:1215047090] - Trash-bot
+[U:1:326082468] - dog
+[U:1:1190477560] - Chicago Cowboy
+[U:1:1177450026] - (1)Peppermint Swirl
+[U:1:1190450459] - Miss Maxine
+[U:1:1123478097] - Boneless
+[U:1:1133282614] - (1)Miss Maxine
+[U:1:1087599737] - Neko <3
+[U:1:1107520075] - bat 17
+[U:1:1108698612] - bat 23
+[U:1:1107526033] - bat 6
+[U:1:1108886131] - bat 25
+[U:1:1107513286] - bat 9
+[U:1:1207916172] - FAGGOT KILLER
+[U:1:1208147391] - Eigmabllz
+[U:1:1190783473] - Asriel
+[U:1:1208076100] - YOUR SEXUALITY DOESNT MATTER
+[U:1:1208380510] - Eigmaballz
+[U:1:1192120625] - WingsOfGhostsSon
+[U:1:1192422480] - Hitch Trailblazer
+[U:1:1131373529] - Chicago Cowboy
+[U:1:1190355293] - MAGA Brony
+[U:1:1190387801] - (1)WingsOfGhostsSon
+[U:1:1161822820] - Gun Loli's Server Enhancers
+[U:1:1190387801] - MAGA Brony
+[U:1:1208611617] - Eigmbllz
+[U:1:1208030943] - nigmaballz
+[U:1:1107878236] - bat 4
+[U:1:1107889136] - bat 0
+[U:1:1190590122] - MAGA Brony
+[U:1:1107566530] - bat 20
+[U:1:1208293037] - Enigmbllz
+[U:1:1107555706] - bat 17
+[U:1:1208568510] - Enigmballz
+[U:1:1107837718] - bat 2
+[U:1:1208474057] - Enigmaallz
+[U:1:1190630554] - (1)Peppermint Swirl
+[U:1:1108824961] - bat 1
+[U:1:1107513286] - bat 15
+[U:1:1133008458] - Asriel
+[U:1:1190783473] - (2)Chicago Cowboy
+[U:1:1107889136] - bat 1
+[U:1:1192026384] - (1)Peppermint Swirl
+[U:1:1133282614] - (1)Chicago Cowboy
+[U:1:1190783473] - WingsOfGhostsSon
+[U:1:1190487660] - (1)Hitch Trailblazer
+[U:1:1177450026] - (3)Peppermint Swirl
+[U:1:1107526033] - bat 14
+[U:1:1107874818] - bat 9
+[U:1:1107413641] - bat 13
+[U:1:1133431749] - WingsOfGhostsSon
+[U:1:1143944101] - (1)WingsOfGhostsSon
+[U:1:1144141085] - DadPilled
+[U:1:1133470344] - (1)Skunkler
+[U:1:1190520900] - (1)Peppermint Swirl
+[U:1:1132043356] - Hitch Trailblazer
+[U:1:1107407584] - bat 27
+[U:1:1108886131] - bat 6
+[U:1:1192422480] - Chicago Cowboy
+[U:1:1190387801] - (1)Skunkler
+[U:1:1190630554] - DadPilled
+[U:1:1107837718] - bat 0
+[U:1:1137623557] - pistol
+[U:1:1131373529] - Hitch Trailblazer
+[U:1:1190606002] - (1)Hitch Trailblazer
+[U:1:1186197906] - Miss Maxine
+[U:1:1190783473] - WingsOfGhostsSon
+[U:1:1143944101] - Chicago Cowboy
+[U:1:1107784951] - bat 26
+[U:1:1161720020] - Gun Loli's Server Enhancers
+[U:1:1161750751] - Gun Loli's Server Enhancers
+[U:1:1161669928] - Gun Loli's Server Enhancers
+[U:1:1133431749] - Chicago Cowboy
+[U:1:1192026384] - Hitch Trailblazer
+[U:1:1190626434] - (3)Peppermint Swirl
+[U:1:1108751461] - bat 3
+[U:1:1107566530] - bat 28
+[U:1:1214828116] - I forgot to edit names.txt
+[U:1:1107748677] - bat 1
+[U:1:1108698612] - bat 23
+[U:1:1107342074] - bat 19
+[U:1:1107413641] - bat 13
+[U:1:1133008458] - (2)Peppermint Swirl
+[U:1:1133282614] - Miss Maxine
+[U:1:1190558084] - Asriel
+[U:1:1107784951] - bat 26
+[U:1:1107874818] - bat 8
+[U:1:1131373529] - (1)Miss Maxine
+[U:1:1190487660] - Chicago Cowboy
+[U:1:1190590122] - (1)WingsOfGhostsSon
+[U:1:1107520075] - bat 25
+[U:1:1107748677] - bat 1
+[U:1:1131373529] - Hitch Trailblazer
+[U:1:1190857657] - Chicago Cowboy
+[U:1:1108886131] - bat 19
+[U:1:1107889136] - bat 27
+[U:1:1107878236] - bat 14
+[U:1:1190488625] - (2)Skunkler
+[U:1:1104760553] - Gun Loli's Server Enhancers
+[U:1:1190630554] - (1)DadPilled
+[U:1:1190606002] - MAGA Brony
+[U:1:1177271705] - Asriel
+[U:1:1190630554] - WingsOfGhostsSon
+[U:1:1192120625] - Miss Maxine
+[U:1:1186197906] - (1)WingsOfGhostsSon
+[U:1:1190590122] - (1)Skunkler
+[U:1:1177450026] - Chicago Cowboy
+[U:1:1209398181] - vk.com/thenosok
+[U:1:1208974238] - (1)vk.com/thenosok
+[U:1:1208693674] - vk.com/thenosok
+[U:1:1190477560] - Peppermint Swirl
+[U:1:1177271705] - (1)Chicago Cowboy
+[U:1:1163377410] - MAGA Brony
+[U:1:459536875] - sanny.yen
+[U:1:1107784951] - Painguin
+[U:1:1107485850] - Walfools
+[U:1:1107557995] - Slurz
+[U:1:1107485850] -  Mr.UK 
+[U:1:1107342074] - uineapigsu1030618433.b
+[U:1:1190487660] - Skunkler
+[U:1:1190857657] - WingsOfGhostsSon
+[U:1:1190606002] - (1)WingsOfGhostsSon
+[U:1:1163377410] - (1)Asriel
+[U:1:1190450459] - Asriel
+[U:1:1133470344] - WingsOfGhostsSon
+[U:1:1190477560] - (1)Chicago Cowboy
+[U:1:1107555706] - bat 14
+[U:1:1107557995] - bat 16
+[U:1:1106536089] - Freeon
+[U:1:1190626434] - Hitch Trailblazer
+[U:1:1190868938] - Hitch Trailblazer
+[U:1:1107874818] - bat 2
+[U:1:1107837718] - bat 3
+[U:1:1107413641] - bat 13
+[U:1:1108922641] - bat 22
+[U:1:1107784951] - bat 19
+[U:1:1107866033] - bat 10
+[U:1:1207927425] - FUCK TRANS RIGHTS
+[U:1:1214828116] - BOTKILLER
+[U:1:1106536089] - Freeon
+[U:1:1107856427] - bat 21
+[U:1:1107962978] - bat 1
+[U:1:1107866033] - bat 10
+[U:1:1177271705] - DadPilled
+[U:1:1192026384] - MAGA Brony
+[U:1:1107553312] - bat 15
+[U:1:1107874818] - bat 3
+[U:1:1133008458] - Peppermint Swirl
+[U:1:1208537489] - Enigmallz
+[U:1:1190558084] - (1)Asriel
+[U:1:1205045593] - (1)Stryker
+[U:1:1133008458] - Chicago Cowboy
+[U:1:1190450459] - Miss Maxine
+[U:1:1143944101] - Hitch Trailblazer
+[U:1:1190630554] - Miss Maxine
+[U:1:1190558084] - Skunkler
+[U:1:1144004700] - Peppermint Swirl
+[U:1:1107784951] - bat 26
+[U:1:1107485850] - bat 12
+[U:1:1108886131] - bat 6
+[U:1:1107866033] - bat 21
+[U:1:1192120625] - (1)MAGA Brony
+[U:1:1190375931] - Chicago Cowboy
+[U:1:1109067283] - bat 5
+[U:1:1107407584] - bat 27
+[U:1:1190626434] - Peppermint Swirl
+[U:1:1163377410] - MAGA Brony
+[U:1:1107566530] - bat 28
+[U:1:1108829149] - bat 20
+[U:1:1107878236] - bat 4
+[U:1:1190857657] - (1)Peppermint Swirl
+[U:1:1190355293] - (2)Hitch Trailblazer
+[U:1:1180922934] - FUCK PRIDE MONTH
+[U:1:1107889136] - bat 4
+[U:1:1107653258] - bat 9
+[U:1:1107513286] - bat 17
+[U:1:1133431749] - (1)WingsOfGhostsSon
+[U:1:1190783473] - (1)MAGA Brony
+[U:1:1161822820] - Gun Loli's Server Enhancers
+[U:1:1161720020] - Gun Loli's Server Enhancers
+[U:1:1161750751] - Gun Loli's Server Enhancers
+[U:1:1104760553] - Gun Loli's Server Enhancers
+[U:1:1161669928] - Gun Loli's Server Enhancers
+[U:1:1107962978] - bat 10
+[U:1:1190520900] - Skunkler
+[U:1:1190606002] - Hitch Trailblazer
+[U:1:1177271705] - Peppermint Swirl
+[U:1:1208150701] - Eigmaallz
+[U:1:1190630554] - Skunkler
+[U:1:1104760553] - Gun Loli's Server Enhancers
+[U:1:1161669928] - Gun Loli's Server Enhancers
+[U:1:1161822820] - Gun Loli's Server Enhancers
+[U:1:1131373529] - DadPilled
+[U:1:1133008458] - Hitch Trailblazer
+[U:1:1192422480] - Peppermint Swirl
+[U:1:1190590122] - Miss Maxine
+[U:1:1143944101] - (2)WingsOfGhostsSon
+[U:1:1208695765] - vk.com/thenosok
+[U:1:1133282614] - Peppermint Swirl
+[U:1:1133008458] - Asriel
+[U:1:1133431749] - (1)DadPilled
+[U:1:1192026384] - WingsOfGhostsSon
+[U:1:1208895789] - vk.com/thenosok
+[U:1:1190857657] - Hitch Trailblazer
+[U:1:1190630554] - (1)Peppermint Swirl
+[U:1:1190774746] - (2)Peppermint Swirl
+[U:1:1177450026] - DadPilled
+[U:1:1208076100] - Wally's Anti Faggotry SS Legion
+[U:1:1207738713] - FUCK PRIDE MONTH
+[U:1:1107342074] - bat 8
+[U:1:1214828116] - BOTKILLER
+[U:1:1205045593] - Stryker
+[U:1:1145456170] - wikipedia
+[U:1:1190375931] - (1)Skunkler
+[U:1:111849481] - Professor cheems
+[U:1:1133282614] - Chicago Cowboy
+[U:1:1190381151] - Asriel
+[U:1:1190520900] - Hitch Trailblazer
+[U:1:1190387801] - Chicago Cowboy
+[U:1:1130823001] - (1)WingsOfGhostsSon
+[U:1:1143944101] - DadPilled
+[U:1:1107653258] - bat 7
+[U:1:1186197906] - Peppermint Swirl
+[U:1:1163377410] - (1)Peppermint Swirl
+[U:1:1177271705] - (1)MAGA Brony
+[U:1:1107520075] - bat 17
+[U:1:1208199107] - FUCK PRIDE MONTH
+[U:1:1107513286] - bat 9
+[U:1:1107748677] - bat 5
+[U:1:1208147391] - Eigmabllz
+[U:1:1208380510] - Eigmaballz
+[U:1:1208611617] - Eigmbllz
+[U:1:1107856427] - bat 21
+[U:1:1107837718] - bat 2
+[U:1:1208568510] - Enigmballz
+[U:1:1208030943] - nigmaballz
+[U:1:1208545842] - Eigmallz
+[U:1:1208537489] - Enigmallz
+[U:1:1108824961] - bat 1
+[U:1:1107653258] - bat 7
+[U:1:1107526033] - bat 14
+[U:1:1177450026] - (1)Chicago Cowboy
+[U:1:1190783473] - (2)Chicago Cowboy
+[U:1:1109067283] - bat 5
+[U:1:1186197906] - Hitch Trailblazer
+[U:1:1208537489] - Enigmallz
+[U:1:1208611617] - Eigmbllz
+[U:1:1107889136] - bat 1
+[U:1:1208380510] - Eigmaballz
+[U:1:1107407584] - bat 27
+[U:1:1137623557] - pistol
+[U:1:1107520075] - bat 25
+[U:1:1107962978] - bat 10
+[U:1:1214043899] - Verify me www.botpolice.eu
+[U:1:1177450026] - (1)Skunkler
+[U:1:1107342074] - bat 18
+[U:1:1107748677] - bat 1
+[U:1:1107485850] - bat 12
+[U:1:1190355293] - DadPilled
+[U:1:1192120625] - MAGA Brony
+[U:1:1143944101] - Peppermint Swirl
+[U:1:1144141085] - (1)MAGA Brony
+[U:1:1190487660] - Asriel
+[U:1:1190590122] - DadPilled
+[U:1:1107342074] - bat 18
+[U:1:1107413641] - bat 28
+[U:1:1107553312] - bat 16
+[U:1:1143944101] - MAGA Brony
+[U:1:1208545842] - Eigmallz
+[U:1:1133431749] - Peppermint Swirl
+[U:1:1177271705] - (2)DadPilled
+[U:1:1192026384] - Hitch Trailblazer
+[U:1:1192422480] - (1)Miss Maxine
+[U:1:1087599737] - Neko <3
+[U:1:1190857657] - (1)Hitch Trailblazer
+[U:1:1190355293] - Asriel
+[U:1:1209398181] - vk.com/thenosok
+[U:1:1190520900] - Chicago Cowboy
+[U:1:1208650151] - (1)vk.com/thenosok
+[U:1:1208433766] - (2)vk.com/thenosok
+[U:1:1209134893] - (3)vk.com/thenosok
+[U:1:1208797283] - vk.com/thenosok
+[U:1:1107653258] - Octovaitor
+[U:1:1107622630] - Shreddoctor
+[U:1:1107566530] - Jekrix Lokan
+[U:1:1083698820] - garbageGaming
+[U:1:1107553312] - Nir | steel scars.
+[U:1:1192120625] - DadPilled
+[U:1:1190626434] - Skunkler
+[U:1:1133470344] - WingsOfGhostsSon
+[U:1:1190387801] - (2)Miss Maxine
+[U:1:1190520900] - Chicago Cowboy
+[U:1:1133008458] - (1)Miss Maxine
+[U:1:1108751461] - bat 24
+[U:1:1208363482] - wally bot 7
+[U:1:1107407584] - bat 18
+[U:1:1180922934] - FUCK TRANS RIGHTS
+[U:1:1208358173] - FUCK PRIDE MONTH
+[U:1:1208150701] - Eigmaallz
+[U:1:1208243613] - Enigmabllz
+[U:1:1208199107] - Wally's Anti Faggotry SS Legion
+[U:1:1208545842] - Eigmallz
+[U:1:1107526033] - bat 6
+[U:1:1107856427] - bat 21
+[U:1:1133431749] - Skunkler
+[U:1:1190488625] - Peppermint Swirl
+[U:1:1190606002] - Chicago Cowboy
+[U:1:1107878236] - bat 4
+[U:1:1208545842] - Eigmallz
+[U:1:1208030943] - nigmaballz
+[U:1:1107837718] - bat 2
+[U:1:1145456170] - wikipedia
+[U:1:1190520900] - (2)MAGA Brony
+[U:1:1177271705] - (1)MAGA Brony
+[U:1:1208611617] - Eigmbllz
+[U:1:1208545842] - Eigmallz
+[U:1:1208293037] - Enigmbllz
+[U:1:1107513286] - bat 17
+[U:1:1107962978] - bat 10
+[U:1:1190590122] - DadPilled
+[U:1:1107837718] - bat 0
+[U:1:1107555706] - bat 24
+[U:1:1190477560] - DadPilled
+[U:1:1190387801] - Hitch Trailblazer
+[U:1:1107653258] - bat 7
+[U:1:1109067283] - bat 5
+[U:1:1107557995] - bat 15
+[U:1:1190630554] - Asriel
+[U:1:1108886131] - bat 6
+[U:1:1107784951] - bat 26
+[U:1:1192026384] - Peppermint Swirl
+[U:1:1190375931] - (1)WingsOfGhostsSon
+[U:1:1107413641] - bat 13
+[U:1:1107342074] - bat 19
+[U:1:1107557995] - bat 15
+[U:1:1107653258] - bat 9
+[U:1:1107856427] - bat 7
+[U:1:1108751461] - bat 3
+[U:1:1108751461] - bat 3
+[U:1:1192422480] - Peppermint Swirl
+[U:1:1192120625] - Skunkler
+[U:1:1190375931] - Chicago Cowboy
+[U:1:1190477560] - (1)WingsOfGhostsSon
+[U:1:1190355293] - DadPilled
+[U:1:1107407584] - bat 4
+[U:1:1190783473] - Miss Maxine
+[U:1:1107622630] - bat 11
+[U:1:1208545842] - Eigmallz
+[U:1:1143944101] - DadPilled
+[U:1:1190450459] - Skunkler
+[U:1:1107520075] - bat 25
+[U:1:1108698612] - bat 13
+[U:1:1104760553] - Gun Loli's Server Enhancers
+[U:1:1107413641] - bat 28
+[U:1:1107553312] - bat 16
+[U:1:1107784951] - bat 26
+[U:1:1192120625] - (2)Asriel
+[U:1:1190558084] - Chicago Cowboy
+[U:1:1190477560] - WingsOfGhostsSon
+[U:1:1163377410] - Peppermint Swirl
+[U:1:1192120625] - Chicago Cowboy
+[U:1:1190626434] - (1)Miss Maxine
+[U:1:1133008458] - (2)Miss Maxine
+[U:1:1177450026] - Hitch Trailblazer
+[U:1:1209134893] - vk.com/thenosok
+[U:1:1208502556] - (1)vk.com/thenosok
+[U:1:1107622630] - Pulverizer
+[U:1:1107513286] - Pembroke
+[U:1:1107555706] - Nikolaire
+[U:1:1130823001] - (1)Peppermint Swirl
+[U:1:1163340629] - (2)Miss Maxine
+[U:1:1190355293] - Asriel
+[U:1:1190488625] - Hitch Trailblazer
+[U:1:1107962978] - coolyoshi834
+[U:1:1107874818] - MetalPhnx
+[U:1:1190387801] - (1)MAGA Brony
+[U:1:1107407584] - bat 18
+[U:1:1107526033] - bat 6
+[U:1:1107837718] - bat 3
+[U:1:1107784951] - bat 19
+[U:1:1207927425] - ANTI FAGGOT BOT
+[U:1:1208199107] - wally bot 4
+[U:1:1107856427] - bat 21
+[U:1:1107485850] - bat 12
+[U:1:1107413641] - bat 13
+[U:1:1107889136] - bat 0
+[U:1:1190520900] - Asriel
+[U:1:1107653258] - bat 7
+[U:1:1107566530] - bat 20
+[U:1:1207916172] - FUCK PRIDE MONTH
+[U:1:1108886131] - bat 25
+[U:1:1208199107] - Wally's Anti Faggotry SS Legion
+[U:1:1106536089] - Freeon
+[U:1:1107622630] - bat 11
+[U:1:1205045593] - Stryker
+[U:1:1214828116] - BOTKILLER
+[U:1:1190590122] - (1)Skunkler
+[U:1:1192026384] - Chicago Cowboy
+[U:1:1107889136] - bat 0
+[U:1:1107784951] - bat 19
+[U:1:1192120625] - DadPilled
+[U:1:1192422480] - Asriel
+[U:1:1190606002] - Chicago Cowboy
+[U:1:1215350461] - The Scout That Follows U
+[U:1:1215431360] - (2)The Scout That Follows U
+[U:1:1215151951] - (1)The Scout That Follows U
+[U:1:1190387801] - MAGA Brony
+[U:1:1208537489] - Enigmallz
+[U:1:1107874818] - bat 3
+[U:1:1107526033] - bat 6
+[U:1:1192120625] - (1)Miss Maxine
+[U:1:1186197906] - Chicago Cowboy
+[U:1:1179227700] - (3)Verify me www.botpolice.eu
+[U:1:1186197906] - WingsOfGhostsSon
+[U:1:1133008458] - (1)Asriel
+[U:1:1192120625] - Peppermint Swirl
+[U:1:1208545842] - Eigmallz
+[U:1:1107407584] - bat 27
+[U:1:1107889136] - bat 1
+[U:1:1107622630] - bat 11
+[U:1:1108698612] - bat 23
+[U:1:1208243613] - Enigmabllz
+[U:1:1177450026] - DadPilled
+[U:1:1190558084] - Skunkler
+[U:1:1143944101] - Skunkler
+[U:1:1190477560] - Hitch Trailblazer
+[U:1:1192026384] - (3)WingsOfGhostsSon
+[U:1:1133008458] - Peppermint Swirl
+[U:1:1131373529] - (1)DadPilled
+[U:1:1107485850] - bat 12
+[U:1:1190630554] - Peppermint Swirl
+[U:1:1109067283] - bat 5
+[U:1:1190590122] - (2)Peppermint Swirl
+[U:1:1190630554] - (2)MAGA Brony
+[U:1:1161750751] - Gun Loli's Server Enhancers
+[U:1:1161720020] - Gun Loli's Server Enhancers
+[U:1:1190606002] - (1)Asriel
+[U:1:1190783473] - Miss Maxine
+[U:1:1205045593] - (1)Stryker
+[U:1:1204776217] - (2)Stryker
+[U:1:1107889136] - bat 4
+[U:1:1109067283] - bat 5
+[U:1:1108829149] - bat 20
+[U:1:1108886131] - bat 19
+[U:1:1208537489] - Enigmallz
+[U:1:1107520075] - bat 25
+[U:1:1208474057] - Enigmaallz
+[U:1:1133008458] - (2)Skunkler
+[U:1:1108751461] - bat 17
+[U:1:1190477560] - (1)WingsOfGhostsSon
+[U:1:1107889136] - bat 27
+[U:1:1190355293] - (1)Hitch Trailblazer
+[U:1:1087599737] - Neko <3
+[U:1:1163377410] - (1)Skunkler
+[U:1:1190477560] - Skunkler
+[U:1:1215047090] - Trash-bot
+[U:1:1131373529] - (2)Miss Maxine
+[U:1:1190606002] - Chicago Cowboy
+[U:1:1192120625] - (2)Peppermint Swirl
+[U:1:1161720020] - Gun Loli's Server Enhancers
+[U:1:1208927594] - vk.com/thenosok
+[U:1:1107407584] - RACIST DOCTOR
+[U:1:1117892479] - Stareinthevoid
+[U:1:1203730] - Power Heaven Cake
+[U:1:35362770] - Runningest76
+[U:1:1107520075] - RACIST FARMER
+[U:1:1115730896] - beans
+[U:1:69728678] - Ki So Pod
+[U:1:1216069048] - Mikasa kills Eren AOT S4 Part 2
+[U:1:1107342074] - MadMeatball
+[U:1:1107622630] - legitify
+[U:1:1107866033] - fin1
+[U:1:1107413641] - justinskittles
+[U:1:1107413641] - nottebretts
+[U:1:1107413641] - nottebretts
+[U:1:1190630554] - Peppermint Swirl
+[U:1:1190783473] - Hitch Trailblazer
+[U:1:1190590122] - (2)DadPilled
+[U:1:1207927425] - FUCK PRIDE MONTH
+[U:1:1177450026] - DadPilled
+[U:1:1190381151] - WingsOfGhostsSon
+[U:1:1190774746] - Asriel
+[U:1:1177450026] - Asriel
+[U:1:1190857657] - Skunkler
+[U:1:1190355293] - Asriel
+[U:1:1163340629] - Asriel
+[U:1:1190520900] - DadPilled
+[U:1:1190626434] - (1)Hitch Trailblazer
+[U:1:1190387801] - Asriel
+[U:1:1192120625] - Miss Maxine
+[U:1:1131373529] - (2)Hitch Trailblazer
+[U:1:1214828116] - BOTKILLER
+[U:1:1214828116] - BOTKILLER
+[U:1:1205045593] - Stryker
+[U:1:1190375931] - (2)Asriel
+[U:1:1144141085] - Chicago Cowboy
+[U:1:1190381151] - WingsOfGhostsSon
+[U:1:1144004700] - (1)Skunkler
+[U:1:1143944101] - MAGA Brony
+[U:1:1204776217] - Stryker
+[U:1:1192120625] - (1)Skunkler
+[U:1:1107748677] - bat 5
+[U:1:1107526033] - bat 6
+[U:1:1107557995] - bat 16
+[U:1:1190630554] - Asriel
+[U:1:1163377410] - Peppermint Swirl
+[U:1:1133431749] - (1)Chicago Cowboy
+[U:1:1190520900] - Asriel
+[U:1:1133470344] - WingsOfGhostsSon
+[U:1:1131373529] - Skunkler
+[U:1:1190488625] - Miss Maxine
+[U:1:1108824961] - bat 27
+[U:1:1107653258] - bat 7
+[U:1:1107407584] - bat 18
+[U:1:1192422480] - Asriel
+[U:1:1190630554] - Hitch Trailblazer
+[U:1:1208293037] - Enigmbllz
+[U:1:1107566530] - bat 20
+[U:1:1107413641] - bat 13
+[U:1:1163377410] - Hitch Trailblazer
+[U:1:1132043356] - Peppermint Swirl
+[U:1:1208474057] - Enigmaallz
+[U:1:1107557995] - bat 19
+[U:1:1107856427] - bat 21
+[U:1:1208474057] - Enigmaallz
+[U:1:1107520075] - bat 25
+[U:1:1109067283] - bat 5
+[U:1:1205045593] - (2)Stryker
+[U:1:1107413641] - bat 13
+[U:1:1107784951] - bat 26
+[U:1:1107407584] - bat 27
+[U:1:1107520075] - bat 25
+[U:1:1107485850] - bat 12
+[U:1:1192422480] - WingsOfGhostsSon
+[U:1:1143944101] - Miss Maxine
+[U:1:1190558084] - Skunkler
+[U:1:1190606002] - (1)Peppermint Swirl
+[U:1:1190450459] - WingsOfGhostsSon
+[U:1:1107520075] - bat 25
+[U:1:1144004700] - Hitch Trailblazer
+[U:1:1108886131] - bat 19
+[U:1:1177450026] - WingsOfGhostsSon
+[U:1:1107407584] - bat 4
+[U:1:1107485850] - bat 12
+[U:1:1190630554] - DadPilled
+[U:1:1190606002] - (1)MAGA Brony
+[U:1:1190487660] - Miss Maxine
+[U:1:1192422480] - (1)Miss Maxine
+[U:1:1190590122] - (2)MAGA Brony
+[U:1:1107748677] - bat 1
+[U:1:1107653258] - bat 9
+[U:1:1107866033] - bat 21
+[U:1:1108698612] - bat 13
+[U:1:1107866033] - bat 21
+[U:1:1107553312] - bat 16
+[U:1:1107866033] - bat 21
+[U:1:1107553312] - bat 16
+[U:1:1190355293] - Miss Maxine
+[U:1:1143944101] - (3)Skunkler
+[U:1:1190477560] - (3)WingsOfGhostsSon
+[U:1:1192422480] - Chicago Cowboy
+[U:1:1190558084] - Asriel
+[U:1:1208147391] - Eigmabllz
+[U:1:1190477560] - Hitch Trailblazer
+[U:1:1133008458] - DadPilled
+[U:1:1208998465] - vk.com/thenosok
+[U:1:1208710188] - vk.com/thenosok
+[U:1:1107555706] - El Butch DeLoria
+[U:1:35362770] - Jess a phres
+[U:1:1115730896] - braaaap 12
+[U:1:69728678] - trollwallis
+[U:1:1203730] - Peter_Swatson
+[U:1:1117892479] - RushN_Ice
+[U:1:1144141085] - DadPilled
+[U:1:1107553312] - papapattyp
+[U:1:1107526033] - Dragonfly1226
+[U:1:1107413641] - MechaNite
+[U:1:1107866033] - Captain Apathetic
+[U:1:1107622630] - Dogetheun
+[U:1:1177271705] - DadPilled
+[U:1:1190626434] - MAGA Brony
+[U:1:1190857657] - Chicago Cowboy
+[U:1:1190477560] - Miss Maxine
+[U:1:1192120625] - Skunkler
+[U:1:1190626434] - Asriel
+[U:1:1131373529] - Chicago Cowboy
+[U:1:1144141085] - (1)Chicago Cowboy
+[U:1:1190477560] - Asriel
+[U:1:1190450459] - WingsOfGhostsSon
+[U:1:1190626434] - (1)Hitch Trailblazer
+[U:1:1087599737] - Neko <3
+[U:1:1190630554] - MAGA Brony
+[U:1:1144141085] - Miss Maxine
+[U:1:1190375931] - (1)DadPilled
+[U:1:1163377410] - DadPilled
+[U:1:1133008458] - Chicago Cowboy
+[U:1:1190590122] - WingsOfGhostsSon
+[U:1:1143944101] - MAGA Brony
+[U:1:1107962978] - bat 1
+[U:1:1107856427] - bat 21
+[U:1:1190487660] - Peppermint Swirl
+[U:1:1107874818] - bat 3
+[U:1:1208537489] - Enigmallz
+[U:1:1107526033] - bat 6
+[U:1:1190450459] - DadPilled
+[U:1:1186197906] - Skunkler
+[U:1:1133470344] - WingsOfGhostsSon
+[U:1:1107407584] - bat 27
+[U:1:1109067283] - bat 5
+[U:1:1107748677] - bat 16
+[U:1:1107962978] - bat 3
+[U:1:1107413641] - bat 13
+[U:1:1107520075] - bat 25
+[U:1:1107557995] - bat 19
+[U:1:1107526033] - bat 14
+[U:1:1208380510] - Eigmaballz
+[U:1:1107878236] - bat 4
+[U:1:1190487660] - Asriel
+[U:1:1107878236] - bat 4
+[U:1:1107555706] - bat 17
+[U:1:1107557995] - bat 19
+[U:1:1192026384] - MAGA Brony
+[U:1:1190520900] - DadPilled
+[U:1:1190857657] - Peppermint Swirl
+[U:1:1140284466] - (1)Verify me www.botpolice.eu
+[U:1:1190450459] - MAGA Brony
+[U:1:1108698612] - bat 23
+[U:1:1208030943] - nigmaballz
+[U:1:1107622630] - bat 11
+[U:1:1133282614] - (1)WingsOfGhostsSon
+[U:1:1190626434] - (1)Chicago Cowboy
+[U:1:1190590122] - Miss Maxine
+[U:1:1133470344] - (1)Asriel
+[U:1:1107407584] - bat 27
+[U:1:1107407584] - bat 27
+[U:1:1108886131] - bat 6
+[U:1:1137623557] - pistol
+[U:1:1190783473] - MAGA Brony
+[U:1:1214828116] - BOTKILLER
+[U:1:1190590122] - (1)Miss Maxine
+[U:1:1190387801] - DadPilled
+[U:1:1190857657] - MAGA Brony
+[U:1:1109067283] - bat 5
+[U:1:1186197906] - Miss Maxine
+[U:1:1186197906] - Miss Maxine
+[U:1:1107513286] - bat 17
+[U:1:1107407584] - bat 27
+[U:1:1161720020] - Gun Loli's Server Enhancers
+[U:1:1161750751] - Gun Loli's Server Enhancers
+[U:1:1192422480] - WingsOfGhostsSon
+[U:1:1180922934] - FUCK PRIDE MONTH
+[U:1:1190375931] - Chicago Cowboy
+[U:1:1190355293] - (1)Hitch Trailblazer
+[U:1:1192120625] - (1)Peppermint Swirl
+[U:1:1190477560] - Skunkler
+[U:1:1133431749] - (1)WingsOfGhostsSon
+[U:1:1163377410] - (1)Miss Maxine
+[U:1:1161669928] - Dog Loli
+[U:1:1104760553] - Gun Loli's Server Enhancers
+[U:1:1161822820] - Gun Loli's Server Enhancers
+[U:1:1161720020] - Gun Loli's Server Enhancers
+[U:1:1161750751] - Gun Loli's Server Enhancers
+[U:1:1107557995] - bat 15
+[U:1:1208243613] - Enigmabllz
+[U:1:1208568510] - Enigmballz
+[U:1:1208611617] - Eigmbllz
+[U:1:1208150701] - Eigmaallz
+[U:1:1107653258] - bat 9
+[U:1:1107866033] - bat 21
+[U:1:1107622630] - bat 11
+[U:1:1107748677] - bat 1
+[U:1:1143944101] - Chicago Cowboy
+[U:1:1190487660] - MAGA Brony
+[U:1:1132043356] - Skunkler
+[U:1:1190520900] - (2)Skunkler
+[U:1:1161720020] - Gun Loli's Server Enhancers
+[U:1:1161750751] - Gun Loli's Server Enhancers
+[U:1:1190355293] - DadPilled
+[U:1:1108698612] - bat 13
+[U:1:1107889136] - bat 27
+[U:1:1208147391] - Eigmabllz
+[U:1:1143944101] - Hitch Trailblazer
+[U:1:1190355293] - Miss Maxine
+[U:1:1143944101] - (2)WingsOfGhostsSon
+[U:1:1208895789] - vk.com/thenosok
+[U:1:1208943195] - (1)vk.com/thenosok
+[U:1:1208998465] - vk.com/thenosok
+[U:1:1208433766] - (2)vk.com/thenosok
+[U:1:1208650151] - (1)vk.com/thenosok
+[U:1:1208797283] - vk.com/thenosok
+[U:1:1209134893] - (3)vk.com/thenosok
+[U:1:1107413641] - PVZImp
+[U:1:1107513286] - LeafBoy
+[U:1:1204776217] - Stryker
+[U:1:1131373529] - Miss Maxine
+[U:1:1190558084] - Skunkler
+[U:1:1107784951] - bat 19
+[U:1:1107622630] - bat 11
+[U:1:1107748677] - bat 5
+[U:1:1190375931] - Asriel
+[U:1:1190626434] - Peppermint Swirl
+[U:1:1107555706] - bat 14
+[U:1:1106536089] - Freeon
+[U:1:1208076100] - FUCK PRIDE MONTH
+[U:1:1106536089] - Freeon
+[U:1:1107566530] - bat 20
+[U:1:1107622630] - bat 11
+[U:1:1107784951] - bat 19
+[U:1:1107866033] - bat 10
+[U:1:1207927425] - Wally's Anti Faggotry SS Legion
+[U:1:1107889136] - bat 0
+[U:1:1107653258] - bat 7
+[U:1:1107866033] - bat 10
+[U:1:1107784951] - bat 19
+[U:1:1204776217] - Stryker
+[U:1:1163377410] - Chicago Cowboy
+[U:1:1107889136] - bat 0
+[U:1:1186197906] - Hitch Trailblazer
+[U:1:1107866033] - bat 10
+[U:1:1108698612] - bat 23
+[U:1:1208030943] - nigmaballz
+[U:1:1161669928] - Gun Loli's Server Enhancers
+[U:1:1204776217] - (1)Stryker
+[U:1:1205045593] - Stryker
+[U:1:1161822820] - Gun Loli's Server Enhancers
+[U:1:1161720020] - Gun Loli's Server Enhancers
+[U:1:1104760553] - Gun Loli's Server Enhancers
+[U:1:1161750751] - Gun Loli's Server Enhancers
+[U:1:1137623557] - pistol
+[U:1:1107342074] - bat 19
+[U:1:1107653258] - bat 9
+[U:1:1107413641] - bat 13
+[U:1:1107866033] - bat 21
+[U:1:1180922934] - Wally's Anti Faggotry SS Legion
+[U:1:1108829149] - bat 20
+[U:1:1132043356] - (1)Chicago Cowboy
+[U:1:1190488625] - (1)Skunkler
+[U:1:1204776217] - (2)Stryker
+[U:1:1205045593] - (4)Stryker
+[U:1:1107520075] - bat 25
+[U:1:1107513286] - bat 17
+[U:1:1190487660] - Asriel
+[U:1:1131373529] - (1)WingsOfGhostsSon
+[U:1:1190355293] - Skunkler
+[U:1:1208710188] - vk.com/thenosok
+[U:1:1190355293] - Chicago Cowboy
+[U:1:1190450459] - MAGA Brony
+[U:1:1190857657] - Miss Maxine
+[U:1:1209134893] - vk.com/thenosok
+[U:1:1107342074] - MadMeatball
+[U:1:1107622630] - legitify
+[U:1:1107866033] - fin1
+[U:1:1107413641] - justinskittles
+[U:1:1107784951] - RACIST DETECTIVE
+[U:1:1107566530] - mralex
+[U:1:459536875] - Tushkan
+[U:1:1144141085] - (1)Peppermint Swirl
+[U:1:1143944101] - (1)Hitch Trailblazer
+[U:1:1202506056] - Kibby
+[U:1:1190783473] - (1)Miss Maxine
+[U:1:1177271705] - Hitch Trailblazer
+[U:1:1133470344] - Miss Maxine
+[U:1:124027450] - Linden's B. Johnson
+[U:1:1087599737] - Neko <3
+[U:1:1107784951] - bat 19
+[U:1:1132043356] - WingsOfGhostsSon
+[U:1:1190590122] - Chicago Cowboy
+[U:1:1180922934] - FUCK PRIDE MONTH
+[U:1:1192026384] - (1)Asriel
+[U:1:1190387801] - Asriel
+[U:1:1208199107] - FUCK PRIDE MONTH
+[U:1:1107520075] - bat 17
+[U:1:1192026384] - (2)Hitch Trailblazer
+[U:1:1190387801] - Asriel
+[U:1:1133431749] - Skunkler
+[U:1:1190488625] - Asriel
+[U:1:1190626434] - (1)Miss Maxine
+[U:1:1192422480] - Skunkler
+[U:1:1208474057] - Enigmaallz
+[U:1:1108829149] - bat 28
+[U:1:1107874818] - bat 3
+[U:1:1107526033] - bat 6
+[U:1:1192026384] - WingsOfGhostsSon
+[U:1:1192422480] - (2)MAGA Brony
+[U:1:1208150701] - Eigmaallz
+[U:1:1192596418] - someones antibot 0
+[U:1:1208474057] - Enigmaallz
+[U:1:1190488625] - Asriel
+[U:1:1132043356] - Hitch Trailblazer
+[U:1:1190355293] - Skunkler
+[U:1:1190630554] - Skunkler
+[U:1:1214828116] - BOTKILLER
+[U:1:1131373529] - (1)Asriel
+[U:1:1108751461] - bat 3
+[U:1:1107513286] - bat 17
+[U:1:1107889136] - bat 1
+[U:1:1192120625] - Hitch Trailblazer
+[U:1:1208380510] - Eigmaballz
+[U:1:1208243613] - Enigmabllz
+[U:1:1208293037] - Enigmbllz
+[U:1:1208147391] - Eigmabllz
+[U:1:1208545842] - Eigmallz
+[U:1:1214828116] - BOTKILLER
+[U:1:1192026384] - Miss Maxine
+[U:1:1131373529] - (1)Peppermint Swirl
+[U:1:1192422480] - (1)Hitch Trailblazer
+[U:1:1190487660] - DadPilled
+[U:1:1143944101] - Hitch Trailblazer
+[U:1:1190488625] - DadPilled
+[U:1:1190355293] - Skunkler
+[U:1:1161720020] - Gun Loli's Server Enhancers
+[U:1:1161669928] - Gun Loli's Server Enhancer
+[U:1:1161750751] - Gun Loli's Server Enhancers
+[U:1:1133282614] - Peppermint Swirl
+[U:1:1107513286] - bat 17
+[U:1:1108886131] - bat 6
+[U:1:1190857657] - MAGA Brony
+[U:1:1132043356] - Hitch Trailblazer
+[U:1:1144004700] - (2)Chicago Cowboy
+[U:1:1177450026] - Chicago Cowboy
+[U:1:1108751461] - bat 3
+[U:1:1108824961] - bat 2
+[U:1:1107520075] - bat 25
+[U:1:1107856427] - bat 7
+[U:1:1144141085] - Asriel
+[U:1:1190606002] - Peppermint Swirl
+[U:1:1190630554] - (1)Skunkler
+[U:1:1107622630] - bat 11
+[U:1:1190520900] - (1)Asriel
+[U:1:1107553312] - bat 16
+[U:1:1107866033] - bat 21
+[U:1:1107653258] - bat 9
+[U:1:1190355293] - (1)WingsOfGhostsSon
+[U:1:1192422480] - Asriel
+[U:1:1190783473] - WingsOfGhostsSon
+[U:1:1133008458] - (1)WingsOfGhostsSon
+[U:1:1133282614] - (2)MAGA Brony
+[U:1:1192120625] - (3)Miss Maxine
+[U:1:1190626434] - (1)MAGA Brony
+[U:1:1144141085] - DadPilled
+[U:1:1161669928] - Gun Loli's Server Enhancers
+[U:1:1161750751] - Box Loli
+[U:1:1161822820] - Gun Loli's Server Enhancers
+[U:1:1104760553] - (1)Gun Loli's Server Enhance
+[U:1:1161720020] - (2)Gun Loli's Server Enhance
+[U:1:1190488625] - Asriel
+[U:1:1190375931] - Hitch Trailblazer
+[U:1:1131373529] - (1)Asriel
+[U:1:1144004700] - Miss Maxine
+[U:1:1208797283] - vk.com/thenosok
+[U:1:1208943195] - (1)vk.com/thenosok
+[U:1:1208895789] - vk.com/thenosok
+[U:1:1209134893] - (3)vk.com/thenosok
+[U:1:1208433766] - (2)vk.com/thenosok
+[U:1:1208650151] - (1)vk.com/thenosok
+[U:1:1107557995] - That Random Lemon
+[U:1:1216069048] - Mikasa kills Eren AOT S4 Part 2
+[U:1:1107622630] - Shreddoctor
+[U:1:1107653258] - Octovaitor
+[U:1:1107413641] - justinskittles
+[U:1:1107566530] - Jekrix Lokan
+[U:1:1083698820] - garbageGaming
+[U:1:1107622630] - LordGood
+[U:1:1190381151] - (2)DadPilled
+[U:1:35362770] - Jess a phres
+[U:1:69728678] - trollwallis
+[U:1:1115730896] - braaaap 12
+[U:1:1117892479] - RushN_Ice
+[U:1:1203730] - Peter_Swatson
+[U:1:1107866033] - Mysticore
+[U:1:1107407584] - stephano
+[U:1:1107513286] - Kot237
+[U:1:1107526033] - Cleep
+[U:1:1107784951] - Goosher
+[U:1:1107622630] - Linkon400
+[U:1:459536875] - Gobert
+[U:1:1107566530] - [G.Z.A]Seventh Elf
+[U:1:1107342074] - Orlikov
+[U:1:1190630554] - Hitch Trailblazer
+[U:1:1133008458] - DadPilled
+[U:1:1190626434] - DadPilled
+[U:1:1107889136] - bat 0
+[U:1:1107784951] - bat 19
+[U:1:1107837718] - bat 3
+[U:1:1107526033] - bat 6
+[U:1:1107407584] - bat 18
+[U:1:1207927425] - ANTI FAGGOT BOT
+[U:1:1208199107] - wally bot 4
+[U:1:1107856427] - bat 21
+[U:1:1143944101] - MAGA Brony
+[U:1:1190488625] - WingsOfGhostsSon
+[U:1:1107342074] - bat 8
+[U:1:1208380510] - Eigmaballz
+[U:1:1214828116] - BOTKILLER
+[U:1:1192026384] - DadPilled
+[U:1:1190590122] - (1)Chicago Cowboy
+[U:1:1107513286] - bat 9
+[U:1:1190375931] - (2)Asriel
+[U:1:1192422480] - Peppermint Swirl
+[U:1:1208611617] - Eigmbllz
+[U:1:1107889136] - bat 0
+[U:1:1107555706] - bat 17
+[U:1:1108886131] - bat 6
+[U:1:1107485850] - bat 12
+[U:1:1190387801] - Miss Maxine
+[U:1:1177271705] - (1)Miss Maxine
+[U:1:1190520900] - WingsOfGhostsSon
+[U:1:1190488625] - (2)Miss Maxine
+[U:1:1133431749] - (1)WingsOfGhostsSon
+[U:1:1190606002] - (1)Peppermint Swirl
+[U:1:1186197906] - Peppermint Swirl
+[U:1:1131373529] - (2)DadPilled
+[U:1:1144004700] - Hitch Trailblazer
+[U:1:1192422480] - WingsOfGhostsSon
+[U:1:1143944101] - Asriel
+[U:1:1109067283] - bat 5
+[U:1:1208545842] - Eigmallz
+[U:1:1208380510] - Eigmaballz
+[U:1:1208568510] - Enigmballz
+[U:1:1190783473] - (1)Miss Maxine
+[U:1:1190590122] - (1)Hitch Trailblazer
+[U:1:1190558084] - Miss Maxine
+[U:1:1133008458] - (1)Asriel
+[U:1:1107878236] - bat 4
+[U:1:1190450459] - (1)MAGA Brony
+[U:1:1107526033] - bat 14
+[U:1:1107874818] - bat 9
+[U:1:1107837718] - bat 0
+[U:1:1190857657] - Chicago Cowboy
+[U:1:1133282614] - Miss Maxine
+[U:1:1192026384] - WingsOfGhostsSon
+[U:1:1190375931] - (1)Peppermint Swirl
+[U:1:1190558084] - Miss Maxine
+[U:1:1192120625] - DadPilled
+[U:1:1108824961] - bat 2
+[U:1:1107748677] - bat 1
+[U:1:1194660221] - apt install @_@
+[U:1:1108824961] - bat 2
+[U:1:1108698612] - bat 23
+[U:1:1194660221] - sudo apt install crithack
+[U:1:1107557995] - bat 15
+[U:1:1133282614] - (1)WingsOfGhostsSon
+[U:1:1190606002] - MAGA Brony
+[U:1:1107653258] - bat 9
+[U:1:1108829149] - bat 20
+[U:1:1107889136] - bat 4
+[U:1:1143944101] - (1)Asriel
+[U:1:1131373529] - (3)Asriel
+[U:1:1107413641] - bat 13
+[U:1:1107856427] - bat 7
+[U:1:1190558084] - Miss Maxine
+[U:1:1190487660] - (2)Peppermint Swirl
+[U:1:1107513286] - bat 22
+[U:1:1107622630] - bat 11
+[U:1:1107889136] - bat 27
+[U:1:1107557995] - bat 15
+[U:1:1107874818] - bat 8
+[U:1:1133282614] - (1)Asriel
+[U:1:1190626434] - WingsOfGhostsSon
+[U:1:1190487660] - (1)Asriel
+[U:1:1190520900] - Asriel
+[U:1:1208502556] - (1)vk.com/thenosok
+[U:1:1209134893] - vk.com/thenosok
+[U:1:1190857657] - (1)Asriel
+[U:1:1192120625] - WingsOfGhostsSon
+[U:1:1144141085] - Miss Maxine
+[U:1:1133431749] - WingsOfGhostsSon
+[U:1:1208943195] - (1)vk.com/thenosok
+[U:1:1216069048] - Mikasa kills Eren AOT S4 Part 2
+[U:1:1107513286] - Dutch_Oven
+[U:1:1107407584] - Engineer Gaming HD
+[U:1:1107557995] - Snowberry Kush
+[U:1:1107485850] - Sack Back Nut Nut $5700
+[U:1:1126798326] - Thaaking2k
+[U:1:1192026384] - DadPilled
+[U:1:1192422480] - (1)Miss Maxine
+[U:1:1190783473] - Hitch Trailblazer
+[U:1:1190590122] - (2)DadPilled
+[U:1:1087599737] - Neko <3
+[U:1:1208358173] - FUCK PRIDE MONTH
+[U:1:1207835526] - ANTI FAGGOT BOT
+[U:1:1207916172] - YOUR SEXUALITY DOESNT MATTER
+[U:1:1163377410] - (1)Asriel
+[U:1:1190450459] - Asriel
+[U:1:1107622630] - bat 11
+[U:1:1106536089] - Freeon
+[U:1:1204776217] - Stryker
+[U:1:1215151951] - Scout That Follows You
+[U:1:1215431360] - The Scout That Follows U
+[U:1:1190590122] - Peppermint Swirl
+[U:1:1133008458] - (1)Hitch Trailblazer
+[U:1:1190477560] - (1)Asriel
+[U:1:1208568510] - Enigmballz
+[U:1:1208030943] - nigmaballz
+[U:1:1208474057] - Enigmaallz
+[U:1:1107555706] - bat 14
+[U:1:1208150701] - Eigmaallz
+[U:1:1208474057] - Enigmaallz
+[U:1:1208147391] - Eigmabllz
+[U:1:1190375931] - (1)MAGA Brony
+[U:1:1133282614] - Chicago Cowboy
+[U:1:1201916303] - (1)Verify me www.botpolice.eu
+[U:1:1208293037] - Enigmbllz
+[U:1:1107889136] - bat 0
+[U:1:1108698612] - bat 23
+[U:1:1107553312] - bat 15
+[U:1:1108751461] - bat 24
+[U:1:1163377410] - Peppermint Swirl
+[U:1:1107866033] - bat 10
+[U:1:1107874818] - bat 9
+[U:1:1190450459] - (1)WingsOfGhostsSon
+[U:1:1133431749] - Miss Maxine
+[U:1:1214828116] - BOTKILLER
+[U:1:1143944101] - MAGA Brony
+[U:1:1144004700] - (1)DadPilled
+[U:1:1133470344] - (2)DadPilled
+[U:1:1190590122] - (1)Hitch Trailblazer
+[U:1:1190558084] - Miss Maxine
+[U:1:1192026384] - MAGA Brony
+[U:1:1190387801] - (1)DadPilled
+[U:1:57213041] - Xandver Cage
+[U:1:1163377410] - DadPilled
+[U:1:1186197906] - Miss Maxine
+[U:1:1137623557] - pistol
+[U:1:1107874818] - bat 9
+[U:1:1107526033] - bat 14
+[U:1:1163377410] - (1)MAGA Brony
+[U:1:1133282614] - Chicago Cowboy
+[U:1:1208380510] - Eigmaballz
+[U:1:1190488625] - (1)Asriel
+[U:1:1104760553] - Gun Loli's Server Enhancers
+[U:1:1161822820] - Gun Loli's Server Enhancers
+[U:1:1144004700] - (1)MAGA Brony
+[U:1:1190487660] - WingsOfGhostsSon
+[U:1:1190630554] - (1)Miss Maxine
+[U:1:1190488625] - (1)Asriel
+[U:1:1107342074] - bat 19
+[U:1:1108751461] - bat 3
+[U:1:1107622630] - bat 11
+[U:1:1107413641] - bat 13
+[U:1:1133431749] - Peppermint Swirl
+[U:1:1132043356] - Chicago Cowboy
+[U:1:1107407584] - bat 4
+[U:1:1107878236] - bat 14
+[U:1:1177450026] - (1)Miss Maxine
+[U:1:1190783473] - Peppermint Swirl
+[U:1:1131373529] - Asriel
+[U:1:1108829149] - bat 2
+[U:1:1190477560] - MAGA Brony
+[U:1:1132043356] - (1)Asriel
+[U:1:1133282614] - Skunkler
+[U:1:1208293037] - Enigmbllz
+[U:1:1208030943] - nigmaballz
+[U:1:1208150701] - Eigmaallz
+[U:1:1208293037] - Enigmbllz
+[U:1:1208030943] - nigmaballz
+[U:1:1133282614] - Skunkler
+[U:1:1190606002] - (1)Peppermint Swirl
+[U:1:1190626434] - Asriel
+[U:1:1190783473] - Skunkler
+[U:1:1192422480] - (1)WingsOfGhostsSon
+[U:1:1190606002] - Peppermint Swirl
+[U:1:1132043356] - Skunkler
+[U:1:1143944101] - (2)Peppermint Swirl
+[U:1:1133431749] - WingsOfGhostsSon
+[U:1:1131373529] - Hitch Trailblazer
+[U:1:1144141085] - (1)DadPilled
+[U:1:1107520075] - DoomRunner
+[U:1:1107513286] - TheMagicMrWaffle
+[U:1:1107553312] - Wegeeboi
+[U:1:1107526033] - Dragonfly1226
+[U:1:1107413641] - MechaNite
+[U:1:1107553312] - papapattyp
+[U:1:1107555706] - Disappointment One
+[U:1:1190375931] - Chicago Cowboy
+[U:1:1190418234] - FUCK TRANS RIGHTS
+[U:1:1190477560] - Asriel
+[U:1:1190450459] - MAGA Brony
+[U:1:1107889136] - bat 0
+[U:1:1107784951] - bat 19
+[U:1:1107874818] - MetalPhnx
+[U:1:1106536089] - Freeon
+[U:1:1205045593] - Stryker
+[U:1:1192026384] - Hitch Trailblazer
+[U:1:1214828116] - BOTKILLER
+[U:1:1186197906] - (2)Hitch Trailblazer
+[U:1:1107878236] - bat 4
+[U:1:1104760553] - Gun Loli's Server Enhancers
+[U:1:1161822820] - Gun Loli's Server Enhancers
+[U:1:1161669928] - Gun Loli's Server Enhancers
+[U:1:1161720020] - Gun Loli's Server Enhancers
+[U:1:1190626434] - Chicago Cowboy
+[U:1:1192120625] - (1)Skunkler
+[U:1:1144141085] - (1)Chicago Cowboy
+[U:1:1190590122] - Skunkler
+[U:1:1133282614] - Asriel
+[U:1:1131373529] - Skunkler
+[U:1:1190488625] - Hitch Trailblazer
+[U:1:1107653258] - bat 7
+[U:1:1107748677] - bat 16
+[U:1:1208293037] - Enigmbllz
+[U:1:1208243613] - Enigmabllz
+[U:1:1109067283] - bat 5
+[U:1:1107889136] - bat 0
+[U:1:1107555706] - bat 17
+[U:1:1107485850] - bat 12
+[U:1:1107962978] - bat 3
+[U:1:1192422480] - Asriel
+[U:1:1190606002] - Hitch Trailblazer
+[U:1:1208568510] - Enigmballz
+[U:1:1208474057] - Enigmaallz
+[U:1:1107557995] - bat 19
+[U:1:1107520075] - bat 25
+[U:1:1190387801] - Peppermint Swirl
+[U:1:1190375931] - MAGA Brony
+[U:1:1208545842] - Eigmallz
+[U:1:1208147391] - Eigmabllz
+[U:1:1208293037] - Enigmbllz
+[U:1:1144004700] - Peppermint Swirl
+[U:1:1143944101] - Hitch Trailblazer
+[U:1:1190857657] - MAGA Brony
+[U:1:1190558084] - Skunkler
+[U:1:1190630554] - Miss Maxine
+[U:1:1192422480] - (1)Chicago Cowboy
+[U:1:1192026384] - Chicago Cowboy
+[U:1:1133431749] - WingsOfGhostsSon
+[U:1:1143944101] - Chicago Cowboy
+[U:1:1190783473] - WingsOfGhostsSon
+[U:1:1186197906] - Miss Maxine
+[U:1:1192422480] - MAGA Brony
+[U:1:1131373529] - (1)Chicago Cowboy
+[U:1:1107413641] - bat 13
+[U:1:1107653258] - bat 9
+[U:1:1108886131] - bat 6
+[U:1:1107784951] - bat 26
+[U:1:1107555706] - bat 24
+[U:1:1190606002] - Miss Maxine
+[U:1:1190520900] - (1)DadPilled
+[U:1:1109067283] - bat 5
+[U:1:1194660221] - apt install @_@
+[U:1:1190626434] - (2)Miss Maxine
+[U:1:1190520900] - DadPilled
+[U:1:1163377410] - Skunkler
+[U:1:1190857657] - (1)Hitch Trailblazer
+[U:1:1133282614] - (1)Chicago Cowboy
+[U:1:1192422480] - (1)DadPilled
+[U:1:1190783473] - Chicago Cowboy
+[U:1:1143944101] - (1)MAGA Brony
+[U:1:1190558084] - (2)Chicago Cowboy
+[U:1:1190590122] - (1)Peppermint Swirl
+[U:1:1190355293] - WingsOfGhostsSon
+[U:1:1192120625] - (1)Peppermint Swirl
+[U:1:1107520075] - bat 25
+[U:1:1107889136] - bat 4
+[U:1:1205045593] - (4)Stryker
+[U:1:1204776217] - (2)Stryker
+[U:1:1177450026] - Miss Maxine
+[U:1:1144141085] - DadPilled
+[U:1:1192026384] - WingsOfGhostsSon
+[U:1:1190520900] - (1)Miss Maxine
+[U:1:1131373529] - Hitch Trailblazer
+[U:1:1208545842] - Eigmallz
+[U:1:1208150701] - Eigmaallz
+[U:1:1208030943] - nigmaballz
+[U:1:1190606002] - Peppermint Swirl
+[U:1:1190375931] - DadPilled
+[U:1:1132043356] - Peppermint Swirl
+[U:1:1192422480] - (2)Asriel
+[U:1:1190783473] - Skunkler
+[U:1:1144141085] - (3)Hitch Trailblazer
+[U:1:1208652884] - vk.com/thenosok
+[U:1:1104760553] - Gun Loli's Server Enhancers
+[U:1:1161669928] - (1)Gun Loli's Server Enhance
+[U:1:1161822820] - Gun Loli's Server Enhancers
+[U:1:1205045593] - Stryker
+[U:1:1208998465] - vk.com/thenosok
+[U:1:1107555706] -  
+[U:1:1107866033] - RACIST MAO
+[U:1:1107407584] - Its Cody
+[U:1:1107557995] - RACIST PIMP
+[U:1:1107413641] - Johnny Hairdo
+[U:1:1107553312] - Quantumato
+[U:1:1107622630] - swatblack
+[U:1:1107485850] - Tomguy
+[U:1:1107513286] - seer62
+[U:1:1107566530] - NorthTheAssassin/trade.tf
+[U:1:1115730896] - braaaap 12
+[U:1:1107622630] - knuffeltje
+[U:1:35362770] - Jess a phres
+[U:1:69728678] - trollwallis
+[U:1:1117892479] - RushN_Ice
+[U:1:1203730] - Peter_Swatson
+[U:1:1131373529] - Chicago Cowboy
+[U:1:1133470344] - Chicago Cowboy
+[U:1:1133008458] - braaaap 43
+[U:1:1144141085] - (2)Peppermint Swirl
+[U:1:1190868938] - Miss Maxine
+[U:1:1144004700] - (1)Peppermint Swirl
+[U:1:1190375931] - DadPilled
+[U:1:1132043356] - Chicago Cowboy
+[U:1:1177450026] - Skunkler
+[U:1:1108886131] - bat 25
+[U:1:1107553312] - bat 15
+[U:1:1107557995] - bat 16
+[U:1:1106536089] - Freeon
+[U:1:1106536089] - Freeon
+[U:1:1205045593] - Stryker
+[U:1:1208537489] - Enigmallz
+[U:1:1177271705] - Miss Maxine
+[U:1:1133282614] - (1)Skunkler
+[U:1:1208243613] - Enigmabllz
+[U:1:1107557995] - bat 19
+[U:1:1208568510] - Enigmballz
+[U:1:1208474057] - Enigmaallz
+[U:1:1133008458] - MAGA Brony
+[U:1:1177450026] - Hitch Trailblazer
+[U:1:1190375931] - (2)DadPilled
+[U:1:1186197906] - (1)WingsOfGhostsSon
+[U:1:1107526033] - bat 6
+[U:1:1208380510] - Eigmaballz
+[U:1:1177450026] - (1)MAGA Brony
+[U:1:1107866033] - bat 21
+[U:1:1205045593] - (2)Stryker
+[U:1:1107413641] - bat 13
+[U:1:1108886131] - bat 6
+[U:1:1190387801] - (3)DadPilled
+[U:1:1190558084] - Skunkler
+[U:1:1192120625] - Chicago Cowboy
+[U:1:1131373529] - (1)Miss Maxine
+[U:1:1144004700] - Peppermint Swirl
+[U:1:1190630554] - Miss Maxine
+[U:1:1137623557] - pistol
+[U:1:1192422480] - Chicago Cowboy
+[U:1:1190387801] - (1)Skunkler
+[U:1:1143944101] - (1)Skunkler
+[U:1:1107520075] - bat 25
+[U:1:1107520075] - bat 25
+[U:1:1214828116] - I forgot to edit names.txt
+[U:1:1207927425] - FUCK PRIDE MONTH
+[U:1:1107837718] - bat 0
+[U:1:1107653258] - bat 9
+[U:1:1107784951] - bat 26
+[U:1:1190520900] - (1)Asriel
+[U:1:1190590122] - MAGA Brony
+[U:1:1133431749] - Peppermint Swirl
+[U:1:1107413641] - bat 13
+[U:1:1107526033] - bat 22
+[U:1:1205045593] - (4)Stryker
+[U:1:1204776217] - (2)Stryker
+[U:1:1190626434] - (1)DadPilled
+[U:1:1144004700] - Skunkler
+[U:1:1131373529] - Peppermint Swirl
+[U:1:1190450459] - (1)WingsOfGhostsSon
+[U:1:1107866033] - bat 21
+[U:1:1208545842] - Eigmallz
+[U:1:1208030943] - nigmaballz
+[U:1:1190355293] - Skunkler
+[U:1:1190606002] - MAGA Brony
+[U:1:1144141085] - Chicago Cowboy
+[U:1:1143944101] - (2)Miss Maxine
+[U:1:1190626434] - (3)Chicago Cowboy
+[U:1:1163377410] - Miss Maxine
+[U:1:1190630554] - Peppermint Swirl
+[U:1:1143944101] - (1)Miss Maxine
+[U:1:1143944101] - (1)Miss Maxine
+[U:1:1177271705] - (1)Peppermint Swirl
+[U:1:1144004700] - WingsOfGhostsSon
+[U:1:1133008458] - Skunkler
+[U:1:1209134893] - (3)vk.com/thenosok
+[U:1:1208797283] - vk.com/thenosok
+[U:1:1208433766] - (2)vk.com/thenosok
+[U:1:1208650151] - (1)vk.com/thenosok
+[U:1:1190626434] - (1)MAGA Brony
+[U:1:1192120625] - Skunkler
+[U:1:1190590122] - Peppermint Swirl
+[U:1:1190418234] - FUCK TRANS RIGHTS
+[U:1:1133008458] - (1)Asriel
+[U:1:1190558084] - (2)Asriel
+[U:1:1163377410] - MAGA Brony
+[U:1:1190783473] - Miss Maxine
+[U:1:1186197906] - Chicago Cowboy
+[U:1:1190630554] - Miss Maxine
+[U:1:1107889136] - bat 0
+[U:1:1208199107] - FAGGOT KILLER
+[U:1:1190450459] - Chicago Cowboy
+[U:1:1107962978] - bat 1
+[U:1:1107553312] - bat 15
+[U:1:1107342074] - bat 8
+[U:1:1190520900] - MAGA Brony
+[U:1:1133282614] - (1)Miss Maxine
+[U:1:1177450026] - (1)Asriel
+[U:1:1133431749] - (1)Skunkler
+[U:1:1192120625] - Hitch Trailblazer
+[U:1:1208293037] - Enigmbllz
+[U:1:1107962978] - bat 3
+[U:1:1107748677] - bat 16
+[U:1:1109067283] - bat 5
+[U:1:1208568510] - Enigmballz
+[U:1:1208243613] - Enigmabllz
+[U:1:1107557995] - bat 19
+[U:1:1107526033] - bat 14
+[U:1:1107413641] - bat 13
+[U:1:1107520075] - bat 25
+[U:1:1107962978] - bat 3
+[U:1:1133470344] - Hitch Trailblazer
+[U:1:1107566530] - bat 20
+[U:1:1208474057] - Enigmaallz
+[U:1:1208147391] - Eigmabllz
+[U:1:1108829149] - bat 28
+[U:1:1107553312] - bat 18
+[U:1:1107407584] - bat 27
+[U:1:1108886131] - bat 6
+[U:1:1109067283] - bat 5
+[U:1:1107485850] - bat 12
+[U:1:1107784951] - bat 26
+[U:1:1107526033] - bat 14
+[U:1:1190626434] - DadPilled
+[U:1:1143944101] - (1)Chicago Cowboy
+[U:1:1107342074] - bat 19
+[U:1:1190630554] - Asriel
+[U:1:1145456170] - wikipedia
+[U:1:1161750751] - Gun Loli's Server Enhancers
+[U:1:1161720020] - Gun Loli's Server Enhancers
+[U:1:1144141085] - Peppermint Swirl
+[U:1:1132043356] - Peppermint Swirl
+[U:1:1190857657] - Chicago Cowboy
+[U:1:1190783473] - Skunkler
+[U:1:1109067283] - bat 5
+[U:1:1108922641] - bat 6
+[U:1:1107622630] - bat 11
+[U:1:1190450459] - MAGA Brony
+[U:1:1190477560] - WingsOfGhostsSon
+[U:1:1190488625] - Chicago Cowboy
+[U:1:1190558084] - (1)WingsOfGhostsSon
+[U:1:1144141085] - (1)Peppermint Swirl
+[U:1:1131373529] - (1)Chicago Cowboy
+[U:1:1190626434] - (1)Skunkler
+[U:1:1132043356] - (1)Asriel
+[U:1:1192422480] - (1)Miss Maxine
+[U:1:1190520900] - Asriel
+[U:1:1190488625] - Chicago Cowboy
+[U:1:1108886131] - bat 19
+[U:1:1190857657] - Miss Maxine
+[U:1:1190783473] - (4)Miss Maxine
+[U:1:1177450026] - (1)WingsOfGhostsSon
+[U:1:1208293037] - Enigmbllz
+[U:1:1208611617] - Eigmbllz
+[U:1:1208147391] - Eigmabllz
+[U:1:1208150701] - Eigmaallz
+[U:1:1131373529] - Hitch Trailblazer
+[U:1:1216069048] - Mikasa kills Eren AOT S4 Part 2
+[U:1:1107866033] - Yoders
+[U:1:1190450459] - Hitch Trailblazer
+[U:1:1133282614] - MAGA Brony
+[U:1:1177450026] - DadPilled
+[U:1:1190868938] - Asriel
+[U:1:1131373529] - Asriel
+[U:1:1143944101] - Asriel
+[U:1:1163377410] - Skunkler
+[U:1:1133470344] - WingsOfGhostsSon
+[U:1:1192120625] - DadPilled
+[U:1:1107874818] - MetalPhnx
+[U:1:1190774746] - (1)Miss Maxine
+[U:1:1190868938] - (1)DadPilled
+[U:1:1107557995] - bat 16
+[U:1:1107555706] - bat 14
+[U:1:1133282614] - (2)Hitch Trailblazer
+[U:1:1108922641] - bat 22
+[U:1:1133470344] - Asriel
+[U:1:1190630554] - Skunkler
+[U:1:1190857657] - MAGA Brony
+[U:1:1106536089] - Freeon
+[U:1:1107553312] - bat 15
+[U:1:1107962978] - bat 1
+[U:1:1190355293] - Peppermint Swirl
+[U:1:1208380510] - Eigmaballz
+[U:1:1208076100] - YOUR SEXUALITY DOESNT MATTER
+[U:1:1204776217] - Stryker
+[U:1:1107342074] - bat 8
+[U:1:1107520075] - bat 17
+[U:1:1108698612] - bat 23
+[U:1:1208545842] - Eigmallz
+[U:1:1208243613] - Enigmabllz
+[U:1:1186197906] - (1)Chicago Cowboy
+[U:1:1190487660] - Peppermint Swirl
+[U:1:1144141085] - (1)Miss Maxine
+[U:1:1192422480] - (2)Asriel
+[U:1:1190558084] - DadPilled
+[U:1:1133431749] - Asriel
+[U:1:1079997978] - bluem45k (f2p)
+[U:1:1177271705] - (1)MAGA Brony
+[U:1:1190520900] - (2)MAGA Brony
+[U:1:1190477560] - Skunkler
+[U:1:1208030943] - nigmaballz
+[U:1:1208568510] - Enigmballz
+[U:1:1207927425] - YOUR SEXUALITY DOESNT MATTER
+[U:1:1177450026] - (1)Peppermint Swirl
+[U:1:1143944101] - (2)Asriel
+[U:1:1144141085] - (1)Skunkler
+[U:1:1190355293] - MAGA Brony
+[U:1:1190387801] - Skunkler
+[U:1:1190520900] - (1)Skunkler
+[U:1:1186197906] - MAGA Brony
+[U:1:1192026384] - (1)Skunkler
+[U:1:1204776217] - (3)Stryker
+[U:1:1205045593] - Stryker
+[U:1:1192422480] - DadPilled
+[U:1:1190626434] - (1)MAGA Brony
+[U:1:1192120625] - Skunkler
+[U:1:1107342074] - bat 19
+[U:1:1190520900] - Miss Maxine
+[U:1:1143944101] - DadPilled
+[U:1:1177450026] - WingsOfGhostsSon
+[U:1:1207927425] - FUCK PRIDE MONTH
+[U:1:1107622630] - bat 11
+[U:1:1107878236] - bat 14
+[U:1:1208199107] - wally bot 4
+[U:1:1207916172] - wally bot 6
+[U:1:1190487660] - Chicago Cowboy
+[U:1:1143944101] - (1)Asriel
+[U:1:1131373529] - (3)Asriel
+[U:1:1107513286] - bat 17
+[U:1:1190857657] - WingsOfGhostsSon
+[U:1:1144141085] - MAGA Brony
+[U:1:1109067283] - bat 5
+[U:1:1107653258] - bat 9
+[U:1:1107856427] - bat 7
+[U:1:1107784951] - bat 26
+[U:1:1107837718] - bat 0
+[U:1:1107889136] - bat 27
+[U:1:1208611617] - Eigmbllz
+[U:1:1107866033] - bat 21
+[U:1:1208150701] - Eigmaallz
+[U:1:1208147391] - Eigmabllz
+[U:1:1208293037] - Enigmbllz
+[U:1:1208147391] - Eigmabllz
+[U:1:1190520900] - WingsOfGhostsSon
+[U:1:1190355293] - Miss Maxine
+[U:1:1133282614] - Skunkler
+[U:1:1190375931] - Hitch Trailblazer
+[U:1:1190355293] - Chicago Cowboy
+[U:1:1190783473] - Skunkler
+[U:1:1132043356] - Asriel
+[U:1:1208969022] - vk.com/thenosok
+[U:1:1107557995] - noubgamerebooted
+[U:1:35362770] - Jess a phres
+[U:1:459536875] - Roberto The Robot
+[U:1:1115730896] - opp0site
+[U:1:1117892479] - twi
+[U:1:1107653258] - iona196kennedy
+[U:1:1107557995] - Bluebear367
+[U:1:1203730] - What is this place
+[U:1:69728678] - forevershooting
+[U:1:1192120625] - Chicago Cowboy
+[U:1:1190774746] - Chicago Cowboy
+[U:1:1192120625] - DadPilled
+[U:1:1107485850] - Triten
+[U:1:1107342074] - bat 8
+[U:1:1107553312] - bat 15
+[U:1:1107784951] - bat 19
+[U:1:1107874818] - MetalPhnx
+[U:1:1190381151] - Peppermint Swirl
+[U:1:1190477560] - Miss Maxine
+[U:1:1190606002] - (1)Miss Maxine
+[U:1:1107837718] - bat 3
+[U:1:1107413641] - bat 13
+[U:1:1107526033] - bat 6
+[U:1:1108922641] - bat 22
+[U:1:1107874818] - bat 2
+[U:1:1204776217] - Stryker
+[U:1:1192026384] - Hitch Trailblazer
+[U:1:1205045593] - Stryker
+[U:1:1107878236] - bat 4
+[U:1:1192120625] - (2)Miss Maxine
+[U:1:1108698612] - bat 23
+[U:1:1107407584] - bat 27
+[U:1:1107553312] - bat 18
+[U:1:1109067283] - bat 5
+[U:1:1107485850] - bat 12
+[U:1:1107622630] - bat 11
+[U:1:1208147391] - Eigmabllz
+[U:1:1108829149] - bat 28
+[U:1:1107784951] - bat 26
+[U:1:1107520075] - bat 25
+[U:1:1107962978] - bat 10
+[U:1:1107784951] - bat 26
+[U:1:1192026384] - WingsOfGhostsSon
+[U:1:1190520900] - (1)WingsOfGhostsSon
+[U:1:1186197906] - WingsOfGhostsSon
+[U:1:1107413641] - bat 13
+[U:1:1131373529] - Asriel
+[U:1:1133282614] - (2)Miss Maxine
+[U:1:1190558084] - MAGA Brony
+[U:1:1190355293] - (1)WingsOfGhostsSon
+[U:1:1108824961] - bat 2
+[U:1:1107837718] - bat 0
+[U:1:1108751461] - bat 3
+[U:1:1190783473] - WingsOfGhostsSon
+[U:1:1208380510] - Eigmaballz
+[U:1:1107874818] - bat 8
+[U:1:1108886131] - bat 19
+[U:1:1107526033] - bat 0
+[U:1:1208030943] - nigmaballz
+[U:1:1104760553] - Gun Loli's Server Enhancers
+[U:1:1108886131] - bat 19
+[U:1:1107653258] - bat 9
+[U:1:1190857657] - Miss Maxine
+[U:1:1163377410] - Asriel
+[U:1:1190487660] - (2)MAGA Brony
+[U:1:1205045593] - Stryker
+[U:1:1190626434] - DadPilled
+[U:1:1177450026] - (2)MAGA Brony
+[U:1:1186197906] - MAGA Brony
+[U:1:1131373529] - (1)Chicago Cowboy
+[U:1:1192120625] - DadPilled
+[U:1:1190450459] - (2)Chicago Cowboy
+[U:1:1190590122] - Chicago Cowboy
+[U:1:1190606002] - Miss Maxine
+[U:1:1190783473] - Peppermint Swirl
+[U:1:1177271705] - Asriel
+[U:1:1208611617] - Eigmbllz
+[U:1:1190606002] - DadPilled
+[U:1:320112900] - Luna Lux
+[U:1:1190626434] - Miss Maxine
+[U:1:1186197906] - (1)Hitch Trailblazer
+[U:1:1131373529] - WingsOfGhostsSon
+[U:1:1190488625] - (2)Chicago Cowboy
+[U:1:1190375931] - (3)Miss Maxine
+[U:1:1190355293] - Miss Maxine
+[U:1:1190590122] - (3)Chicago Cowboy
+[U:1:1190520900] - (2)WingsOfGhostsSon
+[U:1:1208969022] - (1)vk.com/thenosok
+[U:1:1208710188] - vk.com/thenosok
+[U:1:1185923793] - Not a Duck
+[U:1:1215047090] - Trash-bot
+[U:1:1107784951] - Painguin
+[U:1:459536875] - anonymous
+[U:1:1107557995] - Slurz
+[U:1:1107413641] - Turkey Lurkey
+[U:1:1107485850] - Box Of Thin Mints
+[U:1:1107653258] - hot load
+[U:1:1107555706] - Nikolaire
+[U:1:1208358173] - YOUR SEXUALITY DOESNT MATTER
+[U:1:1190355293] - Chicago Cowboy
+[U:1:1133282614] - Chicago Cowboy
+[U:1:1163340629] - Peppermint Swirl
+[U:1:1087599737] - Neko <3
+[U:1:1143944101] - Chicago Cowboy
+[U:1:1190606002] - Skunkler
+[U:1:1144004700] - MAGA Brony
+[U:1:1190387801] - (1)Peppermint Swirl
+[U:1:1190857657] - (1)MAGA Brony
+[U:1:1208243613] - Enigmabllz
+[U:1:1208150701] - Eigmaallz
+[U:1:1107962978] - bat 1
+[U:1:1107856427] - bat 21
+[U:1:1208150701] - Eigmaallz
+[U:1:1208474057] - Enigmaallz
+[U:1:1208147391] - Eigmabllz
+[U:1:1190375931] - MAGA Brony
+[U:1:1208611617] - Eigmbllz
+[U:1:1208030943] - nigmaballz
+[U:1:1107878236] - bat 4
+[U:1:1192026384] - DadPilled
+[U:1:1190590122] - MAGA Brony
+[U:1:1190355293] - Hitch Trailblazer
+[U:1:1107555706] - bat 17
+[U:1:1107889136] - bat 0
+[U:1:1208293037] - Enigmbllz
+[U:1:1107566530] - bat 20
+[U:1:1192120625] - Skunkler
+[U:1:1177271705] - DadPilled
+[U:1:1132043356] - DadPilled
+[U:1:157388780] - Womble
+[U:1:1192026384] - usselg2.zhou
+[U:1:1108824961] - bat 1
+[U:1:1131373529] - Chicago Cowboy
+[U:1:1144141085] - Asriel
+[U:1:1144004700] - MAGA Brony
+[U:1:1204776217] - (1)Stryker
+[U:1:1177271705] - Peppermint Swirl
+[U:1:1143944101] - MAGA Brony
+[U:1:1137623557] - pistol
+[U:1:1107784951] - bat 26
+[U:1:1107485850] - bat 12
+[U:1:1108886131] - bat 6
+[U:1:1190857657] - Miss Maxine
+[U:1:1190626434] - (2)Miss Maxine
+[U:1:1133470344] - (2)WingsOfGhostsSon
+[U:1:1190520900] - (3)Skunkler
+[U:1:1107837718] - bat 0
+[U:1:1107555706] - bat 24
+[U:1:1177450026] - Asriel
+[U:1:1108829149] - bat 20
+[U:1:1107889136] - bat 1
+[U:1:1107748677] - bat 16
+[U:1:1207927425] - YOUR SEXUALITY DOESNT MATTER
+[U:1:1190606002] - Miss Maxine
+[U:1:1190558084] - MAGA Brony
+[U:1:1192120625] - DadPilled
+[U:1:1192026384] - Hitch Trailblazer
+[U:1:1214828116] - BOTKILLER
+[U:1:1192120625] - (1)MAGA Brony
+[U:1:1143944101] - DadPilled
+[U:1:1190590122] - WingsOfGhostsSon
+[U:1:1107878236] - bat 4
+[U:1:1107866033] - bat 21
+[U:1:1180922934] - Wally's Anti Faggotry SS Legion
+[U:1:1107566530] - bat 28
+[U:1:1107878236] - bat 4
+[U:1:1177450026] - (2)Skunkler
+[U:1:1190558084] - Hitch Trailblazer
+[U:1:1190857657] - (1)WingsOfGhostsSon
+[U:1:1190606002] - (1)Miss Maxine
+[U:1:1190375931] - Asriel
+[U:1:1190590122] - WingsOfGhostsSon
+[U:1:1131373529] - WingsOfGhostsSon
+[U:1:1143944101] - (1)DadPilled
+[U:1:1177450026] - (1)Chicago Cowboy
+[U:1:1144141085] - Miss Maxine
+[U:1:1107874818] - bat 8
+[U:1:1208545842] - Eigmallz
+[U:1:1208380510] - Eigmaballz
+[U:1:1190488625] - Chicago Cowboy
+[U:1:1133008458] - Miss Maxine
+[U:1:1161822820] - Gun Loli's Server Enhancers
+[U:1:1108886131] - bat 19
+[U:1:1107856427] - bat 7
+[U:1:1107485850] - bat 12
+[U:1:1107856427] - bat 7
+[U:1:1190857657] - Miss Maxine
+[U:1:1190606002] - Peppermint Swirl
+[U:1:1177271705] - (2)MAGA Brony
+[U:1:1133282614] - (1)Asriel
+[U:1:1192120625] - (2)Skunkler
+[U:1:1208147391] - Eigmabllz
+[U:1:1190355293] - Miss Maxine
+[U:1:1161720020] - Gun Loli's Server Enhancers
+[U:1:1161750751] - Gun Loli's Server Enhancers
+[U:1:1208710188] - vk.com/thenosok
+[U:1:1177271705] - Peppermint Swirl
+[U:1:1131373529] - DadPilled
+[U:1:1190375931] - (6)Skunkler
+[U:1:1208433766] - (2)vk.com/thenosok
+[U:1:1208797283] - vk.com/thenosok
+[U:1:1208650151] - (1)vk.com/thenosok
+[U:1:1133282614] - MAGA Brony
+[U:1:1208895789] - vk.com/thenosok
+[U:1:1190450459] - Hitch Trailblazer
+[U:1:1203730] - Peter_Swatson
+[U:1:35362770] - Jess a phres
+[U:1:1115730896] - braaaap 12
+[U:1:1117892479] - RushN_Ice
+[U:1:69728678] - trollwallis
+[U:1:1107553312] - papapattyp
+[U:1:1107526033] - Dragonfly1226
+[U:1:1107413641] - MechaNite
+[U:1:1107555706] - Disappointment One
+[U:1:1107866033] - Captain Apathetic
+[U:1:1107622630] - Dogetheun
+[U:1:1133008458] - WingsOfGhostsSon
+[U:1:1186197906] - Chicago Cowboy
+[U:1:1190558084] - Miss Maxine
+[U:1:1132043356] - Hitch Trailblazer
+[U:1:1133008458] - Skunkler
+[U:1:1215431360] - The Scout That Follows U
+[U:1:1215151951] - Scout That Follows You
+[U:1:1107962978] - bat 1
+[U:1:1214828116] - BOTKILLER
+[U:1:1144141085] - Miss Maxine
+[U:1:1107553312] - bat 15
+[U:1:1190520900] - Asriel
+[U:1:1163377410] - Miss Maxine
+[U:1:1190783473] - Asriel
+[U:1:1208380510] - Eigmaballz
+[U:1:1208568510] - Enigmballz
+[U:1:1107557995] - bat 19
+[U:1:1131373529] - MAGA Brony
+[U:1:1190590122] - (1)MAGA Brony
+[U:1:1145456170] - wikipedia
+[U:1:1145456170] - wikipedia
+[U:1:1190606002] - Hitch Trailblazer
+[U:1:1107413641] - bat 13
+[U:1:1208030943] - nigmaballz
+[U:1:1107866033] - bat 21
+[U:1:1107653258] - bat 7
+[U:1:1208537489] - Enigmallz
+[U:1:157388780] - Womble
+[U:1:1208545842] - Eigmallz
+[U:1:1107653258] - bat 9
+[U:1:1107413641] - bat 13
+[U:1:1132043356] - DadPilled
+[U:1:1107526033] - bat 14
+[U:1:1107962978] - bat 10
+[U:1:1190857657] - Chicago Cowboy
+[U:1:1192120625] - (1)Peppermint Swirl
+[U:1:1144004700] - Skunkler
+[U:1:1107413641] - bat 13
+[U:1:1190487660] - DadPilled
+[U:1:1108751461] - bat 3
+[U:1:1107837718] - bat 0
+[U:1:1107407584] - bat 4
+[U:1:1107513286] - bat 22
+[U:1:1163377410] - WingsOfGhostsSon
+[U:1:1190857657] - Chicago Cowboy
+[U:1:1133431749] - Miss Maxine
+[U:1:1208611617] - Eigmbllz
+[U:1:1177271705] - (2)DadPilled
+[U:1:1208150701] - Eigmaallz
+[U:1:1186197906] - (2)Miss Maxine
+[U:1:1190606002] - Skunkler
+[U:1:1208652884] - vk.com/thenosok
+[U:1:1209398181] - vk.com/thenosok
+[U:1:1107784951] - wungus bungus
+[U:1:35362770] - wvwen
+[U:1:1203730] - [b]ytes
+[U:1:1107513286] - Temmie
+[U:1:1107407584] - Solodeathbot
+[U:1:1107413641] - peanut gallery curator
+[U:1:1107485850] - FishinGuy77
+[U:1:1107557995] - Grease Monkey
+[U:1:1126798326] - Thaaking2k
+[U:1:1190381151] - Miss Maxine
+[U:1:1144141085] - (1)Chicago Cowboy
+[U:1:1063309086] - samuka10samuel
+[U:1:413648191] - idk
+[U:1:69728678] - trollwallis
+[U:1:1117892479] - RushN_Ice
+[U:1:1115730896] - braaaap 12
+[U:1:1190375931] - WingsOfGhostsSon
+[U:1:1190520900] - (1)Chicago Cowboy
+[U:1:1133470344] - Hitch Trailblazer
+[U:1:1213906838] - You bustards!
+[U:1:1192120625] - (2)MAGA Brony
+[U:1:1108698612] - bat 23
+[U:1:1208358173] - Wally's Anti Faggotry SS Legion
+[U:1:1108751461] - bat 24
+[U:1:1107553312] - bat 15
+[U:1:1130823001] - DadPilled
+[U:1:1190774746] - (1)DadPilled
+[U:1:1107557995] - bat 16
+[U:1:1106536089] - Freeon
+[U:1:1107653258] - bat 7
+[U:1:1107878236] - bat 4
+[U:1:1107748677] - bat 5
+[U:1:1208545842] - Eigmallz
+[U:1:1208030943] - nigmaballz
+[U:1:1107878236] - bat 4
+[U:1:1192422480] - WingsOfGhostsSon
+[U:1:1107889136] - bat 0
+[U:1:1208545842] - Eigmallz
+[U:1:1208030943] - nigmaballz
+[U:1:1190387801] - MAGA Brony
+[U:1:1192026384] - Skunkler
+[U:1:1107566530] - bat 20
+[U:1:1190355293] - WingsOfGhostsSon
+[U:1:1107748677] - bat 16
+[U:1:1107748677] - bat 16
+[U:1:1107622630] - bat 11
+[U:1:1107784951] - bat 26
+[U:1:1108886131] - bat 6
+[U:1:1108698612] - bat 23
+[U:1:1208611617] - Eigmbllz
+[U:1:1208380510] - Eigmaballz
+[U:1:1208537489] - Enigmallz
+[U:1:1177450026] - Miss Maxine
+[U:1:1190450459] - MAGA Brony
+[U:1:1190375931] - Asriel
+[U:1:1190355293] - (1)Chicago Cowboy
+[U:1:1107526033] - bat 14
+[U:1:1107874818] - bat 9
+[U:1:1208380510] - Eigmaballz
+[U:1:1177271705] - (1)DadPilled
+[U:1:1133282614] - Skunkler
+[U:1:1107485850] - bat 12
+[U:1:1107526033] - bat 14
+[U:1:1107784951] - bat 26
+[U:1:1190606002] - Miss Maxine
+[U:1:1190520900] - (1)DadPilled
+[U:1:1190626434] - DadPilled
+[U:1:1190630554] - Peppermint Swirl
+[U:1:1190857657] - Peppermint Swirl
+[U:1:1132043356] - (1)Peppermint Swirl
+[U:1:1144004700] - Chicago Cowboy
+[U:1:1190520900] - DadPilled
+[U:1:1190626434] - (2)Chicago Cowboy
+[U:1:1144004700] - MAGA Brony
+[U:1:1107342074] - bat 18
+[U:1:1107748677] - bat 1
+[U:1:1107566530] - bat 28
+[U:1:1107342074] - bat 18
+[U:1:1107526033] - bat 22
+[U:1:1107748677] - bat 1
+[U:1:1190590122] - DadPilled
+[U:1:1190606002] - Peppermint Swirl
+[U:1:1190630554] - (1)Skunkler
+[U:1:1190558084] - (2)Peppermint Swirl
+[U:1:1204776217] - (2)Stryker
+[U:1:1205045593] - (4)Stryker
+[U:1:1190783473] - DadPilled
+[U:1:1192026384] - (1)DadPilled
+[U:1:1107653258] - bat 9
+[U:1:1108886131] - bat 19
+[U:1:1161750751] - Gun Loli's Server Enhancers
+[U:1:1161720020] - Gun Loli's Server Enhancers
+[U:1:1190450459] - Peppermint Swirl
+[U:1:1177450026] - (2)Hitch Trailblazer
+[U:1:1192026384] - (1)Peppermint Swirl
+[U:1:1107874818] - bat 8
+[U:1:1107557995] - bat 15
+[U:1:1107557995] - bat 15
+[U:1:1213268655] - Timeline
+[U:1:1167426087] - Kurisu
+[U:1:1190375931] - DadPilled
+[U:1:1190355293] - (2)WingsOfGhostsSon
+[U:1:1177450026] - Miss Maxine
+[U:1:1161720020] - Gun Loli's Server Enhancers
+[U:1:1161750751] - Gun Loli's Server Enhancers
+[U:1:1177271705] - (2)Miss Maxine
+[U:1:1190355293] - WingsOfGhostsSon
+[U:1:1190857657] - MAGA Brony
+[U:1:1209398181] - vk.com/thenosok
+[U:1:1132043356] - (1)DadPilled
+[U:1:1208652884] - vk.com/thenosok
+[U:1:1208433766] - (2)vk.com/thenosok
+[U:1:1208650151] - (1)vk.com/thenosok
+[U:1:1208797283] - vk.com/thenosok
+[U:1:1143944101] - Chicago Cowboy
+[U:1:1117892479] - The Cum Goblin
+[U:1:35362770] - Kakcherry
+[U:1:1115730896] - Big_Walrus_842
+[U:1:1203730] - Peter_Swatson
+[U:1:1179129845] - Verify me www.botpolice.eu
+[U:1:1126798326] - Thaaking2k
+[U:1:492762157] - Jv.
+[U:1:1192120625] - (2)Chicago Cowboy
+[U:1:1186197906] - DadPilled
+[U:1:1204776217] - Stryker
+[U:1:1190606002] - Asriel
+[U:1:1190626434] - Skunkler
+[U:1:1207927425] - FAGGOT KILLER
+[U:1:1207927425] - FAGGOT KILLER
+[U:1:1208199107] - Wally's Anti Faggotry SS Legion
+[U:1:1107520075] - bat 17
+[U:1:1204776217] - Stryker
+[U:1:1107874818] - bat 3
+[U:1:1190630554] - Chicago Cowboy
+[U:1:1190387801] - Skunkler
+[U:1:1190626434] - WingsOfGhostsSon
+[U:1:1177450026] - MAGA Brony
+[U:1:1190487660] - Skunkler
+[U:1:1186197906] - MAGA Brony
+[U:1:1107342074] - bat 8
+[U:1:1107962978] - bat 1
+[U:1:1190630554] - Hitch Trailblazer
+[U:1:1107622630] - bat 11
+[U:1:1208243613] - Enigmabllz
+[U:1:1144141085] - Chicago Cowboy
+[U:1:1163377410] - Skunkler
+[U:1:1190626434] - Skunkler
+[U:1:1192120625] - (1)Chicago Cowboy
+[U:1:1104760553] - Gun Loli's Server Enhancers
+[U:1:1161822820] - Gun Loli's Server Enhancers
+[U:1:1161669928] - (1)Gun Loli's Server Enhance
+[U:1:1161720020] - Gun Loli's Server Enhancers
+[U:1:1133282614] - (1)Peppermint Swirl
+[U:1:1190783473] - Peppermint Swirl
+[U:1:1192026384] - (2)Skunkler
+[U:1:1107566530] - bat 20
+[U:1:1190606002] - MAGA Brony
+[U:1:1132043356] - Hitch Trailblazer
+[U:1:1190488625] - Asriel
+[U:1:1107622630] - bat 11
+[U:1:1107485850] - bat 12
+[U:1:1107856427] - bat 15
+[U:1:1107878236] - bat 4
+[U:1:1107866033] - bat 21
+[U:1:1109067283] - bat 5
+[U:1:1107342074] - bat 8
+[U:1:1107555706] - bat 24
+[U:1:1192422480] - (1)Chicago Cowboy
+[U:1:1192026384] - Chicago Cowboy
+[U:1:1190520900] - (1)DadPilled
+[U:1:1208568510] - Enigmballz
+[U:1:1107513286] - bat 17
+[U:1:1107748677] - bat 16
+[U:1:1107889136] - bat 1
+[U:1:1208611617] - Eigmbllz
+[U:1:1207927425] - YOUR SEXUALITY DOESNT MATTER
+[U:1:1208243613] - Enigmabllz
+[U:1:1107342074] - bat 19
+[U:1:1107962978] - bat 10
+[U:1:1107748677] - bat 16
+[U:1:1192026384] - Miss Maxine
+[U:1:1144141085] - DadPilled
+[U:1:1190520900] - (1)Peppermint Swirl
+[U:1:1107553312] - bat 18
+[U:1:1108829149] - bat 20
+[U:1:1107653258] - bat 9
+[U:1:1107837718] - bat 0
+[U:1:1108751461] - bat 3
+[U:1:1107874818] - bat 8
+[U:1:1190375931] - Hitch Trailblazer
+[U:1:1107889136] - bat 4
+[U:1:1107520075] - bat 25
+[U:1:1108698612] - bat 23
+[U:1:1108886131] - bat 19
+[U:1:1190857657] - (1)DadPilled
+[U:1:1190626434] - (1)MAGA Brony
+[U:1:1190606002] - Hitch Trailblazer
+[U:1:1190477560] - (1)Peppermint Swirl
+[U:1:1133282614] - Asriel
+[U:1:1208611617] - Eigmbllz
+[U:1:1208030943] - nigmaballz
+[U:1:1208545842] - Eigmallz
+[U:1:1190558084] - (2)WingsOfGhostsSon
+[U:1:1209398181] - vk.com/thenosok
+[U:1:1132043356] - Asriel
+[U:1:1190783473] - Skunkler
+[U:1:1208974238] - vk.com/thenosok
+[U:1:1208693674] - (1)vk.com/thenosok
+[U:1:1177271705] - MAGA Brony
+[U:1:1007063395] - Outrun
+[U:1:1107513286] - Temmie
+[U:1:1107784951] - wungus bungus
+[U:1:1107407584] - Solodeathbot
+[U:1:1107413641] - peanut gallery curator
+[U:1:1107485850] - FishinGuy77
+[U:1:1107557995] - Grease Monkey
+[U:1:35362770] - Jess a phres
+[U:1:69728678] - trollwallis
+[U:1:1117892479] - RushN_Ice
+[U:1:1203730] - Peter_Swatson
+[U:1:1115730896] - braaaap 12
+[U:1:1208076100] - Wally's Anti Faggotry SS Legion
+[U:1:1207738713] - FUCK PRIDE MONTH
+[U:1:1190375931] - Asriel
+[U:1:1106536089] - Freeon
+[U:1:1190375931] - MAGA Brony
+[U:1:1108922641] - bat 22
+[U:1:1108698612] - bat 23
+[U:1:1190387801] - Miss Maxine
+[U:1:1161822820] - Gun Loli's Server Enhancers
+[U:1:1107889136] - bat 0
+[U:1:1108751461] - bat 24
+[U:1:1190487660] - MAGA Brony
+[U:1:1108824961] - bat 1
+[U:1:1208545842] - Eigmallz
+[U:1:1107653258] - bat 7
+[U:1:1107526033] - bat 14
+[U:1:1192596418] - someones antibot 0
+[U:1:1133470344] - Skunkler
+[U:1:1186197906] - Peppermint Swirl
+[U:1:1190488625] - Asriel
+[U:1:1190558084] - MAGA Brony
+[U:1:1132043356] - WingsOfGhostsSon
+[U:1:1190590122] - Miss Maxine
+[U:1:1205045593] - Stryker
+[U:1:1163377410] - DadPilled
+[U:1:1133470344] - (1)WingsOfGhostsSon
+[U:1:1133008458] - Peppermint Swirl
+[U:1:1144141085] - WingsOfGhostsSon
+[U:1:1208243613] - Enigmabllz
+[U:1:1161720020] - Gun Loli's Server Enhancers
+[U:1:1161750751] - (1)Gun Loli's Server Enhance
+[U:1:1107555706] - bat 24
+[U:1:1107485850] - bat 12
+[U:1:1107866033] - bat 21
+[U:1:1107784951] - bat 26
+[U:1:1107526033] - bat 14
+[U:1:1107553312] - bat 18
+[U:1:1109067283] - bat 5
+[U:1:1107784951] - bat 26
+[U:1:1190520900] - Peppermint Swirl
+[U:1:1190857657] - (2)Skunkler
+[U:1:1107526033] - bat 22
+[U:1:1107748677] - bat 1
+[U:1:1107342074] - bat 18
+[U:1:1107557995] - bat 15
+[U:1:1144141085] - Miss Maxine
+[U:1:1107889136] - bat 27
+[U:1:1108886131] - bat 19
+[U:1:1208545842] - Eigmallz
+[U:1:1208030943] - nigmaballz
+[U:1:1144004700] - DadPilled
+[U:1:1192422480] - Asriel
+[U:1:1192026384] - (1)WingsOfGhostsSon
+[U:1:1216069048] - Mikasa kills Eren AOT
+[U:1:1208147391] - Eigmabllz
+[U:1:1190355293] - Chicago Cowboy
+[U:1:1190630554] - (1)Peppermint Swirl
+[U:1:1208969022] - vk.com/thenosok
+[U:1:1133470344] - Asriel
+[U:1:1133282614] - Miss Maxine
+[U:1:1133008458] - (1)Miss Maxine
+[U:1:1163377410] - MAGA Brony
+[U:1:1190477560] - Peppermint Swirl
+[U:1:1177271705] - (1)Chicago Cowboy
+[U:1:1190355293] - (1)Hitch Trailblazer
+[U:1:1190387801] - Miss Maxine
+[U:1:1186197906] - Asriel
+[U:1:1133282614] - Asriel
+[U:1:1106536089] - Freeon
+[U:1:1107866033] - bat 10
+[U:1:1207927425] - FUCK TRANS RIGHTS
+[U:1:1190418234] - YOUR SEXUALITY DOESNT MATTER
+[U:1:1107557995] - bat 16
+[U:1:1107878236] - bat 4
+[U:1:1107622630] - bat 11
+[U:1:1107866033] - bat 10
+[U:1:1107962978] - bat 1
+[U:1:1107856427] - bat 21
+[U:1:1192422480] - Skunkler
+[U:1:1133470344] - Asriel
+[U:1:1190630554] - Chicago Cowboy
+[U:1:1190590122] - (1)MAGA Brony
+[U:1:1133431749] - (2)Asriel
+[U:1:1133008458] - (1)Hitch Trailblazer
+[U:1:1161822820] - Gun Loli's Server Enhancers
+[U:1:1107555706] - bat 17
+[U:1:1107889136] - bat 0
+[U:1:1107856427] - bat 21
+[U:1:1107837718] - bat 2
+[U:1:1208537489] - Enigmallz
+[U:1:1107653258] - bat 7
+[U:1:1107874818] - bat 9
+[U:1:1107485850] - bat 12
+[U:1:1107784951] - bat 26
+[U:1:1107653258] - bat 7
+[U:1:1107513286] - bat 15
+[U:1:1161822820] - Gun Loli's Server Enhancers
+[U:1:1161750751] - Gun Loli's Server Enhancers
+[U:1:1161720020] - Gun Loli's Server Enhancers
+[U:1:1104760553] - Gun Loli's Server Enhancers
+[U:1:1192120625] - (2)DadPilled
+[U:1:1208537489] - Enigmallz
+[U:1:1190606002] - Hitch Trailblazer
+[U:1:1190558084] - (2)Asriel
+[U:1:1107566530] - bat 20
+[U:1:1107874818] - bat 9
+[U:1:1107526033] - bat 14
+[U:1:1137623557] - pistol
+[U:1:1192422480] - Chicago Cowboy
+[U:1:1107837718] - bat 0
+[U:1:1145456170] - wikipedia
+[U:1:1144141085] - Chicago Cowboy
+[U:1:1107889136] - bat 16
+[U:1:1107485850] - bat 12
+[U:1:1108824961] - bat 2
+[U:1:1107856427] - bat 7
+[U:1:1107520075] - bat 25
+[U:1:1108886131] - bat 14
+[U:1:1107526033] - bat 22
+[U:1:1192026384] - (2)Peppermint Swirl
+[U:1:1190590122] - Skunkler
+[U:1:1190857657] - WingsOfGhostsSon
+[U:1:1208293037] - Enigmbllz
+[U:1:1107485850] - bat 12
+[U:1:1190355293] - (1)MAGA Brony
+[U:1:1163377410] - WingsOfGhostsSon
+[U:1:1192120625] - MAGA Brony
+[U:1:1190606002] - (1)WingsOfGhostsSon
+[U:1:1208147391] - Eigmabllz
+[U:1:1190355293] - (1)WingsOfGhostsSon
+[U:1:1144141085] - WingsOfGhostsSon
+[U:1:1208895789] - vk.com/thenosok
+[U:1:1208433766] - (2)vk.com/thenosok
+[U:1:1208650151] - (1)vk.com/thenosok
+[U:1:1208797283] - vk.com/thenosok
+[U:1:1209134893] - (3)vk.com/thenosok
+[U:1:1190375931] - Miss Maxine
+[U:1:1190450459] - DadPilled
+[U:1:1190487660] - (1)Miss Maxine
+[U:1:1107566530] - RACIST KING
+[U:1:459536875] - anonymous
+[U:1:1107407584] - RACIST DOCTOR
+[U:1:1107784951] - Barry
+[U:1:459536875] - anonymous
+[U:1:1107566530] - SuperDootDoot
+[U:1:1216069048] - Mikasa kills Eren AOT S4 Part 2
+[U:1:1190387801] - Skunkler
+[U:1:1190868938] - Miss Maxine
+[U:1:1207916172] - FUCK PRIDE MONTH
+[U:1:1107837718] - bat 3
+[U:1:1107566530] - bat 20
+[U:1:1208199107] - FUCK PRIDE MONTH
+[U:1:1107520075] - bat 17
+[U:1:1208545842] - Eigmallz
+[U:1:1190783473] - WingsOfGhostsSon
+[U:1:1107874818] - bat 3
+[U:1:1107526033] - bat 6
+[U:1:1107874818] - bat 3
+[U:1:1190375931] - (2)Asriel
+[U:1:1208474057] - Enigmaallz
+[U:1:1186197906] - Hitch Trailblazer
+[U:1:1190387801] - WingsOfGhostsSon
+[U:1:1107866033] - bat 10
+[U:1:1190355293] - MAGA Brony
+[U:1:1204776217] - (2)Stryker
+[U:1:1208537489] - Enigmallz
+[U:1:1208611617] - Eigmbllz
+[U:1:1190590122] - Chicago Cowboy
+[U:1:1163377410] - (1)Asriel
+[U:1:1144141085] - DadPilled
+[U:1:1208030943] - nigmaballz
+[U:1:1208568510] - Enigmballz
+[U:1:1207927425] - FUCK PRIDE MONTH
+[U:1:1108886131] - bat 6
+[U:1:1107413641] - bat 13
+[U:1:1107856427] - bat 8
+[U:1:1192120625] - Chicago Cowboy
+[U:1:1107526033] - bat 14
+[U:1:1107485850] - bat 12
+[U:1:1107784951] - bat 26
+[U:1:1192422480] - DadPilled
+[U:1:1190857657] - (1)Hitch Trailblazer
+[U:1:1190520900] - Miss Maxine
+[U:1:1190375931] - Asriel
+[U:1:1190630554] - (1)WingsOfGhostsSon
+[U:1:1190857657] - Peppermint Swirl
+[U:1:1192422480] - DadPilled
+[U:1:1107866033] - bat 21
+[U:1:1107878236] - bat 4
+[U:1:1108922641] - bat 6
+[U:1:1107622630] - bat 11
+[U:1:1190477560] - (1)Skunkler
+[U:1:1177450026] - Miss Maxine
+[U:1:1190375931] - (1)MAGA Brony
+[U:1:1143944101] - Peppermint Swirl
+[U:1:1107784951] - bat 26
+[U:1:1190590122] - DadPilled
+[U:1:1131373529] - Peppermint Swirl
+[U:1:844492637] - Nac-Nud
+[U:1:1205045593] - (1)Stryker
+[U:1:1204776217] - (4)Stryker
+[U:1:1192026384] - Chicago Cowboy
+[U:1:1107889136] - bat 27
+[U:1:1107866033] - bat 21
+[U:1:1208147391] - Eigmabllz
+[U:1:1208293037] - Enigmbllz
+[U:1:1131373529] - Miss Maxine
+[U:1:1144141085] - MAGA Brony
+[U:1:1190626434] - Skunkler
+[U:1:1209398181] - vk.com/thenosok
+[U:1:1208710188] - vk.com/thenosok
+[U:1:1208998465] - vk.com/thenosok
+[U:1:1107866033] - Yoders
+[U:1:1107513286] - Dutch_Oven
+[U:1:459536875] - anonymous
+[U:1:1107557995] - Utah
+[U:1:1107622630] - knuffeltje
+[U:1:1117892479] - RushN_Ice
+[U:1:69728678] - trollwallis
+[U:1:1203730] - Peter_Swatson
+[U:1:35362770] - Jess a phres
+[U:1:1115730896] - braaaap 12
+[U:1:1107407584] - lukasckj
+[U:1:1163340629] - Asriel
+[U:1:1204776217] - Stryker
+[U:1:1177271705] - Peppermint Swirl
+[U:1:1213761010] - noob
+[U:1:1144004700] - Miss Maxine
+[U:1:1107513286] - bat 9
+[U:1:1133431749] - (1)MAGA Brony
+[U:1:837149353] - ()  Sky 
+[U:1:1215350461] - (1)The Scout That Follows U
+[U:1:1215431360] - The Scout That Follows U
+[U:1:1215151951] - (2)The Scout That Follows U
+[U:1:1204776217] - Stryker
+[U:1:1190488625] - WingsOfGhostsSon
+[U:1:1177271705] - DadPilled
+[U:1:1161720020] - Gun Loli's Server Enhancers
+[U:1:1104760553] - Gun Loli's Server Enhancers
+[U:1:1161822820] - Gun Loli's Server Enhancers
+[U:1:1161669928] - Gun Loli's Server Enhancers
+[U:1:1190450459] - Miss Maxine
+[U:1:1107889136] - bat 0
+[U:1:1208380510] - Eigmaballz
+[U:1:1107526033] - bat 6
+[U:1:1107557995] - bat 19
+[U:1:1208568510] - Enigmballz
+[U:1:1107566530] - bat 20
+[U:1:1133470344] - Peppermint Swirl
+[U:1:1208380510] - Eigmaballz
+[U:1:1192120625] - Miss Maxine
+[U:1:1143944101] - (1)Skunkler
+[U:1:1190606002] - MAGA Brony
+[U:1:1190626434] - (1)Asriel
+[U:1:1190590122] - Hitch Trailblazer
+[U:1:1207927425] - FUCK PRIDE MONTH
+[U:1:1108886131] - bat 6
+[U:1:1133282614] - (1)Skunkler
+[U:1:1107889136] - bat 4
+[U:1:1107520075] - bat 25
+[U:1:1108824961] - bat 2
+[U:1:1107878236] - bat 14
+[U:1:1107566530] - bat 28
+[U:1:1108829149] - bat 20
+[U:1:1190783473] - Skunkler
+[U:1:1107622630] - bat 11
+[U:1:1107962978] - bat 10
+[U:1:1107407584] - bat 4
+[U:1:1192422480] - (3)Skunkler
+[U:1:1163377410] - (1)Chicago Cowboy
+[U:1:1161669928] - Gun Loli's Server Enhancers
+[U:1:1108886131] - bat 19
+[U:1:1108922641] - bat 6
+[U:1:1107526033] - bat 0
+[U:1:1209398181] - vk.com/thenosok
+[U:1:1190477560] - Hitch Trailblazer
+[U:1:1133431749] - (1)Asriel
+[U:1:1107513286] - Dutch_Oven
+[U:1:1083698820] - Joe Mama
+[U:1:1107566530] - Skye! | fart.tf
+[U:1:459536875] - anonymous
+[U:1:1107557995] - Samgsung smart fridge gaming
+[U:1:1107653258] - Grandma
+[U:1:1107553312] - A u z 
+[U:1:1107555706] - Ryan the Up&Comming Fempyro
+[U:1:1190606002] - (1)MAGA Brony
+[U:1:1190477560] - (3)Skunkler
+[U:1:1205045593] - Stryker
+[U:1:1190857657] - MAGA Brony
+[U:1:1190375931] - Asriel
+[U:1:1087599737] - player_name
+[U:1:1107557995] - bat 16
+[U:1:1107874818] - bat 2
+[U:1:1107553312] - bat 15
+[U:1:1204776217] - Stryker
+[U:1:1205045593] - (4)Stryker
+[U:1:1214828116] - BOTKILLER
+[U:1:1107566530] - bat 20
+[U:1:1207927425] - FAGGOT KILLER
+[U:1:1109067283] - bat 26
+[U:1:1108829149] - bat 28
+[U:1:1107878236] - bat 4
+[U:1:1208545842] - Eigmallz
+[U:1:1190783473] - (1)Asriel
+[U:1:1163377410] - (1)Hitch Trailblazer
+[U:1:1190626434] - (1)Chicago Cowboy
+[U:1:1190488625] - DadPilled
+[U:1:1108886131] - bat 25
+[U:1:1192422480] - Hitch Trailblazer
+[U:1:1190630554] - (2)WingsOfGhostsSon
+[U:1:1190606002] - (1)Hitch Trailblazer
+[U:1:1133282614] - WingsOfGhostsSon
+[U:1:1107878236] - bat 4
+[U:1:1107962978] - bat 3
+[U:1:1107520075] - bat 25
+[U:1:1192026384] - DadPilled
+[U:1:1132043356] - MAGA Brony
+[U:1:1107748677] - bat 16
+[U:1:1208030943] - nigmaballz
+[U:1:1107342074] - bat 8
+[U:1:1186197906] - Peppermint Swirl
+[U:1:1190558084] - MAGA Brony
+[U:1:1107866033] - bat 21
+[U:1:1192422480] - Chicago Cowboy
+[U:1:1192026384] - (1)Asriel
+[U:1:1177271705] - MAGA Brony
+[U:1:1133282614] - Asriel
+[U:1:1190355293] - DadPilled
+[U:1:1107485850] - bat 12
+[U:1:1107874818] - bat 9
+[U:1:1107485850] - bat 12
+[U:1:1161720020] - Gun Loli's Server Enhancers
+[U:1:1161750751] - (1)Gun Loli's Server Enhance
+[U:1:1104760553] - Gun Loli's Server Enhancers
+[U:1:1144141085] - (1)MAGA Brony
+[U:1:1208545842] - Eigmallz
+[U:1:1107837718] - bat 0
+[U:1:1133470344] - Skunkler
+[U:1:1192120625] - Chicago Cowboy
+[U:1:1144004700] - Chicago Cowboy
+[U:1:1190857657] - Miss Maxine
+[U:1:1108698612] - bat 23
+[U:1:1107485850] - bat 12
+[U:1:1107526033] - bat 14
+[U:1:1107784951] - bat 26
+[U:1:1192422480] - DadPilled
+[U:1:1190626434] - (1)MAGA Brony
+[U:1:1190520900] - (1)Skunkler
+[U:1:1107342074] - bat 19
+[U:1:1107878236] - bat 4
+[U:1:1108829149] - bat 20
+[U:1:1107555706] - bat 24
+[U:1:1190375931] - Asriel
+[U:1:1133008458] - (1)MAGA Brony
+[U:1:1186197906] - Asriel
+[U:1:1192120625] - (1)MAGA Brony
+[U:1:1108886131] - bat 19
+[U:1:1144004700] - Miss Maxine
+[U:1:1190606002] - WingsOfGhostsSon
+[U:1:1107889136] - bat 27
+[U:1:1190558084] - (1)Hitch Trailblazer
+[U:1:1107485850] - bat 12
+[U:1:1208147391] - Eigmabllz
+[U:1:1208293037] - Enigmbllz
+[U:1:1208293037] - Enigmbllz
+[U:1:1208147391] - Eigmabllz
+[U:1:1190355293] - Chicago Cowboy
+[U:1:1161750751] - Gun Loli's Server Enhancers
+[U:1:1161720020] - Gun Loli's Server Enhancers
+[U:1:1190857657] - WingsOfGhostsSon
+[U:1:1144141085] - (2)Chicago Cowboy
+[U:1:1177271705] - (1)WingsOfGhostsSon
+[U:1:1141137098] - (2)Verify me www.botpolice.eu
+[U:1:1190590122] - DadPilled
+[U:1:1163377410] - Peppermint Swirl
+[U:1:1190626434] - Miss Maxine
+[U:1:1192120625] - (1)WingsOfGhostsSon
+[U:1:1177450026] - DadPilled
+[U:1:1133008458] - Hitch Trailblazer
+[U:1:1192422480] - Hitch Trailblazer
+[U:1:1190488625] - Asriel
+[U:1:1190783473] - (1)Asriel
+[U:1:1133282614] - Asriel
+[U:1:1208695765] - vk.com/thenosok
+[U:1:1208998465] - vk.com/thenosok
+[U:1:1209398181] - (1)vk.com/thenosok
+[U:1:1209163812] - vk.com/thenosok
+[U:1:1190487660] - Skunkler
+[U:1:1133008458] - DadPilled
+[U:1:1186197906] - Peppermint Swirl
+[U:1:1190477560] - Chicago Cowboy
+[U:1:35362770] - wvwen
+[U:1:69728678] - sd15146651
+[U:1:1107513286] - UnVatoSinVidaSocial
+[U:1:1107866033] - Yoders
+[U:1:1107555706] - bayhorrorfan
+[U:1:1107557995] - Mateo
+[U:1:1107653258] - WilD WiLlY WaNDeR
+[U:1:1107566530] - mralex
+[U:1:1107342074] - Femboi Pyro
+[U:1:1107784951] - RACIST DETECTIVE
+[U:1:459536875] - Tushkan
+[U:1:1107553312] - Lezik Zync
+[U:1:1107485850] - Reshi
+[U:1:1107485850] - Tomguy
+[U:1:1107513286] - seer62
+[U:1:1107566530] - NorthTheAssassin/trade.tf
+[U:1:1107866033] - Gooch Supreme
+[U:1:1190558084] - WingsOfGhostsSon
+[U:1:1133431749] - Hitch Trailblazer
+[U:1:1190355293] - (1)Hitch Trailblazer
+[U:1:1190375931] - Hitch Trailblazer
+[U:1:1190606002] - Chicago Cowboy
+[U:1:1205045593] - Stryker
+[U:1:1207738713] - YOUR SEXUALITY DOESNT MATTER
+[U:1:1163377410] - Skunkler
+[U:1:1144141085] - WingsOfGhostsSon
+[U:1:1190626434] - (1)Hitch Trailblazer
+[U:1:1190375931] - (3)MAGA Brony
+[U:1:1190630554] - Chicago Cowboy
+[U:1:1190774746] - (2)Skunkler
+[U:1:1107962978] - bat 1
+[U:1:1107553312] - bat 15
+[U:1:1106536089] - Freeon
+[U:1:1190520900] - Skunkler
+[U:1:1207916172] - (1)ANTI FAGGOT BOT
+[U:1:1207835526] - YOUR SEXUALITY DOESNT MATTER
+[U:1:1190418234] - FAGGOT KILLER
+[U:1:1208363482] - wally bot 7
+[U:1:1107342074] - bat 8
+[U:1:1208293037] - Enigmbllz
+[U:1:1192026384] - DadPilled
+[U:1:1190487660] - Peppermint Swirl
+[U:1:1190488625] - Asriel
+[U:1:1133282614] - (1)Peppermint Swirl
+[U:1:1190626434] - Chicago Cowboy
+[U:1:1108824961] - bat 27
+[U:1:1107520075] - bat 17
+[U:1:1133431749] - Hitch Trailblazer
+[U:1:1190520900] - WingsOfGhostsSon
+[U:1:1131373529] - Miss Maxine
+[U:1:1190606002] - MAGA Brony
+[U:1:1192026384] - Asriel
+[U:1:1107784951] - bat 26
+[U:1:1107622630] - bat 11
+[U:1:1208568510] - Enigmballz
+[U:1:1108751461] - bat 3
+[U:1:1107513286] - bat 17
+[U:1:1107889136] - bat 1
+[U:1:1107962978] - bat 10
+[U:1:1107874818] - bat 9
+[U:1:1208150701] - Eigmaallz
+[U:1:1143944101] - (1)DadPilled
+[U:1:1144141085] - WingsOfGhostsSon
+[U:1:1107485850] - bat 12
+[U:1:1208568510] - Enigmballz
+[U:1:1208568510] - Enigmballz
+[U:1:1207927425] - YOUR SEXUALITY DOESNT MATTER
+[U:1:1107553312] - bat 18
+[U:1:1208030943] - nigmaballz
+[U:1:1192422480] - MAGA Brony
+[U:1:1186197906] - (1)Asriel
+[U:1:1190450459] - Miss Maxine
+[U:1:1133282614] - Skunkler
+[U:1:1104760553] - Gun Loli's Server Enhancers
+[U:1:1133431749] - Peppermint Swirl
+[U:1:1107413641] - bat 13
+[U:1:1186197906] - Chicago Cowboy
+[U:1:1190606002] - Hitch Trailblazer
+[U:1:1207927425] - FUCK PRIDE MONTH
+[U:1:1133008458] - (1)WingsOfGhostsSon
+[U:1:1132043356] - Hitch Trailblazer
+[U:1:1107413641] - bat 13
+[U:1:1107856427] - bat 7
+[U:1:1108829149] - bat 20
+[U:1:1109067283] - bat 5
+[U:1:1107889136] - bat 27
+[U:1:1192120625] - Peppermint Swirl
+[U:1:1190630554] - (1)Asriel
+[U:1:1144141085] - Skunkler
+[U:1:1177450026] - (1)Hitch Trailblazer
+[U:1:1190857657] - WingsOfGhostsSon
+[U:1:1107520075] - bat 25
+[U:1:1131373529] - Asriel
+[U:1:1107513286] - bat 22
+[U:1:1208545842] - Eigmallz
+[U:1:1208030943] - nigmaballz
+[U:1:1107874818] - bat 8
+[U:1:1208147391] - Eigmabllz
+[U:1:1190558084] - (1)Miss Maxine
+[U:1:1208150701] - Eigmaallz
+[U:1:1190477560] - DadPilled
+[U:1:1190590122] - Chicago Cowboy
+[U:1:1190488625] - (1)DadPilled
+[U:1:1190375931] - Skunkler
+[U:1:1192026384] - Hitch Trailblazer
+[U:1:1192422480] - Asriel
+[U:1:1208693674] - vk.com/thenosok
+[U:1:1190487660] - Skunkler
+[U:1:1208969022] - (1)vk.com/thenosok
+[U:1:1208710188] - vk.com/thenosok
+[U:1:1208650151] - (1)vk.com/thenosok
+[U:1:1208797283] - vk.com/thenosok
+[U:1:1107485850] - Walfools
+[U:1:459536875] - anonymous
+[U:1:1107784951] - Painguin
+[U:1:1107557995] - Slurz
+[U:1:1107653258] - Silver Player
+[U:1:1107866033] - RACIST MAO
+[U:1:1107555706] -  
+[U:1:1107557995] - RACIST PIMP
+[U:1:1107566530] - TrashCat
+[U:1:1107513286] - A Block of Cheese
+[U:1:1107413641] - Johnny Hairdo
+[U:1:1107557995] - RACIST PIMP
+[U:1:1107513286] - A Block of Cheese
+[U:1:1107866033] - RACIST MAO
+[U:1:1107407584] - Its Cody
+[U:1:1107413641] - Johnny Hairdo
+[U:1:1107555706] -  
+[U:1:1107962978] - bat 1
+[U:1:1190590122] - Asriel
+[U:1:1190381151] - Hitch Trailblazer
+[U:1:1144141085] - Skunkler
+[U:1:1106536089] - Freeon
+[U:1:1214828116] - BOTKILLER
+[U:1:1131373529] - (1)Chicago Cowboy
+[U:1:1192026384] - DadPilled
+[U:1:1163377410] - Miss Maxine
+[U:1:1190783473] - Hitch Trailblazer
+[U:1:1108824961] - bat 1
+[U:1:1107653258] - bat 7
+[U:1:1108829149] - bat 28
+[U:1:1107413641] - bat 13
+[U:1:1108886131] - bat 6
+[U:1:1107485850] - bat 12
+[U:1:1190590122] - Chicago Cowboy
+[U:1:1143944101] - Miss Maxine
+[U:1:1133431749] - (1)Chicago Cowboy
+[U:1:1190387801] - DadPilled
+[U:1:1205045593] - (1)Stryker
+[U:1:1204776217] - (3)Stryker
+[U:1:1190450459] - MAGA Brony
+[U:1:1208545842] - Eigmallz
+[U:1:1107653258] - bat 7
+[U:1:1107555706] - bat 24
+[U:1:1133008458] - Hitch Trailblazer
+[U:1:1190783473] - WingsOfGhostsSon
+[U:1:1108751461] - bat 3
+[U:1:1144141085] - Asriel
+[U:1:1190630554] - (1)Asriel
+[U:1:1190488625] - (1)Chicago Cowboy
+[U:1:1192422480] - (3)Hitch Trailblazer
+[U:1:1107553312] - bat 18
+[U:1:1205045593] - (4)Stryker
+[U:1:1204776217] - (2)Stryker
+[U:1:1190375931] - DadPilled
+[U:1:1190857657] - (1)DadPilled
+[U:1:1132043356] - WingsOfGhostsSon
+[U:1:1108922641] - bat 6
+[U:1:1107874818] - bat 8
+[U:1:1204776217] - (4)Stryker
+[U:1:1205045593] - (1)Stryker
+[U:1:1163377410] - WingsOfGhostsSon
+[U:1:1133431749] - Miss Maxine
+[U:1:1186197906] - Chicago Cowboy
+[U:1:1208150701] - Eigmaallz
+[U:1:1208030943] - nigmaballz
+[U:1:1209163812] - vk.com/thenosok
+[U:1:1107622630] - legitify
+[U:1:1107866033] - fin1
+[U:1:1107413641] - justinskittles
+[U:1:1107784951] - Ultraviolet darling
+[U:1:1177450026] - DadPilled
+[U:1:1190868938] - Asriel
+[U:1:1190630554] - MAGA Brony
+[U:1:1190868938] - WingsOfGhostsSon
+[U:1:1107784951] - bat 19
+[U:1:1208199107] - FAGGOT KILLER
+[U:1:1143944101] - MAGA Brony
+[U:1:87226203] - Wooper
+[U:1:1192120625] - Miss Maxine
+[U:1:1163377410] - Chicago Cowboy
+[U:1:1107889136] - bat 0
+[U:1:1208147391] - Eigmabllz
+[U:1:1208545842] - Eigmallz
+[U:1:1208380510] - Eigmaballz
+[U:1:1208150701] - Eigmaallz
+[U:1:1161822820] - Gun Loli's Server Enhancers
+[U:1:1107557995] - bat 19
+[U:1:1208243613] - Enigmabllz
+[U:1:1208243613] - Enigmabllz
+[U:1:1107557995] - bat 19
+[U:1:1208568510] - Enigmballz
+[U:1:1208474057] - Enigmaallz
+[U:1:1208537489] - Enigmallz
+[U:1:1107856427] - bat 21
+[U:1:1107837718] - bat 2
+[U:1:1208147391] - Eigmabllz
+[U:1:1208030943] - nigmaballz
+[U:1:1208545842] - Eigmallz
+[U:1:1192422480] - WingsOfGhostsSon
+[U:1:1107653258] - bat 7
+[U:1:1190520900] - Skunkler
+[U:1:1108829149] - bat 28
+[U:1:1107342074] - bat 8
+[U:1:1107566530] - bat 20
+[U:1:1107784951] - bat 26
+[U:1:1133008458] - Miss Maxine
+[U:1:1131373529] - (1)Hitch Trailblazer
+[U:1:1190783473] - Hitch Trailblazer
+[U:1:157388780] - Womble
+[U:1:1137623557] - pistol
+[U:1:1190477560] - DadPilled
+[U:1:1177271705] - (1)Asriel
+[U:1:1192026384] - WingsOfGhostsSon
+[U:1:1133431749] - (1)Chicago Cowboy
+[U:1:1190375931] - Peppermint Swirl
+[U:1:1109067283] - bat 5
+[U:1:1107407584] - bat 27
+[U:1:1190783473] - Hitch Trailblazer
+[U:1:1144141085] - (2)Peppermint Swirl
+[U:1:1107866033] - bat 21
+[U:1:1180922934] - Wally's Anti Faggotry SS Legion
+[U:1:1133282614] - (1)DadPilled
+[U:1:1190626434] - (1)Chicago Cowboy
+[U:1:1190630554] - (1)Asriel
+[U:1:1190487660] - Peppermint Swirl
+[U:1:1163377410] - (1)Peppermint Swirl
+[U:1:1190606002] - Miss Maxine
+[U:1:1190590122] - Skunkler
+[U:1:1194660221] - sudo apt install crithack
+[U:1:1132043356] - MAGA Brony
+[U:1:1133282614] - (1)MAGA Brony
+[U:1:1143944101] - (1)WingsOfGhostsSon
+[U:1:1190487660] - Asriel
+[U:1:1108698612] - bat 13
+[U:1:1208150701] - Eigmaallz
+[U:1:1104760553] - Gun Loli's Server Enhancers
+[U:1:1190783473] - (1)Peppermint Swirl
+[U:1:1144141085] - (2)Skunkler
+[U:1:1190520900] - WingsOfGhostsSon
+[U:1:1190857657] - (2)WingsOfGhostsSon
+[U:1:1108922641] - bat 6
+[U:1:1208568510] - Enigmballz
+[U:1:1107866033] - bat 21
+[U:1:1107526033] - bat 0
+[U:1:1132043356] - Miss Maxine
+[U:1:1177450026] - Chicago Cowboy
+[U:1:1208545842] - Eigmallz
+[U:1:1190450459] - Peppermint Swirl
+[U:1:1190488625] - Skunkler
+[U:1:1177271705] - (1)Peppermint Swirl
+[U:1:1144004700] - WingsOfGhostsSon
+[U:1:1133008458] - Skunkler
+[U:1:1209134893] - vk.com/thenosok
+[U:1:1208927594] - vk.com/thenosok
+[U:1:1133282614] - MAGA Brony
+[U:1:1107653258] - hot load
+[U:1:1107485850] - Box Of Thin Mints
+[U:1:1107557995] - MysticLucario
+[U:1:459536875] - anonymous
+[U:1:1203730] - Peter_Swatson
+[U:1:69728678] - trollwallis
+[U:1:35362770] - Jess a phres
+[U:1:1115730896] - braaaap 12
+[U:1:1117892479] - RushN_Ice
+[U:1:1190558084] - WingsOfGhostsSon
+[U:1:1131373529] - Chicago Cowboy
+[U:1:1143944101] - (1)Hitch Trailblazer
+[U:1:1133282614] - DadPilled
+[U:1:1190590122] - Asriel
+[U:1:1190857657] - (1)DadPilled
+[U:1:1192120625] - MAGA Brony
+[U:1:1190868938] - DadPilled
+[U:1:1186197906] - Hitch Trailblazer
+[U:1:1144141085] - (2)Miss Maxine
+[U:1:1133282614] - Miss Maxine
+[U:1:1190590122] - Skunkler
+[U:1:1190487660] - Chicago Cowboy
+[U:1:1192026384] - DadPilled
+[U:1:1132043356] - Asriel
+[U:1:1192422480] - (1)WingsOfGhostsSon
+[U:1:1133431749] - Skunkler
+[U:1:1144141085] - MAGA Brony
+[U:1:1133470344] - (2)Skunkler
+[U:1:1190520900] - Hitch Trailblazer
+[U:1:1190487660] - Skunkler
+[U:1:1190606002] - Hitch Trailblazer
+[U:1:1163377410] - Chicago Cowboy
+[U:1:1186197906] - Asriel
+[U:1:1204776217] - (2)Stryker
+[U:1:1205045593] - (1)Stryker
+[U:1:1192120625] - WingsOfGhostsSon
+[U:1:1144141085] - (2)Hitch Trailblazer
+[U:1:1190488625] - (2)Miss Maxine
+[U:1:1133470344] - DadPilled
+[U:1:1186197906] - (1)Chicago Cowboy
+[U:1:1190626434] - Peppermint Swirl
+[U:1:1107513286] - bat 15
+[U:1:1107874818] - bat 9
+[U:1:1204776217] - (2)Stryker
+[U:1:1200578779] - tugaenkotima
+[U:1:1190590122] - WingsOfGhostsSon
+[U:1:1133431749] - (3)Skunkler
+[U:1:1190488625] - Miss Maxine
+[U:1:1177450026] - (1)WingsOfGhostsSon
+[U:1:1190355293] - (1)Chicago Cowboy
+[U:1:1190487660] - DadPilled
+[U:1:1132043356] - MAGA Brony
+[U:1:1177271705] - (2)MAGA Brony
+[U:1:1190626434] - (1)Miss Maxine
+[U:1:1205045593] - (2)Stryker
+[U:1:1108751461] - bat 3
+[U:1:1107557995] - bat 15
+[U:1:1137623557] - pistol
+[U:1:10614531] - blackrhaven
+[U:1:1190857657] - (2)Peppermint Swirl
+[U:1:1208545842] - Eigmallz
+[U:1:1214828116] - BOTKILLER
+[U:1:1107520075] - bat 25
+[U:1:1133008458] - Skunkler
+[U:1:1186197906] - Miss Maxine
+[U:1:1190630554] - Hitch Trailblazer
+[U:1:1190626434] - Miss Maxine
+[U:1:1192120625] - Asriel
+[U:1:1108829149] - bat 20
+[U:1:1190857657] - (1)Hitch Trailblazer
+[U:1:1107622630] - bat 11
+[U:1:1107856427] - bat 7
+[U:1:1107485850] - bat 12
+[U:1:1108886131] - bat 19
+[U:1:1163377410] - Peppermint Swirl
+[U:1:1190477560] - WingsOfGhostsSon
+[U:1:1190375931] - Skunkler
+[U:1:1208650151] - vk.com/thenosok
+[U:1:1186197906] - (1)Miss Maxine
+[U:1:1192422480] - Peppermint Swirl
+[U:1:1190375931] - (1)Skunkler
+[U:1:1208927594] - vk.com/thenosok
+[U:1:1107513286] - LesbyKissy
+[U:1:1107622630] - Lkai
+[U:1:1216069048] - Mikasa kills Eren AOT S4 Part 2
+[U:1:1107622630] - legitify
+[U:1:1107866033] - fin1
+[U:1:1107485850] - Piplover
+[U:1:459536875] - Tushkan
+[U:1:1107342074] - Femboi Pyro
+[U:1:1107784951] - RACIST DETECTIVE
+[U:1:35362770] - Jess a phres
+[U:1:1203730] - Peter_Swatson
+[U:1:69728678] - trollwallis
+[U:1:1117892479] - RushN_Ice
+[U:1:1115730896] - braaaap 12
+[U:1:1190868938] - Hitch Trailblazer
+[U:1:1190857657] - Skunkler
+[U:1:1143944101] - WingsOfGhostsSon
+[U:1:1207927425] - FUCK TRANS RIGHTS
+[U:1:1107485850] - Triten
+[U:1:1208363482] - Wally's Anti Faggotry SS Legion
+[U:1:1107342074] - bat 8
+[U:1:1107553312] - bat 15
+[U:1:1131373529] - Chicago Cowboy
+[U:1:1133008458] - (1)Asriel
+[U:1:1132043356] - (1)Asriel
+[U:1:1207835526] - YOUR SEXUALITY DOESNT MATTER
+[U:1:1207927425] - ANTI FAGGOT BOT
+[U:1:1106536089] - Freeon
+[U:1:1107566530] - bat 20
+[U:1:1204776217] - Stryker
+[U:1:1205045593] - (4)Stryker
+[U:1:1133431749] - Chicago Cowboy
+[U:1:1107889136] - bat 0
+[U:1:1108829149] - bat 28
+[U:1:1107653258] - bat 7
+[U:1:1192026384] - DadPilled
+[U:1:1190487660] - Peppermint Swirl
+[U:1:1190783473] - WingsOfGhostsSon
+[U:1:1107874818] - bat 3
+[U:1:1208537489] - Enigmallz
+[U:1:1107526033] - bat 6
+[U:1:1208293037] - Enigmbllz
+[U:1:1208380510] - Eigmaballz
+[U:1:1190626434] - MAGA Brony
+[U:1:1144141085] - DadPilled
+[U:1:1208380510] - Eigmaballz
+[U:1:1186197906] - Hitch Trailblazer
+[U:1:1190387801] - WingsOfGhostsSon
+[U:1:1107784951] - bat 26
+[U:1:1107485850] - bat 12
+[U:1:1108751461] - bat 3
+[U:1:1107553312] - bat 18
+[U:1:1108829149] - bat 28
+[U:1:1208030943] - nigmaballz
+[U:1:1190626434] - (1)MAGA Brony
+[U:1:1161720020] - Gun Loli's Server Enhancers
+[U:1:1144141085] - Skunkler
+[U:1:1161750751] - Gun Loli's Server Enhancers
+[U:1:1161669928] - Gun Loli's Server Enhancers
+[U:1:1207927425] - FUCK PRIDE MONTH
+[U:1:1133008458] - Hitch Trailblazer
+[U:1:1190606002] - Chicago Cowboy
+[U:1:1107653258] - bat 9
+[U:1:1133431749] - Peppermint Swirl
+[U:1:1107485850] - bat 12
+[U:1:1107653258] - bat 9
+[U:1:1107520075] - bat 25
+[U:1:1107889136] - bat 27
+[U:1:1107407584] - bat 4
+[U:1:1208147391] - Eigmabllz
+[U:1:320112900] - Luna Lux
+[U:1:1190626434] - Miss Maxine
+[U:1:1190375931] - DadPilled
+[U:1:1107962978] - bat 1
+[U:1:1107962978] - bat 1
+[U:1:1144004700] - (1)Miss Maxine
+[U:1:1107866033] - bat 10
+[U:1:1214828116] - BOTKILLER
+[U:1:1205045593] - Stryker
+[U:1:1190477560] - (1)Chicago Cowboy
+[U:1:1177271705] - MAGA Brony
+[U:1:1108886131] - bat 25
+[U:1:1107553312] - bat 15
+[U:1:1133431749] - Miss Maxine
+[U:1:1107407584] - bat 18
+[U:1:1126798326] - Thaaking2k
+[U:1:1133008458] - Chicago Cowboy
+[U:1:1186197906] - Hitch Trailblazer
+[U:1:1163377410] - (1)Peppermint Swirl
+[U:1:1107748677] - bat 16
+[U:1:1208380510] - Eigmaballz
+[U:1:1208474057] - Enigmaallz
+[U:1:1107407584] - bat 27
+[U:1:1107413641] - bat 13
+[U:1:1208147391] - Eigmabllz
+[U:1:1190857657] - DadPilled
+[U:1:1144141085] - Chicago Cowboy
+[U:1:1107520075] - bat 25
+[U:1:1190487660] - MAGA Brony
+[U:1:1161822820] - Gun Loli's Server Enhancers
+[U:1:1161750751] - (1)Gun Loli's Server Enhance
+[U:1:1161720020] - Gun Loli's Server Enhancers
+[U:1:1104760553] - Gun Loli's Server Enhancers
+[U:1:1161669928] - Gun Loli's Server Enhancers
+[U:1:1190355293] - (1)MAGA Brony
+[U:1:1107520075] - bat 25
+[U:1:1109067283] - bat 5
+[U:1:1108886131] - bat 6
+[U:1:1214046500] - prestigiouspickle6
+[U:1:1108751461] - bat 3
+[U:1:1190630554] - (1)Chicago Cowboy
+[U:1:1107653258] - bat 9
+[U:1:1108751461] - bat 3
+[U:1:1107520075] - bat 25
+[U:1:1108698612] - bat 23
+[U:1:1107342074] - bat 18
+[U:1:1107878236] - bat 14
+[U:1:1190558084] - Peppermint Swirl
+[U:1:1190477560] - Chicago Cowboy
+[U:1:1177450026] - MAGA Brony
+[U:1:1192120625] - (1)MAGA Brony
+[U:1:1186197906] - WingsOfGhostsSon
+[U:1:1190590122] - (1)Skunkler
+[U:1:1108886131] - bat 19
+[U:1:1107874818] - bat 8
+[U:1:1107889136] - bat 27
+[U:1:1107526033] - bat 0
+[U:1:1208293037] - Enigmbllz
+[U:1:1208147391] - Eigmabllz
+[U:1:1167426087] - Kurisu
+[U:1:1208030943] - nigmaballz
+[U:1:1208150701] - Eigmaallz
+[U:1:1190590122] - Chicago Cowboy
+[U:1:1192422480] - WingsOfGhostsSon
+[U:1:1143944101] - Hitch Trailblazer
+[U:1:1190590122] - Chicago Cowboy
+[U:1:1216069048] - Mikasa kills Eren AOT S4 Part 2
+[U:1:1107555706] - Nikolaire
+[U:1:1107557995] - Mike Oxlong 357
+[U:1:1107413641] - PVZImp
+[U:1:1107513286] - LeafBoy
+[U:1:1107622630] - KingSplugorf
+[U:1:1107520075] - Ball Cancer
+[U:1:1107342074] - MadMeatball
+[U:1:1107407584] - FishMann
+[U:1:1107866033] - fin1
+[U:1:1190558084] - Skunkler
+[U:1:1144141085] - Skunkler
+[U:1:1177271705] - Asriel
+[U:1:492762157] - Jv.
+[U:1:1177450026] - DadPilled
+[U:1:1107748677] - bat 5
+[U:1:1107622630] - bat 11
+[U:1:1190783473] - Peppermint Swirl
+[U:1:1144141085] - WingsOfGhostsSon
+[U:1:1107889136] - bat 0
+[U:1:1107874818] - bat 2
+[U:1:1190558084] - Hitch Trailblazer
+[U:1:1205045593] - Stryker
+[U:1:1143944101] - Miss Maxine
+[U:1:1107856427] - bat 21
+[U:1:1108698612] - bat 23
+[U:1:1108922641] - bat 22
+[U:1:1107856427] - bat 21
+[U:1:1107962978] - bat 1
+[U:1:1207835526] - FAGGOT KILLER
+[U:1:1161720020] - Explosion Loli
+[U:1:1161669928] - Gun Loli's Server Enhancers
+[U:1:1104760553] - Gun Loli's Server Enhancer
+[U:1:1161822820] - Gun Loli's Server Enhancers
+[U:1:1133470344] - (1)Skunkler
+[U:1:1177450026] - Skunkler
+[U:1:1208545842] - Eigmallz
+[U:1:1108824961] - bat 1
+[U:1:371276750] - Playing Alone
+[U:1:1190606002] - MAGA Brony
+[U:1:1133431749] - DadPilled
+[U:1:1190387801] - WingsOfGhostsSon
+[U:1:1190520900] - MAGA Brony
+[U:1:1190626434] - DadPilled
+[U:1:1143944101] - (1)MAGA Brony
+[U:1:1214828116] - BOTKILLER
+[U:1:1144141085] - MAGA Brony
+[U:1:1190626434] - (1)DadPilled
+[U:1:1107566530] - bat 20
+[U:1:1107342074] - bat 8
+[U:1:1108829149] - bat 28
+[U:1:1107784951] - bat 26
+[U:1:1208380510] - Eigmaballz
+[U:1:1208243613] - Enigmabllz
+[U:1:1208293037] - Enigmbllz
+[U:1:1109067283] - bat 5
+[U:1:1107566530] - bat 20
+[U:1:1190520900] - Chicago Cowboy
+[U:1:1107555706] - bat 24
+[U:1:1107866033] - bat 21
+[U:1:1107485850] - bat 12
+[U:1:1208545842] - Eigmallz
+[U:1:1190558084] - Miss Maxine
+[U:1:1133470344] - MAGA Brony
+[U:1:1163377410] - WingsOfGhostsSon
+[U:1:1177450026] - (1)Chicago Cowboy
+[U:1:1107526033] - bat 14
+[U:1:1107622630] - bat 11
+[U:1:1107874818] - bat 8
+[U:1:1132043356] - Peppermint Swirl
+[U:1:1108829149] - bat 20
+[U:1:1144004700] - DadPilled
+[U:1:1192422480] - WingsOfGhostsSon
+[U:1:1190488625] - Miss Maxine
+[U:1:1107878236] - bat 4
+[U:1:1108922641] - bat 6
+[U:1:1177450026] - WingsOfGhostsSon
+[U:1:1143944101] - Skunkler
+[U:1:1133282614] - Asriel
+[U:1:1108886131] - bat 19
+[U:1:1190783473] - Skunkler
+[U:1:1107866033] - bat 21
+[U:1:1107878236] - bat 14
+[U:1:1107784951] - bat 26
+[U:1:1190375931] - (2)Asriel
+[U:1:1177450026] - Chicago Cowboy
+[U:1:1131373529] - MAGA Brony
+[U:1:1107520075] - bat 25
+[U:1:1107784951] - bat 26
+[U:1:1190520900] - (1)MAGA Brony
+[U:1:1107889136] - bat 27
+[U:1:1107889136] - bat 27
+[U:1:1208611617] - Eigmbllz
+[U:1:1107520075] - bat 25
+[U:1:1208474057] - Enigmaallz
+[U:1:1108698612] - bat 13
+[U:1:1208380510] - Eigmaballz
+[U:1:1108698612] - bat 13
+[U:1:1192026384] - (1)Skunkler
+[U:1:1190606002] - MAGA Brony
+[U:1:1177271705] - Asriel
+[U:1:1208030943] - nigmaballz
+[U:1:1133282614] - (2)Chicago Cowboy
+[U:1:1190626434] - Miss Maxine
+[U:1:1190477560] - DadPilled
+[U:1:1133008458] - Asriel
+[U:1:1190558084] - Hitch Trailblazer
+[U:1:1190520900] - (1)DadPilled
+[U:1:1190488625] - Skunkler
+[U:1:1132043356] - (2)DadPilled
+[U:1:1192026384] - Chicago Cowboy
+[U:1:1192120625] - WingsOfGhostsSon
+[U:1:1190857657] - (1)Asriel
+[U:1:1190487660] - Hitch Trailblazer
+[U:1:1208969022] - vk.com/thenosok
+[U:1:1131373529] - Hitch Trailblazer
+[U:1:1209398181] - vk.com/thenosok
+[U:1:1204776217] - Stryker
+[U:1:1192120625] - Hitch Trailblazer
+[U:1:1190381151] - (2)Skunkler
+[U:1:1133431749] - (1)MAGA Brony
+[U:1:1108886131] - bat 25
+[U:1:1107874818] - bat 2
+[U:1:1108698612] - bat 23
+[U:1:1190783473] - DadPilled
+[U:1:1133470344] - Miss Maxine
+[U:1:1087599737] - Neko <3
+[U:1:1144004700] - DadPilled
+[U:1:1107520075] - bat 17
+[U:1:1204776217] - Stryker
+[U:1:1108698612] - bat 23
+[U:1:1107520075] - bat 17
+[U:1:1108824961] - bat 27
+[U:1:1214828116] - BOTKILLER
+[U:1:1107553312] - bat 15
+[U:1:1205045593] - (1)Stryker
+[U:1:1204776217] - (2)Stryker
+[U:1:1137623557] - how many
+[U:1:1208243613] - Enigmabllz
+[U:1:1208474057] - Enigmaallz
+[U:1:1208568510] - Enigmballz
+[U:1:1208293037] - Enigmbllz
+[U:1:1208611617] - Eigmbllz
+[U:1:1186197906] - Peppermint Swirl
+[U:1:1163377410] - Asriel
+[U:1:1161750751] - Gun Loli's Server Enhancers
+[U:1:1161720020] - Gun Loli's Server Enhancers
+[U:1:1161669928] - Gun Loli's Server Enhancers
+[U:1:1161822820] - Gun Loli's Server Enhancers
+[U:1:1104760553] - Gun Loli's Server Enhancers
+[U:1:1107622630] - bat 11
+[U:1:1107485850] - bat 12
+[U:1:1107889136] - bat 1
+[U:1:1190387801] - (1)Asriel
+[U:1:1190520900] - (1)Peppermint Swirl
+[U:1:1132043356] - Hitch Trailblazer
+[U:1:1133470344] - (1)Skunkler
+[U:1:1133008458] - (2)Peppermint Swirl
+[U:1:1190487660] - MAGA Brony
+[U:1:1180922934] - ANTI TRANNY BOT
+[U:1:1107856427] - bat 7
+[U:1:1143944101] - Peppermint Swirl
+[U:1:1107557995] - bat 15
+[U:1:1205045593] - Stryker
+[U:1:1204776217] - (3)Stryker
+[U:1:1107878236] - bat 4
+[U:1:1190488625] - Miss Maxine
+[U:1:1190450459] - (1)DadPilled
+[U:1:1144141085] - WingsOfGhostsSon
+[U:1:1107566530] - bat 28
+[U:1:1108829149] - bat 20
+[U:1:1107784951] - bat 26
+[U:1:1179423126] - Verify me www.botpolice.eu
+[U:1:1204776217] - Stryker
+[U:1:1108829149] - bat 20
+[U:1:1108886131] - bat 19
+[U:1:1107413641] - bat 22
+[U:1:1107342074] - bat 18
+[U:1:1107553312] - bat 16
+[U:1:1107866033] - bat 21
+[U:1:1107748677] - bat 1
+[U:1:1205045593] - (4)Stryker
+[U:1:1208147391] - Eigmabllz
+[U:1:1208293037] - Enigmbllz
+[U:1:1190450459] - Peppermint Swirl
+[U:1:1190375931] - WingsOfGhostsSon
+[U:1:1190558084] - DadPilled
+[U:1:1208150701] - Eigmaallz
+[U:1:1208293037] - Enigmbllz
+[U:1:1208293037] - Enigmbllz
+[U:1:1087599737] - Neko <3
+[U:1:1177271705] - Asriel
+[U:1:1216069048] - Mikasa kills Eren AOT
+[U:1:1208433766] - vk.com/thenosok
+[U:1:1208710188] - vk.com/thenosok
+[U:1:1208969022] - (1)vk.com/thenosok
+[U:1:1216069048] - Mikasa kills Eren AOT S4 Part 2
+[U:1:1133008458] - DadPilled
+[U:1:1190590122] - (2)Asriel
+[U:1:1163377410] - Asriel
+[U:1:1177271705] - Hitch Trailblazer
+[U:1:1107962978] - bat 1
+[U:1:1107566530] - bat 20
+[U:1:1190868938] - (1)DadPilled
+[U:1:1190774746] - (1)Miss Maxine
+[U:1:1213481727] - Pacifist Medical Services
+[U:1:1190606002] - MAGA Brony
+[U:1:1107784951] - bat 19
+[U:1:1106536089] - Freeon
+[U:1:1208199107] - Wally's Anti Faggotry SS Legion
+[U:1:1208150701] - Eigmaallz
+[U:1:1208243613] - Enigmabllz
+[U:1:1208199107] - Wally's Anti Faggotry SS Legion
+[U:1:1208545842] - Eigmallz
+[U:1:1208243613] - Enigmabllz
+[U:1:1208380510] - Eigmaballz
+[U:1:1208545842] - Eigmallz
+[U:1:1208568510] - Enigmballz
+[U:1:1192026384] - (1)Peppermint Swirl
+[U:1:1208380510] - Eigmaballz
+[U:1:1133282614] - DadPilled
+[U:1:1190783473] - Peppermint Swirl
+[U:1:1190387801] - DadPilled
+[U:1:1143944101] - (1)Asriel
+[U:1:1190558084] - MAGA Brony
+[U:1:1190606002] - WingsOfGhostsSon
+[U:1:1107856427] - bat 21
+[U:1:1190450459] - (1)Miss Maxine
+[U:1:1190626434] - Chicago Cowboy
+[U:1:1190477560] - WingsOfGhostsSon
+[U:1:1133470344] - Miss Maxine
+[U:1:1190783473] - Asriel
+[U:1:1186197906] - Hitch Trailblazer
+[U:1:1190477560] - DadPilled
+[U:1:1177271705] - (1)Chicago Cowboy
+[U:1:1192422480] - (2)DadPilled
+[U:1:1190558084] - (1)Hitch Trailblazer
+[U:1:1208474057] - Enigmaallz
+[U:1:1107513286] - bat 17
+[U:1:1208147391] - Eigmabllz
+[U:1:1107526033] - bat 14
+[U:1:1143944101] - (1)Chicago Cowboy
+[U:1:1190626434] - DadPilled
+[U:1:1190558084] - Skunkler
+[U:1:1190626434] - Peppermint Swirl
+[U:1:1177450026] - MAGA Brony
+[U:1:1214828116] - I forgot to edit names.txt
+[U:1:1108829149] - bat 20
+[U:1:369119815] - senzawa
+[U:1:1107874818] - bat 8
+[U:1:1190606002] - (1)DadPilled
+[U:1:1131373529] - (1)Asriel
+[U:1:1107837718] - bat 0
+[U:1:1107520075] - bat 25
+[U:1:1107622630] - bat 11
+[U:1:1144141085] - Miss Maxine
+[U:1:1190857657] - Asriel
+[U:1:1192026384] - WingsOfGhostsSon
+[U:1:1190487660] - Hitch Trailblazer
+[U:1:1190590122] - Asriel
+[U:1:1190355293] - Miss Maxine
+[U:1:1192120625] - (2)Asriel
+[U:1:1190558084] - Chicago Cowboy
+[U:1:1186197906] - Peppermint Swirl
+[U:1:1190355293] - Skunkler
+[U:1:1192422480] - (1)Chicago Cowboy
+[U:1:1190520900] - Peppermint Swirl
+[U:1:1190477560] - (1)DadPilled
+[U:1:1208969022] - vk.com/thenosok
+[U:1:1209134893] - vk.com/thenosok
+[U:1:1208502556] - (1)vk.com/thenosok
+[U:1:1208710188] - vk.com/thenosok
+[U:1:1190355293] - Miss Maxine
+[U:1:1131373529] - WingsOfGhostsSon
+[U:1:1190375931] - (3)Miss Maxine
+[U:1:1208652884] - vk.com/thenosok
